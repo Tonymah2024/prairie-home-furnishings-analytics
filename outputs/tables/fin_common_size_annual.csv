@@ -1,0 +1,35 @@
+key,2024,2025,2026,label,data_status
+sales_sofas,32.64,31.73,35.24,Sofas & sectionals,SIMULATED
+sales_bedroom,20.23,18.42,18.55,Bedroom,SIMULATED
+sales_mattress,9.47,9.75,9.07,Mattresses & bases,SIMULATED
+sales_dining,24.14,25.68,22.76,Dining,SIMULATED
+sales_living,12.8,13.09,13.24,Living & occasional,SIMULATED
+sales_office,0.77,1.01,0.71,Home office,SIMULATED
+sales_decor,6.66,6.22,6.84,Décor & lighting,SIMULATED
+gross_sales,106.71,105.91,106.41,Gross furniture sales,SIMULATED
+discounts,-6.3,-6.14,-6.33,Less: discounts & promotional allowances,SIMULATED
+returns,-1.52,-0.78,-0.91,Less: sales returns,SIMULATED
+net_sales,98.89,98.99,99.18,Net furniture sales,SIMULATED
+plan_comm,0.5,0.55,0.48,"Protection-plan commissions (agent, net)",SIMULATED
+restock_fees,0.23,0.12,0.14,Restocking fees,SIMULATED
+cancel_fees,0.38,0.34,0.2,Retained cancellation fees,SIMULATED
+net_rev,100.0,100.0,100.0,Total net revenue,SIMULATED
+cogs_merch,-54.01,-54.0,-54.39,Cost of goods sold - merchandise,SIMULATED
+freight_in,-2.18,-2.29,-2.21,Freight-in & supplier charges,SIMULATED
+inv_var,-0.56,-0.55,-0.55,"Inventory variances, shrinkage & write-offs",SIMULATED
+cogs,-56.75,-56.84,-57.15,Cost of goods sold,SIMULATED
+gross_profit,43.25,43.16,42.85,Gross profit,SIMULATED
+emp_comp,-16.82,-16.29,-15.8,Employee compensation (incl. commissions & designers),SIMULATED
+occupancy,-8.52,-7.93,-7.49,"Occupancy (rent, CAM & property tax, utilities)",SIMULATED
+marketing,-5.17,-5.17,-4.9,Marketing & advertising,SIMULATED
+g_and_a,-2.23,-2.08,-1.97,"General & administrative (insurance, professional, IT)",SIMULATED
+warehouse,-0.86,-0.84,-0.81,"Warehouse, fulfilment & design-consult costs",SIMULATED
+fees,-2.27,-2.38,-2.37,Card & financing-partner fees,SIMULATED
+opex,-35.88,-34.7,-33.32,Operating expenses (before depreciation),SIMULATED
+ebitda,7.37,8.47,9.53,EBITDA,SIMULATED
+da,-1.14,-1.16,-0.9,Depreciation,SIMULATED
+ebit,6.23,7.31,8.63,Operating income (EBIT),SIMULATED
+interest,-0.44,-0.23,-0.13,Interest expense,SIMULATED
+pbt,5.79,7.08,8.51,Income before tax,SIMULATED
+tax,-0.65,-1.01,-1.19,Income taxes,SIMULATED
+net_income,5.14,6.08,7.32,Net income,SIMULATED

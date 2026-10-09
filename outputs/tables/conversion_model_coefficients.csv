@@ -1,0 +1,28 @@
+feature,coefficient,data_status
+c__customer_type_Student / first apartment,-0.41112239230401376,SYNTHETIC
+c__acquisition_channel_Google search,-0.2867046895143241,SYNTHETIC
+c__consultation_type_Virtual design consult,-0.23317024700389874,SYNTHETIC
+c__designer_id_DSN-03,-0.23185829819345732,SYNTHETIC
+n__log_quote,-0.13258428579525308,SYNTHETIC
+c__consultation_type_In-store design consult,-0.08656017174063872,SYNTHETIC
+c__customer_type_Condo / apartment,-0.057212204829670724,SYNTHETIC
+c__customer_type_Homeowner,-0.04561400102548796,SYNTHETIC
+c__acquisition_channel_Referral / word of mouth,-0.032526732249880105,SYNTHETIC
+c__acquisition_channel_Real-estate partner,-0.007583504691399491,SYNTHETIC
+n__consult_month,-0.0017922677160567356,SYNTHETIC
+n__dow,0.00354822373593689,SYNTHETIC
+c__acquisition_channel_Showroom walk-in,0.005241857567115074,SYNTHETIC
+c__acquisition_channel_Online store,0.025578494644006022,SYNTHETIC
+n__peak_month,0.02658228193376771,SYNTHETIC
+n__rooms_in_scope,0.060559885361598405,SYNTHETIC
+c__designer_id_DSN-04,0.06961895525377322,SYNTHETIC
+c__designer_id_DSN-02,0.07352926698940723,SYNTHETIC
+c__customer_type_Business / hospitality,0.08719575059374021,SYNTHETIC
+c__customer_type_New-home buyer,0.11473630471902145,SYNTHETIC
+c__acquisition_channel_Social media & contests,0.13199860885610967,SYNTHETIC
+c__customer_type_Interior designer (trade),0.14557458254581068,SYNTHETIC
+c__designer_id_DSN-01,0.16690176286479566,SYNTHETIC
+n__repeat_customer,0.21861520112712168,SYNTHETIC
+c__acquisition_channel_Review sites,0.24218765230289044,SYNTHETIC
+c__customer_type_Real-estate stager,0.2446336472151186,SYNTHETIC
+c__consultation_type_In-home measure & design,0.3979221056590552,SYNTHETIC

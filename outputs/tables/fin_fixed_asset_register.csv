@@ -1,0 +1,8 @@
+asset_id,description,account,acquired,cost,useful_life_months,accumulated_depreciation_31dec2023,accumulated_depreciation_30sep2026,net_book_value_30sep2026,data_status
+FA-001,"Showroom leasehold improvements (60,000 sq ft)",1500,2019-01-15,420000.0,120,207000.0,322500.0,97500.0,SIMULATED
+FA-002,"Warehouse racking, forklifts & loading dock",1510,2019-06-01,145000.0,84,93000.0,145000.0,0.0,SIMULATED
+FA-003,"Showroom fixtures, POS & IT",1520,2021-03-01,160000.0,60,90000.0,160000.0,0.0,SIMULATED
+FA-004,Showroom refresh & vignette rooms,1500,2024-05-06,85000.0,120,0.0,19833.24,65166.76,SIMULATED
+FA-005,Second forklift & pallet racking,1510,2025-03-03,48000.0,84,0.0,10285.74,37714.26,SIMULATED
+FA-006,"POS, e-commerce & order-management upgrade",1520,2025-09-02,36000.0,36,0.0,12000.0,24000.0,SIMULATED
+FA-007,Loading-dock pickup bay improvements,1500,2026-04-06,28000.0,120,0.0,1166.65,26833.35,SIMULATED

@@ -1,0 +1,16 @@
+order_type,cancel_reason,orders,value,retained_fees,data_status
+Custom,Changed mind,10,33578.66,6583.15,SYNTHETIC
+Custom,Found alternative,12,57103.880000000005,10491.74,SYNTHETIC
+Custom,Moving plans changed,7,45678.56,11419.63,SYNTHETIC
+Custom,Supplier delay - customer cancelled,39,181659.6,45414.87,SYNTHETIC
+Custom,Supplier delay - goodwill full refund,10,50641.57,0.0,SYNTHETIC
+In stock,Changed mind,1,4267.0,0.0,SYNTHETIC
+In stock,Found alternative,9,22429.02,0.0,SYNTHETIC
+In stock,Moving plans changed,2,2694.77,0.0,SYNTHETIC
+In stock,Supplier delay - customer cancelled,21,64544.96,0.0,SYNTHETIC
+In stock,Supplier delay - goodwill full refund,1,6071.52,0.0,SYNTHETIC
+Special order,Changed mind,11,53635.78,0.0,SYNTHETIC
+Special order,Found alternative,8,16740.36,0.0,SYNTHETIC
+Special order,Moving plans changed,6,31727.120000000003,0.0,SYNTHETIC
+Special order,Supplier delay - customer cancelled,34,121735.0,0.0,SYNTHETIC
+Special order,Supplier delay - goodwill full refund,10,39227.18,0.0,SYNTHETIC

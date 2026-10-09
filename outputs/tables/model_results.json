@@ -1,0 +1,125 @@
+{
+ "model_a": {
+  "chosen": "SARIMAX",
+  "comparison": [
+   {
+    "target": "net_sales",
+    "model": "SARIMAX",
+    "WAPE_holdout": 0.03774371642761098,
+    "WAPE_mean_all_origins": 0.06108004768700681,
+    "MAE_holdout": 32537.634071269524,
+    "RMSE_holdout": 43640.21537358482,
+    "bias_pct_holdout": 0.5536725459197311,
+    "PI80_coverage_mean": 0.9444444444444445
+   },
+   {
+    "target": "net_sales",
+    "model": "Seasonal naive",
+    "WAPE_holdout": 0.057521811711116054,
+    "WAPE_mean_all_origins": 0.05389544680196152,
+    "MAE_holdout": 49587.68869945186,
+    "RMSE_holdout": 64182.45635688231,
+    "bias_pct_holdout": 3.595674441116945,
+    "PI80_coverage_mean": 0.7222222222222222
+   },
+   {
+    "target": "net_sales",
+    "model": "XGBoost",
+    "WAPE_holdout": 0.125428991600226,
+    "WAPE_mean_all_origins": 0.1974339185464606,
+    "MAE_holdout": 108128.26655381943,
+    "RMSE_holdout": 128728.53941536296,
+    "bias_pct_holdout": 8.33311934151812,
+    "PI80_coverage_mean": 0.3333333333333333
+   }
+  ]
+ },
+ "model_b": {
+  "chosen": {
+   "Sofas & Sectionals": "Seasonal naive",
+   "Dining": "SARIMAX",
+   "Bedroom": "XGBoost",
+   "Mattresses & Bases": "SARIMAX",
+   "Living & Occasional": "Seasonal naive",
+   "D\u00e9cor & Lighting": "Seasonal naive",
+   "Home Office": "SARIMAX"
+  },
+  "mean_wape_by_model": {
+   "SARIMAX": 0.24460163680043276,
+   "Seasonal naive": 0.27513560771106754,
+   "XGBoost": 0.7983280475144987
+  }
+ },
+ "model_c": {
+  "best": "Logistic regression",
+  "evaluation": [
+   {
+    "model": "Baseline: supplier historical late rate",
+    "AUC": 0.5938149625332367,
+    "Brier": 0.17764251036373505,
+    "LogLoss": 0.545825751889631,
+    "lift_top20pct": 1.3611598215659129,
+    "base_rate": 0.23821039903264812,
+    "n_test": 1654
+   },
+   {
+    "model": "Logistic regression",
+    "AUC": 0.6272550559987109,
+    "Brier": 0.17419018777613804,
+    "LogLoss": 0.5258936726262666,
+    "lift_top20pct": 1.5265343793262576,
+    "base_rate": 0.23821039903264812,
+    "n_test": 1654
+   },
+   {
+    "model": "XGBoost",
+    "AUC": 0.609009145113206,
+    "Brier": 0.1779651717339407,
+    "LogLoss": 0.5358478822702354,
+    "lift_top20pct": 1.3866020612213505,
+    "base_rate": 0.23821039903264812,
+    "n_test": 1654
+   }
+  ],
+  "regression": {
+   "MAE_days_baseline": 7.306760929999945,
+   "MAE_days_xgboost": 7.5532468261502395
+  }
+ },
+ "model_d": {
+  "best": "Logistic regression",
+  "evaluation": [
+   {
+    "model": "Baseline: designer x consult-type rate",
+    "AUC": 0.5700951825951825,
+    "Brier": 0.24696776942589962,
+    "LogLoss": 0.6870019637721902,
+    "lift_top20pct": 1.1551136363636365,
+    "base_rate": 0.514018691588785,
+    "n_test": 642
+   },
+   {
+    "model": "Logistic regression",
+    "AUC": 0.5912296037296038,
+    "Brier": 0.2434130228149443,
+    "LogLoss": 0.6799824133400507,
+    "lift_top20pct": 1.383096590909091,
+    "base_rate": 0.514018691588785,
+    "n_test": 642
+   },
+   {
+    "model": "XGBoost",
+    "AUC": 0.5624320124320125,
+    "Brier": 0.25369941334849416,
+    "LogLoss": 0.702855249806955,
+    "lift_top20pct": 1.215909090909091,
+    "base_rate": 0.514018691588785,
+    "n_test": 642
+   }
+  ],
+  "pipeline_open": 62,
+  "pipeline_expected_conversions": 33.661652993600924,
+  "pipeline_expected_revenue": 248456.82292855642,
+  "quote_realisation_ratio": 1.0155183312262959
+ }
+}

@@ -1,0 +1,29 @@
+key,2024,2025,2026,label,data_status
+cash,943167.72,1370391.69,1722169.75,Cash,SIMULATED
+ar,85555.56,83405.43,73595.1,"Receivables (card, financing partner, trade)",SIMULATED
+inv_stock,574624.47,521690.17,505080.18,Inventory - stocked merchandise,SIMULATED
+inv_alloc,291769.67,363035.59,279846.23,Inventory - allocated to customer orders,SIMULATED
+prepaid,0.0,0.0,16872.96,Prepaid expenses,SIMULATED
+gst_rec,0.0,0.0,0.0,GST recoverable,SIMULATED
+current_assets,1895117.42,2338522.88,2597564.22,Total current assets,SIMULATED
+ppe_gross,810000.0,894000.0,922000.0,Fixed assets at cost,SIMULATED
+acc_dep,-489672.63,-601029.78,-670785.63,Accumulated depreciation,SIMULATED
+ppe_net,320327.37,292970.22,251214.37,Net fixed assets,SIMULATED
+total_assets,2215444.79,2631493.1,2848778.59,TOTAL ASSETS,SIMULATED
+ap,556893.07,665486.17,514000.7,Accounts payable,SIMULATED
+accrued,59041.61,64867.91,68086.0,Accrued payroll & commissions,SIMULATED
+deposits,516721.98,606955.97,495984.1,Customer deposits (contract liabilities),SIMULATED
+agent,6186.49,7529.67,7385.26,"Amounts collected as agent (carrier, insurer)",SIMULATED
+gst_pay,30107.55,31594.17,36831.76,GST payable,SIMULATED
+tax_payable,56820.63,96948.73,92289.97,Income taxes payable,SIMULATED
+revolver,-0.0,-0.0,-0.0,Revolving line of credit,SIMULATED
+term_current,125000.04,125000.04,125000.04,Current portion of term loan,SIMULATED
+current_liabilities,1350771.37,1598382.66,1339577.83,Total current liabilities,SIMULATED
+term_lt,249999.92,124999.88,31249.85,Term loan (non-current),SIMULATED
+total_liabilities,1600771.29,1723382.54,1370827.68,TOTAL LIABILITIES,SIMULATED
+share_capital,250000.0,250000.0,250000.0,Share capital,SIMULATED
+retained,364673.5,658110.56,658110.56,Retained earnings,SIMULATED
+cpe,-0.0,-0.0,569840.35,Current-year earnings,SIMULATED
+total_equity,614673.5,908110.56,1477950.91,TOTAL EQUITY,SIMULATED
+total_le,2215444.79,2631493.1,2848778.59,TOTAL LIABILITIES AND EQUITY,SIMULATED
+check,0.0,-0.0,0.0,Check: assets - liabilities - equity,SIMULATED

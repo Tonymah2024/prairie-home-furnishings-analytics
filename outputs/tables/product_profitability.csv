@@ -1,0 +1,351 @@
+product_id,product_name,manufacturer,category,subcategory,fulfillment_type,list_price_cad,units,net_sales,gross_profit,avg_discount,lines,gm_pct,rank_net_sales,data_status
+PRD-0069,Topanga Brown Dining Chair,Mercana,Dining,Dining chairs,Stocked (ready-made),629.0,1194.0,714518.84,325489.76,0.04719367588932806,253.0,45.55369876601155,1.0,SYNTHETIC
+PRD-0264,Bailen Euro Top Mattress,King Koil,Mattresses & Bases,Mattresses,Stocked (ready-made),979.0,636.0,601566.13,274057.93,0.03407348242811502,626.0,45.55740696371985,2.0,SYNTHETIC
+PRD-0323,Sunday Custom Sectional Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),4989.0,101.0,575681.72,271440.36,0.04613861386138614,101.0,47.15111676639655,3.0,SYNTHETIC
+PRD-0302,3900 Custom Gray Leather Sectional Made in Canada,Decor-Rest,Sofas & Sectionals,Sectionals,Custom (made to order),7119.0,61.0,505343.66,191135.1,0.047540983606557376,61.0,37.822795679280915,4.0,SYNTHETIC
+PRD-0348,New Milan Power Reclining Sofa Top-Grain Leather - Vanilla,Amax,Sofas & Sectionals,Sofas,Stocked (ready-made),3399.0,156.0,503697.81,244939.05,0.05006410256410257,156.0,48.62817450010354,5.0,SYNTHETIC
+PRD-0079,"Gia Extension Dining Table (71/102"")",LH Imports,Dining,Dining tables,Stocked (ready-made),1231.0,407.0,477443.35,193365.49,0.046485148514851485,404.0,40.50019546821628,6.0,SYNTHETIC
+PRD-0314,Denver Custom Sectional Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),4039.0,114.0,467476.7,155648.49,0.1717543859649123,114.0,33.295454083593896,7.0,SYNTHETIC
+PRD-0064,Niles Cream Fabric Wingback Dining Chair with Dark Wood Legs,Mercana,Dining,Dining chairs,Stocked (ready-made),809.0,564.0,434950.76,202250.0,0.04456,125.0,46.49951640502938,8.0,SYNTHETIC
+PRD-0026,Somerset Drawer Chest,Magnussen,Bedroom,Dressers & chests,Stocked (ready-made),2099.0,188.0,376581.58999999997,162306.71,0.04569148936170213,188.0,43.100011872593136,9.0,SYNTHETIC
+PRD-0070,Wynn Dining Chair - Black,Mercana,Dining,Dining chairs,Stocked (ready-made),689.0,552.0,362951.42,169365.02,0.04859649122807017,114.0,46.66327521187271,10.0,SYNTHETIC
+PRD-0015,San Mateo Solid Wood Storage Bed,Intercon,Bedroom,Beds,Stocked (ready-made),2669.0,129.0,328367.07,165167.88,0.04627906976744186,129.0,50.299769705896516,11.0,SYNTHETIC
+PRD-0061,Colton Dining Chair,LH Imports,Dining,Dining chairs,Stocked (ready-made),349.0,904.0,302206.08,130572.64,0.04275132275132275,189.0,43.20649008782351,12.0,SYNTHETIC
+PRD-0308,Custom 3-Piece Angela Sectional Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),5689.0,46.0,299977.56,129418.48,0.03978260869565218,46.0,43.14272040881991,13.0,SYNTHETIC
+PRD-0288,Sydney Power Reclining Zero Gravity Loveseat,Amax,Sofas & Sectionals,Loveseats,Stocked (ready-made),3449.0,85.0,278920.63,115921.23,0.049166666666666664,84.0,41.56065114294342,14.0,SYNTHETIC
+PRD-0231,Bolanburg TV Cabinet,Ashley Furniture,Living & Occasional,Media cabinets,Stocked (ready-made),1549.0,183.0,268364.25,124363.38,0.05357142857142857,182.0,46.341261922927515,15.0,SYNTHETIC
+PRD-0081,"Grier Medium Brown Dining Table 84""",Mercana,Dining,Dining tables,Stocked (ready-made),3599.0,76.0,260999.48,125331.88,0.045789473684210526,76.0,48.019973066613005,16.0,SYNTHETIC
+PRD-0005,Horizon Custom Bed Made in Canada,Elite,Bedroom,Beds,Custom (made to order),1299.0,195.0,257001.26,95739.66,0.08025641025641025,195.0,37.25260335299524,17.0,SYNTHETIC
+PRD-0002,Brendon Custom Bed Made in Canada,Elite,Bedroom,Beds,Custom (made to order),2599.0,105.0,250722.3,59960.95,0.16590476190476192,105.0,23.915283961578208,18.0,SYNTHETIC
+PRD-0304,Altari 2-Piece Fabric Sectional,Ashley Furniture,Sofas & Sectionals,Sectionals,Stocked (ready-made),1799.0,146.0,249251.45,106892.69,0.05102739726027397,146.0,42.88548371534047,19.0,SYNTHETIC
+PRD-0094,Cheers Kitchen Island,Mercana,Dining,Kitchen islands,Stocked (ready-made),3899.0,66.0,242712.75,118935.03,0.056818181818181816,66.0,49.002382445916005,20.0,SYNTHETIC
+PRD-0040,Kamelia Sand Nightstand with Drawer,LH Imports,Bedroom,Nightstands,Stocked (ready-made),799.0,308.0,234730.22,108484.1,0.04691919191919192,198.0,46.21650335436145,21.0,SYNTHETIC
+PRD-0225,Wellturn Rectangle Coffee Table,Ashley Furniture,Living & Occasional,Coffee tables,Stocked (ready-made),2997.0,74.0,212667.12,98895.08,0.041081081081081085,74.0,46.50228958759586,22.0,SYNTHETIC
+PRD-0067,Parker Dining Chair Muted Brown,Mercana,Dining,Dining chairs,Stocked (ready-made),469.0,466.0,208658.1,104409.23999999999,0.04357142857142857,98.0,50.03843129023028,23.0,SYNTHETIC
+PRD-0039,Interlude 2 Drawer Nightstand,Emerald Home,Bedroom,Nightstands,Stocked (ready-made),979.0,224.0,208321.41,97358.53,0.0497887323943662,142.0,46.73476912430652,24.0,SYNTHETIC
+PRD-0187,Grosjean Brown Accent Chair,Mercana,Living & Occasional,Accent chairs,Stocked (ready-made),2649.0,81.0,203655.12,85642.17,0.0508641975308642,81.0,42.0525494276795,25.0,SYNTHETIC
+PRD-0016,Shay Custom Bed Made in Canada,Elite,Bedroom,Beds,Custom (made to order),2599.0,73.0,197723.61000000002,82123.34,0.04452054794520548,73.0,41.53441260757882,26.0,SYNTHETIC
+PRD-0275,Tempur-Pedic ProAlign Soft King Mattress,Tempur-Pedic,Mattresses & Bases,Mattresses,Stocked (ready-made),4149.0,48.0,190190.16,97982.64,0.045000000000000005,48.0,51.51824889363361,27.0,SYNTHETIC
+PRD-0322,Philly Custom Sofa Chaise Sectional Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),2599.0,62.0,188037.38,73658.75,0.04467741935483871,62.0,39.17239753074628,28.0,SYNTHETIC
+PRD-0278,Tempur-Pro Align Soft Mattress,Tempur-Pedic,Mattresses & Bases,Mattresses,Stocked (ready-made),2949.0,66.0,188028.24,100053.54,0.03393939393939394,66.0,53.21197496716451,29.0,SYNTHETIC
+PRD-0076,Classic Custom Solid Wood Extension Dining Table (42 x 60 with 118 Leaf),Sahara Furniture,Dining,Dining tables,Stocked (ready-made),4059.0,49.0,187972.29,95289.28,0.05489795918367347,49.0,50.693259096859435,30.0,SYNTHETIC
+PRD-0305,Baltimore Sectional Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),2799.0,65.0,185327.11,64502.51,0.15446153846153848,65.0,34.80468130107894,31.0,SYNTHETIC
+PRD-0220,Rencott Rectangular Cocktail Table,Ashley Furniture,Living & Occasional,Coffee tables,Stocked (ready-made),699.0,272.0,182215.32,97038.52,0.041338289962825285,269.0,53.25486353178207,32.0,SYNTHETIC
+PRD-0009,Nellie Custom Bed Made in Canada,House collection (various makers),Bedroom,Beds,Custom (made to order),2799.0,68.0,180164.89,67761.38,0.1386764705882353,68.0,37.61075756769257,33.0,SYNTHETIC
+PRD-0259,Best Adjustable Bases,Ashley Furniture,Mattresses & Bases,Adjustable bases,Stocked (ready-made),1933.0,94.0,174105.31,78348.45,0.04180851063829787,94.0,45.00060911410456,34.0,SYNTHETIC
+PRD-0311,Custom Top Grain Leather Sectional,Amax,Sofas & Sectionals,Sectionals,Custom (made to order),4599.0,33.0,170683.61,63629.909999999996,0.06333333333333332,33.0,37.2794493859135,35.0,SYNTHETIC
+PRD-0277,Tempur-Pro Align Medium Mattress,Tempur-Pedic,Mattresses & Bases,Mattresses,Stocked (ready-made),2949.0,58.0,165910.74,74916.28,0.03,58.0,45.15456925814447,36.0,SYNTHETIC
+PRD-0309,Custom 4-pc Cloud Modular Sectional Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),3999.0,42.0,165689.77,59210.04,0.17976190476190476,42.0,35.735483246793095,37.0,SYNTHETIC
+PRD-0338,Chanel Custom Curved Sofa Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),2024.0,85.0,163539.99,62913.54,0.15105882352941177,85.0,38.469820133901194,38.0,SYNTHETIC
+PRD-0074,"Canmore Custom Solid Wood Dining Table 54""",Sahara Furniture,Dining,Dining tables,Stocked (ready-made),3499.0,48.0,162108.67,76117.15,0.034791666666666665,48.0,46.95439793565637,39.0,SYNTHETIC
+PRD-0104,Provence Sideboard,LH Imports,Dining,Sideboards & buffets,Stocked (ready-made),1379.0,117.0,155523.62,76304.09,0.03606837606837607,117.0,49.062701858405816,40.0,SYNTHETIC
+PRD-0023,Lettner Brown Drawer Chest,Ashley Furniture,Bedroom,Dressers & chests,Stocked (ready-made),1669.0,97.0,154299.05,76752.4,0.04690721649484536,97.0,49.74262641280034,41.0,SYNTHETIC
+PRD-0290,"Cozy Zero Gravity 88"" Sofa",Amax,Sofas & Sectionals,Recliners,Custom (made to order),4199.0,37.0,150850.32,61221.03,0.10567567567567568,37.0,40.58395766081239,42.0,SYNTHETIC
+PRD-0087,Julius Dining Table W/Extension In Black,House collection (various makers),Dining,Dining tables,Stocked (ready-made),2239.0,68.0,145826.07,56454.35,0.042205882352941176,68.0,38.71348243835961,43.0,SYNTHETIC
+PRD-0037,Stockholm Brushed Grey Murphy Bed,Sleep Chest,Bedroom,Murphy beds,Stocked (ready-made),2699.0,55.0,141508.57,61645.270000000004,0.04672727272727272,55.0,43.5629234328352,44.0,SYNTHETIC
+PRD-0021,Interlude 6 Drawer Dresser - Sandstone Finish,Emerald Home,Bedroom,Dressers & chests,Stocked (ready-made),2899.0,51.0,140456.55,67862.64,0.049,50.0,48.31575316352282,45.0,SYNTHETIC
+PRD-0038,Brashland Nightstand,Ashley Furniture,Bedroom,Nightstands,Stocked (ready-made),599.0,241.0,138524.74,62448.27,0.040584415584415584,154.0,45.080950882853124,46.0,SYNTHETIC
+PRD-0088,"Lotus Pedestal Extension Custom Solid Wood Dining Table (42-72"")",Sahara Furniture,Dining,Dining tables,Stocked (ready-made),3599.0,40.0,137553.78,64997.78,0.0445,40.0,47.25263093460609,47.0,SYNTHETIC
+PRD-0296,Muskoka Power Leather Zero Gravity Reclining Sofa,Aurora,Sofas & Sectionals,Recliners,Custom (made to order),4199.0,33.0,136491.0,47103.1,0.09999999999999999,33.0,34.51004095508129,48.0,SYNTHETIC
+PRD-0086,"Jovani Solid Mango Wood Oval Dining Table 94""",Mercana,Dining,Dining tables,Stocked (ready-made),4999.0,29.0,136122.77,68131.4,0.06103448275862069,29.0,50.05143518604566,49.0,SYNTHETIC
+PRD-0213,Barilanni Coffee Table with Lift Top,Ashley Furniture,Living & Occasional,Coffee tables,Stocked (ready-made),819.0,172.0,134479.8,73765.52,0.045614035087719294,171.0,54.852490857362966,50.0,SYNTHETIC
+PRD-0214,Colton Coffee Table,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),799.0,175.0,134279.94,74295.19,0.03988505747126437,174.0,55.32858444828022,51.0,SYNTHETIC
+PRD-0316,"Kellway Modular 2-Piece Sectional Sofa, Plush Cushions, Bisque",Ashley Furniture,Sofas & Sectionals,Sectionals,Stocked (ready-made),1072.75,131.0,134211.9,61417.82000000001,0.04438461538461539,130.0,45.76182886912413,52.0,SYNTHETIC
+PRD-0018,Stoney Creek - Complete Queen Storage Bed,House collection (various makers),Bedroom,Beds,Stocked (ready-made),3579.0,39.0,132816.69,71680.29000000001,0.048461538461538466,39.0,53.969339244939775,53.0,SYNTHETIC
+PRD-0265,King Koil Aragon Tight Top Plush King Mattress,King Koil,Mattresses & Bases,Mattresses,Stocked (ready-made),1349.0,99.0,129018.36,65448.48,0.03428571428571429,98.0,50.728035916748595,54.0,SYNTHETIC
+PRD-0301,3786 Custom Leather Sectional Made in Canada,Decor-Rest,Sofas & Sectionals,Sectionals,Custom (made to order),7119.0,15.0,127349.66,54380.55,0.048,15.0,42.701763004314266,55.0,SYNTHETIC
+PRD-0022,Kamelia 6-Drawer Sand Dresser Solid Wood Storage Chest,LH Imports,Bedroom,Dressers & chests,Stocked (ready-made),2299.0,58.0,127134.7,62596.94,0.04655172413793104,58.0,49.23670720896813,56.0,SYNTHETIC
+PRD-0292,Custom Fabric Push Back Wing Recliner Chair Made in Canada,Decor-Rest,Sofas & Sectionals,Recliners,Custom (made to order),1639.0,83.0,125716.64,41518.71,0.15888888888888889,81.0,33.02562811096447,57.0,SYNTHETIC
+PRD-0274,Tempur-Pedic ProAlign Medium Hybrid King Mattress,Tempur-Pedic,Mattresses & Bases,Mattresses,Stocked (ready-made),4149.0,31.0,124511.48999999999,62388.420000000006,0.03193548387096774,31.0,50.10655643105709,58.0,SYNTHETIC
+PRD-0008,Kanwyn Upholstered Panel Bed,Ashley Furniture,Bedroom,Beds,Stocked (ready-made),1129.0,115.0,123602.92,53232.12,0.048,115.0,43.067040811009974,59.0,SYNTHETIC
+PRD-0024,Opera Dresser with 6 Drawers - Scrubbed Teak,House collection (various makers),Bedroom,Dressers & chests,Stocked (ready-made),1889.0,66.0,119592.59,57255.59,0.040757575757575756,66.0,47.87553309113884,60.0,SYNTHETIC
+PRD-0041,Kanwyn Nightstand,Ashley Furniture,Bedroom,Nightstands,Stocked (ready-made),559.0,223.0,119463.89,57882.44,0.04098591549295775,142.0,48.451829251500186,61.0,SYNTHETIC
+PRD-0065,Olis Dining Chair- in Black Faux Leather and Black,House collection (various makers),Dining,Dining chairs,Stocked (ready-made),279.0,442.0,117509.22,64358.72,0.049032258064516124,93.0,54.769081098487426,62.0,SYNTHETIC
+PRD-0350,Stairatt Upholstered 3-Seater Sofa Gray Performance Fabric Modern Design,Ashley Furniture,Sofas & Sectionals,Sofas,Stocked (ready-made),999.0,119.0,113606.28,52738.97,0.04474576271186441,118.0,46.42258332902019,63.0,SYNTHETIC
+PRD-0319,Moberly Custom Sectional Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),4219.0,23.0,112460.4,50923.93,0.04043478260869565,23.0,45.281654698009255,64.0,SYNTHETIC
+PRD-0293,Mateo Power Recliner Chair,Stylus,Sofas & Sectionals,Recliners,Stocked (ready-made),3359.0,35.0,111585.98,52098.229999999996,0.05085714285714286,35.0,46.688867185644646,65.0,SYNTHETIC
+PRD-0189,Harman Accent Chair,Mercana,Living & Occasional,Accent chairs,Stocked (ready-made),1119.0,104.0,110624.34,58022.18,0.04942307692307692,104.0,52.44974116907726,66.0,SYNTHETIC
+PRD-0096,Bailey Sideboard,LH Imports,Dining,Sideboards & buffets,Stocked (ready-made),2789.0,41.0,110221.28,55676.93,0.03609756097560975,41.0,50.51377556130722,67.0,SYNTHETIC
+PRD-0266,King Koil Aragon Tight Top Plush Mattress,King Koil,Mattresses & Bases,Mattresses,Stocked (ready-made),829.0,137.0,109552.35,52879.56,0.0354014598540146,137.0,48.26875918225396,68.0,SYNTHETIC
+PRD-0306,Barlin Mills Umber Faux Leather 2-Piece Sectional,Ashley Furniture,Sofas & Sectionals,Sectionals,Stocked (ready-made),1699.0,67.0,109092.79,48192.47,0.04164179104477612,67.0,44.17566917117071,69.0,SYNTHETIC
+PRD-0082,"Haven Terra Light Brown Wood Round Dining Table 60""",Mercana,Dining,Dining tables,Stocked (ready-made),2639.0,42.0,106536.43000000001,47238.310000000005,0.038809523809523815,42.0,44.34005344462923,70.0,SYNTHETIC
+PRD-0332,3404 Custom Top Grain Leather Sofa Made in Canada,Decor-Rest,Sofas & Sectionals,Sofas,Custom (made to order),2799.0,38.0,106508.65,41073.81,0.08473684210526317,38.0,38.56382556721919,71.0,SYNTHETIC
+PRD-0255,Oasis 1 Door Side Table,LH Imports,Living & Occasional,Side & accent tables,Stocked (ready-made),479.0,231.0,106409.85,51528.869999999995,0.037553191489361704,188.0,48.42490615295482,72.0,SYNTHETIC
+PRD-0001,2382-61 Queen Bed,House collection (various makers),Bedroom,Beds,Custom (made to order),2199.0,49.0,106382.77,46120.74,0.09918367346938776,49.0,43.353580659725246,73.0,SYNTHETIC
+PRD-0321,Next-Gen Gaucho Sectional - Chalk,Ashley Furniture,Sofas & Sectionals,Sectionals,Stocked (ready-made),919.0,121.0,106273.16,45891.74,0.04466666666666667,120.0,43.18281304517528,74.0,SYNTHETIC
+PRD-0342,Elliot Sofa,Style in Form,Sofas & Sectionals,Sofas,Custom (made to order),2849.0,34.0,106262.55,44699.86,0.04911764705882353,34.0,42.06548779414761,75.0,SYNTHETIC
+PRD-0310,Custom 4-pc Cloud Modular Sectional with Ottoman Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),4199.0,21.0,105820.68,41767.59,0.02857142857142857,21.0,39.4701583849206,76.0,SYNTHETIC
+PRD-0347,Moberly Custom Sofa Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),2159.0,46.0,105581.36,39947.38,0.036304347826086956,46.0,37.835636896512796,77.0,SYNTHETIC
+PRD-0324,Tyson Custom Sectional Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),4419.0,25.0,105463.86,32578.66,0.1852,25.0,30.89082838424461,78.0,SYNTHETIC
+PRD-0103,Opera Sideboard - Scrubbed Teak,House collection (various makers),Dining,Sideboards & buffets,Stocked (ready-made),2299.0,47.0,103730.88,51541.14,0.04,47.0,49.68736407133536,79.0,SYNTHETIC
+PRD-0059,Brazil Dining Arm Chair,LH Imports,Dining,Dining chairs,Stocked (ready-made),1299.0,84.0,103192.56,50926.08,0.05571428571428571,21.0,49.35053457342274,80.0,SYNTHETIC
+PRD-0344,Flair Custom Sofa Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),1969.0,49.0,102708.74,49107.4,0.042083333333333334,48.0,47.81228939231462,81.0,SYNTHETIC
+PRD-0058,Artemis Top Grain Leather Dining Chair - Hunter Tan,LH Imports,Dining,Dining chairs,Stocked (ready-made),629.0,176.0,101809.94,44687.38,0.08411764705882352,34.0,43.89294404848878,82.0,SYNTHETIC
+PRD-0295,Muskoka Power Leather Zero Gravity Reclining Chair,Aurora,Sofas & Sectionals,Recliners,Custom (made to order),2099.0,46.0,101008.27,43986.799999999996,0.06804347826086957,46.0,43.54772138954562,83.0,SYNTHETIC
+PRD-0163,Hand-Embellished Framed Photo Art Custom White Horses Print,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),1399.0,75.0,100182.39,55169.64,0.045200000000000004,75.0,55.06919928741968,84.0,SYNTHETIC
+PRD-0063,Mercury Dining Chair,LH Imports,Dining,Dining chairs,Stocked (ready-made),799.0,132.0,99427.56,46904.76,0.05758620689655172,29.0,47.17480746786907,85.0,SYNTHETIC
+PRD-0326,Sonic Custom Sofa Sleeper - Avail in 200 Fabrics,House collection (various makers),Sofas & Sectionals,Sofa beds,Custom (made to order),2024.0,47.0,98305.31,43103.69,0.047446808510638296,47.0,43.84675659941462,86.0,SYNTHETIC
+PRD-0191,Interlude Dining Chair UPH,Emerald Home,Living & Occasional,Accent chairs,Stocked (ready-made),659.0,156.0,98276.67,46359.87,0.04403846153846154,156.0,47.17281324245114,87.0,SYNTHETIC
+PRD-0320,Montana Custom 4 Piece Sectional,House collection (various makers),Sofas & Sectionals,Sectionals,Custom (made to order),5599.0,15.0,96635.38,43410.58,0.058666666666666666,15.0,44.922035800966476,88.0,SYNTHETIC
+PRD-0089,"Maxwell Dining Table 48""",Mercana,Dining,Dining tables,Stocked (ready-made),2039.0,49.0,96546.65,40196.65,0.0336734693877551,49.0,41.63443268098894,89.0,SYNTHETIC
+PRD-0325,Nordel Custom Sleeper Sofa Made in Canada,Elite,Sofas & Sectionals,Sofa beds,Custom (made to order),1829.0,55.0,95246.12,40423.28,0.11654545454545455,55.0,42.44086793246801,90.0,SYNTHETIC
+PRD-0019,Brashland Dresser,Ashley Furniture,Bedroom,Dressers & chests,Stocked (ready-made),1419.0,70.0,94661.49,38937.29,0.047,70.0,41.13318943109812,91.0,SYNTHETIC
+PRD-0285,Dillon Top Grain Leather Loveseat,Aurora,Sofas & Sectionals,Loveseats,Custom (made to order),3449.0,26.0,94229.43000000001,37535.66,0.07153846153846154,26.0,39.83432776787465,92.0,SYNTHETIC
+PRD-0224,Venus Coffee Table,LH Imports,Living & Occasional,Coffee tables,Stocked (ready-made),1519.0,65.0,93919.77,47415.52,0.048769230769230766,65.0,50.48513215055785,93.0,SYNTHETIC
+PRD-0013,Remix Bed,LH Imports,Bedroom,Beds,Stocked (ready-made),1289.0,76.0,93839.2,37412.24,0.042105263157894736,76.0,39.86845582656289,94.0,SYNTHETIC
+PRD-0294,Mouttrie Power Recliner Chair,Ashley Furniture,Sofas & Sectionals,Recliners,Stocked (ready-made),1709.0,57.0,93465.21,45245.49,0.04052631578947369,57.0,48.4089106524235,95.0,SYNTHETIC
+PRD-0345,Loreo Sofa,Ashley Furniture,Sofas & Sectionals,Sofas,Stocked (ready-made),899.0,109.0,93235.29000000001,45709.11,0.048532110091743116,109.0,49.025546013746506,96.0,SYNTHETIC
+PRD-0062,Darwin Dining Chair - Black,LH Imports,Dining,Dining chairs,Stocked (ready-made),429.0,228.0,92990.04,48388.68,0.0458,50.0,52.036411641504834,97.0,SYNTHETIC
+PRD-0011,Oasis King Wood Bed,House collection (various makers),Bedroom,Beds,Stocked (ready-made),1499.0,63.0,90104.89,47986.24,0.04587301587301588,63.0,53.25597756126221,98.0,SYNTHETIC
+PRD-0284,Cloud Skana Sofa- Custom Loveseat Made in Canada,Elite,Sofas & Sectionals,Loveseats,Custom (made to order),2659.0,37.0,90074.67,35967.88,0.17027027027027025,37.0,39.931181540826074,99.0,SYNTHETIC
+PRD-0331,3179 Custom Top Grain Sofa Made in Canada,Decor-Rest,Sofas & Sectionals,Sofas,Custom (made to order),2909.0,29.0,88597.96,36259.08,0.04482758620689655,29.0,40.92541182663799,100.0,SYNTHETIC
+PRD-0042,Pacific Grove Nightstand,Emerald Home,Bedroom,Nightstands,Stocked (ready-made),1039.0,89.0,87535.75,38433.56,0.04859649122807017,57.0,43.906129781260795,101.0,SYNTHETIC
+PRD-0073,Bronx Crank Bistro Table - Coffee Brown,House collection (various makers),Dining,Dining tables,Stocked (ready-made),2099.0,43.0,86709.69,41400.59,0.03930232558139535,43.0,47.74620921836994,102.0,SYNTHETIC
+PRD-0003,Brit Custom Bed Made in Canada,Elite,Bedroom,Beds,Custom (made to order),2899.0,28.0,85518.76,36244.31,0.04892857142857143,28.0,42.38170665711243,103.0,SYNTHETIC
+PRD-0260,Better Adjustable Bases,Ashley Furniture,Mattresses & Bases,Adjustable bases,Stocked (ready-made),1390.0,65.0,84122.8,40122.35,0.06892307692307693,65.0,47.694976867151354,104.0,SYNTHETIC
+PRD-0132,Gambit Round Gray Wash Mango Wood Frame Mirror,Mercana,Décor & Lighting,Mirrors,Stocked (ready-made),749.0,115.0,82412.47,43996.72,0.04371681415929204,113.0,53.385998502411105,105.0,SYNTHETIC
+PRD-0027,Stoney Creek Dresser,House collection (various makers),Bedroom,Dressers & chests,Stocked (ready-made),2559.0,33.0,81017.94,30434.22,0.04060606060606061,33.0,37.564791205503376,106.0,SYNTHETIC
+PRD-0299,Vienna Power Headrest Swivel Glider Leather Recliner,Amax,Sofas & Sectionals,Recliners,Stocked (ready-made),2379.0,36.0,80790.84,35998.92,0.05666666666666667,36.0,44.55817020840481,107.0,SYNTHETIC
+PRD-0010,Nina King Bed - Ecru,LH Imports,Bedroom,Beds,Stocked (ready-made),2489.0,34.0,80494.26,38688.88,0.04882352941176471,34.0,48.06414767959852,108.0,SYNTHETIC
+PRD-0303,3A1 Custom Leather Sectional Made in Canada,Decor-Rest,Sofas & Sectionals,Sectionals,Custom (made to order),6819.0,10.0,80480.57,37169.61,0.024,10.0,46.184575979022014,109.0,SYNTHETIC
+PRD-0090,Rocky Mountain Custom Pedestal Dining Table,Sahara Furniture,Dining,Dining tables,Stocked (ready-made),4929.0,17.0,78913.29000000001,34167.76,0.05823529411764706,17.0,43.297852617727635,110.0,SYNTHETIC
+PRD-0281,3230 Custom Leather Loveseat Made in Canada,Decor-Rest,Sofas & Sectionals,Loveseats,Custom (made to order),3379.0,21.0,73539.54,31609.27,0.04,21.0,42.98268659281796,111.0,SYNTHETIC
+PRD-0346,Martha Custom Sofa - Beach Alabaster,LH Imports,Sofas & Sectionals,Sofas,Custom (made to order),2299.0,30.0,73124.05,31150.43,0.04633333333333334,30.0,42.599432060997714,112.0,SYNTHETIC
+PRD-0053,Iron Crisscross Counter Stool,LH Imports,Dining,Bar & counter stools,Stocked (ready-made),559.0,135.0,72927.14,35798.090000000004,0.03770833333333334,48.0,49.08747278448052,113.0,SYNTHETIC
+PRD-0200,Brodie Shelving Unit,Mercana,Living & Occasional,Cabinets & storage,Stocked (ready-made),3389.0,22.0,72321.26,37279.0,0.030000000000000002,22.0,51.54639175257733,114.0,SYNTHETIC
+PRD-0343,Erinslane Sofa,Ashley Furniture,Sofas & Sectionals,Sofas,Stocked (ready-made),899.0,84.0,72243.64,33806.08,0.043333333333333335,84.0,46.79454136031906,115.0,SYNTHETIC
+PRD-0267,King Koil Bailen Euro Top King Mattress,King Koil,Mattresses & Bases,Mattresses,Stocked (ready-made),1499.0,50.0,71981.98,36005.98,0.039599999999999996,50.0,50.02082465639318,116.0,SYNTHETIC
+PRD-0300,3786 Custom Leather Power Recliner Sectional Made in Canada,Decor-Rest,Sofas & Sectionals,Sectionals,Custom (made to order),6659.0,9.0,71720.09,31235.239999999998,0.022222222222222223,9.0,43.55159063520417,117.0,SYNTHETIC
+PRD-0283,Amiata Loveseat - Onyx,Ashley Furniture,Sofas & Sectionals,Loveseats,Stocked (ready-made),1679.0,44.0,71525.4,35474.0,0.03181818181818182,44.0,49.59636716467158,118.0,SYNTHETIC
+PRD-0272,Paarizaat Safora Euro Top Queen Mattress,Paarizaat,Mattresses & Bases,Mattresses,Stocked (ready-made),1049.0,69.0,69905.36,36610.1,0.034202898550724635,69.0,52.37094837935173,119.0,SYNTHETIC
+PRD-0137,Stoney Creek Mirror,House collection (various makers),Décor & Lighting,Mirrors,Stocked (ready-made),699.0,104.0,69599.43000000001,37250.229999999996,0.042596153846153846,104.0,53.52088371988103,120.0,SYNTHETIC
+PRD-0068,Topanga Blonde Dining Chair,Mercana,Dining,Dining chairs,Stocked (ready-made),619.0,116.0,69365.14,31309.02,0.030000000000000002,30.0,45.13653399964305,121.0,SYNTHETIC
+PRD-0066,Parker Cream Dining Chair,Mercana,Dining,Dining chairs,Stocked (ready-made),391.0,186.0,69316.48,32008.6,0.04555555555555555,36.0,46.1774746784603,122.0,SYNTHETIC
+PRD-0268,King Koil Calvino Euro Top Plush King Mattress,King Koil,Mattresses & Bases,Mattresses,Stocked (ready-made),1649.0,43.0,69043.63,32030.09,0.026279069767441862,43.0,46.39108633193243,123.0,SYNTHETIC
+PRD-0197,Arco Tall Cabinet,LH Imports,Living & Occasional,Cabinets & storage,Stocked (ready-made),3359.0,21.0,68590.78,32968.48,0.027619047619047616,21.0,48.06546885747618,124.0,SYNTHETIC
+PRD-0145,Sable 7270_H334,Kalora,Décor & Lighting,Rugs,Stocked (ready-made),469.0,152.0,67864.3,37567.66,0.048,150.0,55.35702865866148,125.0,SYNTHETIC
+PRD-0045,Solid Wood Gia Two Drawer Nightstand,LH Imports,Bedroom,Nightstands,Stocked (ready-made),489.0,144.0,66689.82,29861.82,0.05329545454545455,88.0,44.77717888577297,126.0,SYNTHETIC
+PRD-0044,Robbinsdale Nightstand,Ashley Furniture,Bedroom,Nightstands,Stocked (ready-made),719.25,97.0,66631.34,33980.17,0.04774193548387097,62.0,50.99727845785482,127.0,SYNTHETIC
+PRD-0317,Mahoney 2-Piece Sectional Sofa with Chaise Tufted Back Pebble,Canvas and Loft,Sofas & Sectionals,Sectionals,Stocked (ready-made),1779.0,39.0,66374.49,33349.29,0.043333333333333335,39.0,50.24413746907885,128.0,SYNTHETIC
+PRD-0130,Vector Wall Sconce,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),399.0,174.0,65914.8,39047.46,0.05,173.0,59.23929072074859,129.0,SYNTHETIC
+PRD-0017,Somerset Complete King Panel Bed w/Upholstered Headboard,House collection (various makers),Bedroom,Beds,Stocked (ready-made),2149.0,31.0,64470.0,26896.760000000002,0.03225806451612903,31.0,41.71980766247867,130.0,SYNTHETIC
+PRD-0100,Lillie Sideboard,Mercana,Dining,Sideboards & buffets,Stocked (ready-made),2489.0,27.0,63295.270000000004,29290.66,0.05814814814814815,27.0,46.276222536059954,131.0,SYNTHETIC
+PRD-0006,Hydro Lift Electric Custom Bed System Canadian Made Excellence,House collection (various makers),Bedroom,Beds,Custom (made to order),800.0,77.0,63234.24,28758.170000000002,0.04753246753246754,77.0,45.47879439999596,132.0,SYNTHETIC
+PRD-0273,Tempur-Pedic Align Medium Queen Mattress,Tempur-Pedic,Mattresses & Bases,Mattresses,Stocked (ready-made),2249.0,29.0,62634.65,30415.36,0.0396551724137931,29.0,48.559958425567956,133.0,SYNTHETIC
+PRD-0210,Arlo Coffee Table,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),1259.0,52.0,62383.45,31482.45,0.04711538461538462,52.0,50.46602905097426,134.0,SYNTHETIC
+PRD-0307,Coastal Sectional - Custom Made in Canada,Elite,Sofas & Sectionals,Sectionals,Custom (made to order),5599.0,10.0,61008.94,24451.98,0.037,10.0,40.07933919192826,135.0,SYNTHETIC
+PRD-0141,Joy Boho - Brown Beige Ivory Rug,Fab Habitat,Décor & Lighting,Rugs,Stocked (ready-made),729.0,87.0,60616.35,33851.67,0.04302325581395349,86.0,55.84577428367099,136.0,SYNTHETIC
+PRD-0185,Armelle Gray Accent Chair,Mercana,Living & Occasional,Accent chairs,Stocked (ready-made),1239.0,51.0,60054.33,32377.65,0.04960784313725491,51.0,53.91393093553787,137.0,SYNTHETIC
+PRD-0286,Flair Custom Loveseat Made in Canada,Elite,Sofas & Sectionals,Loveseats,Custom (made to order),1309.0,43.0,59832.7,28265.82,0.02441860465116279,43.0,47.2414248395944,138.0,SYNTHETIC
+PRD-0333,3900 - Custom Top Grain Leather Sofa with Power Recliner Made in Canada,Decor-Rest,Sofas & Sectionals,Sofas,Custom (made to order),4769.0,12.0,59816.61,24133.99,0.03833333333333334,12.0,40.346636160089986,139.0,SYNTHETIC
+PRD-0194,Soletren Accent Chair,Ashley Furniture,Living & Occasional,Accent chairs,Stocked (ready-made),1009.0,61.0,59137.49,25716.2,0.03918032786885246,61.0,43.485443836050536,140.0,SYNTHETIC
+PRD-0054,Kavalan Leather Bar Stool,Mercana,Dining,Bar & counter stools,Stocked (ready-made),799.0,78.0,58694.54,26536.7,0.05580645161290323,31.0,45.21153074885671,141.0,SYNTHETIC
+PRD-0176,Camrose Solid Wood Double Desk,LH Imports,Home Office,Desks,Stocked (ready-made),2599.0,23.0,56346.32,25322.079999999998,0.05739130434782609,23.0,44.94007771936126,142.0,SYNTHETIC
+PRD-0261,Promo Adjustable Bases,Ashley Furniture,Mattresses & Bases,Adjustable bases,Stocked (ready-made),881.0,65.0,55406.09,27231.84,0.03246153846153846,65.0,49.14954294735471,143.0,SYNTHETIC
+PRD-0276,Tempur-Pedic ProAlign Soft Queen Mattress,Tempur-Pedic,Mattresses & Bases,Mattresses,Stocked (ready-made),3349.0,17.0,55291.99,27793.3,0.028823529411764706,17.0,50.26641291080317,144.0,SYNTHETIC
+PRD-0212,Austen Coffee Table,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),1119.0,51.0,55222.65,28115.13,0.03235294117647059,51.0,50.91231587039013,145.0,SYNTHETIC
+PRD-0222,Terra Oval Coffee Table - Dark Brown,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),1479.0,39.0,54900.48,26290.86,0.048205128205128206,39.0,47.888215185003844,146.0,SYNTHETIC
+PRD-0091,"Safari Extension Dining Table (71"", 110"")",Mobital,Dining,Dining tables,Stocked (ready-made),3359.0,17.0,54751.7,28655.68,0.041176470588235294,17.0,52.33751646067611,147.0,SYNTHETIC
+PRD-0219,Remix Coffee Table,LH Imports,Living & Occasional,Coffee tables,Stocked (ready-made),849.0,64.0,52196.520000000004,26604.2,0.039375,64.0,50.96929833636419,148.0,SYNTHETIC
+PRD-0025,Somerset Double Dresser,Magnussen,Bedroom,Dressers & chests,Stocked (ready-made),2119.0,27.0,51873.12,19604.88,0.09333333333333334,27.0,37.793909446742354,149.0,SYNTHETIC
+PRD-0313,Decor-Rest Sectional,Decor-Rest,Sofas & Sectionals,Sectionals,Custom (made to order),1959.0,25.0,51717.81,12971.81,0.11120000000000001,25.0,25.081901186457817,150.0,SYNTHETIC
+PRD-0196,Tilden Accent Chair,Ashley Furniture,Living & Occasional,Accent chairs,Stocked (ready-made),759.0,72.0,51490.56,26243.04,0.05777777777777778,72.0,50.966701469162516,151.0,SYNTHETIC
+PRD-0334,Amara Custom Sofa Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),1539.0,32.0,51223.020000000004,21760.77,0.0540625,32.0,42.48240341940011,152.0,SYNTHETIC
+PRD-0205,Hogarth Accent Cabinet - Dark Wood,Mercana,Living & Occasional,Cabinets & storage,Stocked (ready-made),1619.0,33.0,50642.32,23714.98,0.052121212121212124,33.0,46.82838384971305,153.0,SYNTHETIC
+PRD-0279,iKidz Blue Mattress,Ashley Furniture,Mattresses & Bases,Mattresses,Stocked (ready-made),339.99,155.0,50515.65,21690.3,0.04168831168831169,154.0,42.93778264755576,154.0,SYNTHETIC
+PRD-0291,Cozy Zero Gravity Power Reclining Sofa,Amax,Sofas & Sectionals,Recliners,Stocked (ready-made),3799.0,15.0,50032.83,26384.13,0.12200000000000001,15.0,52.7336350951965,155.0,SYNTHETIC
+PRD-0190,Hayward Top Grain Leather Chair,Aurora,Living & Occasional,Accent chairs,Custom (made to order),2239.0,21.0,49928.81,19994.4,0.03333333333333333,21.0,40.04581723457859,156.0,SYNTHETIC
+PRD-0318,Marleton 2-Piece Sectional,Ashley Furniture,Sofas & Sectionals,Sectionals,Stocked (ready-made),1179.02,43.0,49141.58,22829.45,0.030697674418604652,43.0,46.4564834911698,157.0,SYNTHETIC
+PRD-0083,"Irish Coast Driftwood Reclaimed Dining Table 47""",LH Imports,Dining,Dining tables,Stocked (ready-made),799.0,64.0,49074.58,22330.260000000002,0.0403125,64.0,45.50270221365114,158.0,SYNTHETIC
+PRD-0329,2795 Custom Fabric Sofa Made in Canada,Decor-Rest,Sofas & Sectionals,Sofas,Custom (made to order),1669.0,30.0,48596.6,16794.64,0.13399999999999998,30.0,34.559290156101454,159.0,SYNTHETIC
+PRD-0184,"37"" Globe Custom Nest Chair Made in Canada",Elite,Living & Occasional,Accent chairs,Custom (made to order),699.0,73.0,47831.39,16709.18,0.1351388888888889,72.0,34.93350287332231,160.0,SYNTHETIC
+PRD-0093,Warm Pecan Solid Wood Extension Table (5570),LH Imports,Dining,Dining tables,Stocked (ready-made),1231.0,43.0,47713.56,21564.83,0.0986046511627907,43.0,45.19643891589729,161.0,SYNTHETIC
+PRD-0182,Taylin Elm Solid Wood Desk - Light Brown,Mercana,Home Office,Desks,Stocked (ready-made),1649.0,30.0,47276.83,24174.43,0.044333333333333336,30.0,51.1337794856381,162.0,SYNTHETIC
+PRD-0186,Ashton Black Accent Chair,Mercana,Living & Occasional,Accent chairs,Stocked (ready-made),1149.0,43.0,47212.409999999996,27251.809999999998,0.04441860465116279,43.0,57.721709186207605,163.0,SYNTHETIC
+PRD-0168,Secret Garden-L by Mercana Studio a Hand Embellished Textured Framed Art Print Matted under Glass,House collection (various makers),Décor & Lighting,Wall art,Stocked (ready-made),1819.0,27.0,47112.1,24814.69,0.040740740740740744,27.0,52.67158543134354,164.0,SYNTHETIC
+PRD-0133,Geneva Silver Mirror,Mercana,Décor & Lighting,Mirrors,Stocked (ready-made),259.0,192.0,46982.6,25301.960000000003,0.05564516129032258,186.0,53.853894846177106,165.0,SYNTHETIC
+PRD-0250,Earth Wind and Fire Marble Pedestal Set,LH Imports,Living & Occasional,Side & accent tables,Stocked (ready-made),579.0,85.0,46609.5,19639.85,0.05428571428571429,70.0,42.137010695244534,166.0,SYNTHETIC
+PRD-0036,Manhattan Brushed Espresso Murphy Bed,Sleep Chest,Bedroom,Murphy beds,Stocked (ready-made),2699.0,18.0,46152.9,20161.62,0.05,18.0,43.68440553031337,167.0,SYNTHETIC
+PRD-0164,Ireland Black and White Framed Photo Print Matted Under Glass,Arabella Studios,Décor & Lighting,Wall art,Stocked (ready-made),559.0,86.0,45653.53,25366.13,0.05216867469879518,83.0,55.56225334601728,168.0,SYNTHETIC
+PRD-0327,2052 Custom Fabric Sofa Made in Canada,Decor-Rest,Sofas & Sectionals,Sofas,Custom (made to order),1769.0,24.0,45498.66,19695.85,0.05125,24.0,43.28885729821493,169.0,SYNTHETIC
+PRD-0057,Tabitha Bar Stool,Mercana,Dining,Bar & counter stools,Stocked (ready-made),749.0,62.0,45411.87,19081.71,0.02521739130434783,23.0,42.01921215752621,170.0,SYNTHETIC
+PRD-0254,Johnelle End Table,Ashley Furniture,Living & Occasional,Side & accent tables,Stocked (ready-made),519.0,90.0,44805.270000000004,21964.17,0.04285714285714286,70.0,49.02139859887017,171.0,SYNTHETIC
+PRD-0043,Remix Nightstand,LH Imports,Bedroom,Nightstands,Stocked (ready-made),529.0,95.0,44795.72,18663.12,0.10883333333333334,60.0,41.662730278696266,172.0,SYNTHETIC
+PRD-0020,Gia Six Drawer Dresser,LH Imports,Bedroom,Dressers & chests,Stocked (ready-made),1279.0,37.0,44458.04,20938.62,0.06054054054054055,37.0,47.097487878457976,173.0,SYNTHETIC
+PRD-0227,Wystfield Coffee Table,Ashley Furniture,Living & Occasional,Coffee tables,Stocked (ready-made),779.0,60.0,44395.21,21118.81,0.05016666666666667,60.0,47.57001937821671,174.0,SYNTHETIC
+PRD-0298,Sydney Power Recliner,Amax,Sofas & Sectionals,Recliners,Stocked (ready-made),1859.0,25.0,44337.15,22168.65,0.046,25.0,50.000169158369445,175.0,SYNTHETIC
+PRD-0263,8 Inch Chime Memory Foam Mattresses,Ashley Furniture,Mattresses & Bases,Mattresses,Stocked (ready-made),529.0,86.0,43854.1,22744.54,0.03604651162790698,86.0,51.864113047582784,176.0,SYNTHETIC
+PRD-0007,Justin King Storage Bed,Style in Form,Bedroom,Beds,Stocked (ready-made),1749.0,26.0,43637.55,21127.79,0.04038461538461539,26.0,48.416535758767395,177.0,SYNTHETIC
+PRD-0251,Evelyn Solid Mango Wood Round End Table with White Wash,Mercana,Living & Occasional,Side & accent tables,Stocked (ready-made),439.0,104.0,43544.41,19209.45,0.04775,80.0,44.11461769719695,178.0,SYNTHETIC
+PRD-0134,Gerome Rustic Solid Mango Wood Full-Length Leaning Floor Mirror,Mercana,Décor & Lighting,Mirrors,Stocked (ready-made),779.0,59.0,43304.61,24000.99,0.05779661016949153,59.0,55.4236373448462,179.0,SYNTHETIC
+PRD-0173,Vapor VIII,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),239.0,189.0,43067.8,22153.06,0.04681318681318681,182.0,51.43764018593938,180.0,SYNTHETIC
+PRD-0226,Wesson Dark Brown Wooden Rectangular Coffee Table,House collection (various makers),Living & Occasional,Coffee tables,Stocked (ready-made),1739.0,26.0,42848.96,20015.76,0.05230769230769231,26.0,46.712358946401494,181.0,SYNTHETIC
+PRD-0339,Custom 3-pc Cloud Modular Sofa Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),3337.0,12.0,42732.27,14484.32,0.059166666666666666,12.0,33.8955080083506,182.0,SYNTHETIC
+PRD-0014,Robbinsdale Panel Bed-Storage Option,Ashley Furniture,Bedroom,Beds,Stocked (ready-made),2114.25,21.0,42031.28,20186.87,0.05333333333333333,21.0,48.02820661183766,183.0,SYNTHETIC
+PRD-0336,Angela Custom Sofa - Best Seller Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),1699.0,24.0,41893.27,17032.68,0.055,24.0,40.65731798926176,184.0,SYNTHETIC
+PRD-0215,Domingo Coffee Table,House collection (various makers),Living & Occasional,Coffee tables,Stocked (ready-made),929.0,47.0,41405.53,19923.24,0.05170212765957447,47.0,48.11734084794954,185.0,SYNTHETIC
+PRD-0158,Veloute Grey Velvet King Duvet Cover,Brunelli,Décor & Lighting,Textiles & poufs,Stocked (ready-made),279.0,147.0,39355.74,21678.99,0.03971631205673759,141.0,55.084696666864865,186.0,SYNTHETIC
+PRD-0246,Arelius Light Brown Side Table,Mercana,Living & Occasional,Side & accent tables,Stocked (ready-made),769.0,54.0,39257.45,17290.25,0.053500000000000006,40.0,44.04323255840612,187.0,SYNTHETIC
+PRD-0155,Mattias Comforter Set,Ashley Furniture,Décor & Lighting,Textiles & poufs,Stocked (ready-made),369.99,111.0,38956.19,21090.739999999998,0.05118181818181818,110.0,54.139637372135205,188.0,SYNTHETIC
+PRD-0146,Aanya Pouf,Mercana,Décor & Lighting,Textiles & poufs,Stocked (ready-made),259.0,157.0,38425.24,20615.16,0.05512987012987013,154.0,53.650048770027205,189.0,SYNTHETIC
+PRD-0199,Baron Dark Brown Wood w/ Antiqued Aged Brass Metal 2-Door Open Shelving Unit,Mercana,Living & Occasional,Cabinets & storage,Stocked (ready-made),3499.0,11.0,37509.28,23383.85,0.025454545454545455,11.0,62.34150588867608,190.0,SYNTHETIC
+PRD-0075,"Century Black Rectangle Dining Table 71110""",Mobital,Dining,Dining tables,Stocked (ready-made),2999.0,13.0,37307.56,16995.32,0.04307692307692308,13.0,45.554627533936824,191.0,SYNTHETIC
+PRD-0125,Newill Wall Sconce,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),559.0,69.0,36815.74,20731.84,0.0455072463768116,69.0,56.31243593093607,192.0,SYNTHETIC
+PRD-0183,Tracey Office Desk,Mercana,Home Office,Desks,Stocked (ready-made),1119.0,34.0,36580.11,15654.81,0.03852941176470588,34.0,42.79596206791068,193.0,SYNTHETIC
+PRD-0077,"Denver Dining Table 91.5""",Mercana,Dining,Dining tables,Stocked (ready-made),2199.0,18.0,36503.4,14931.12,0.07777777777777778,18.0,40.90336790545538,194.0,SYNTHETIC
+PRD-0335,Amiata Black Leather Sofa - Onyx,Ashley Furniture,Sofas & Sectionals,Sofas,Stocked (ready-made),1739.0,24.0,36449.44,15539.68,0.12666666666666668,24.0,42.63352194162653,195.0,SYNTHETIC
+PRD-0340,Custom Deep Seater Memories Sofa Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),2069.0,17.0,35580.6,15858.97,0.05411764705882353,17.0,44.57195775225825,196.0,SYNTHETIC
+PRD-0349,"South Slope Custom 2-Seater Curved Sofa 94"" Made in Canada",Elite,Sofas & Sectionals,Sofas,Custom (made to order),1869.0,19.0,35574.54,14978.9,0.05052631578947369,19.0,42.10567445144758,197.0,SYNTHETIC
+PRD-0101,Napolitano Hutch & Sideboard,House collection (various makers),Dining,Sideboards & buffets,Stocked (ready-made),3449.0,11.0,35317.76,19307.48,0.06909090909090909,11.0,54.66790645839373,198.0,SYNTHETIC
+PRD-0078,"Fraser Round Dining Table 52""",LH Imports,Dining,Dining tables,Stocked (ready-made),1399.0,26.0,35072.93,15903.91,0.03576923076923077,26.0,45.34525629880367,199.0,SYNTHETIC
+PRD-0118,Danry - Distressed Cream - Metal Table Lamp,Ashley Furniture,Décor & Lighting,Lighting,Stocked (ready-made),199.99,183.0,34852.17,20358.57,0.0475,180.0,58.41406718720814,200.0,SYNTHETIC
+PRD-0330,2900 Custom Fabric Sofa Made in Canada,Decor-Rest,Sofas & Sectionals,Sofas,Custom (made to order),1569.0,26.0,34580.29,9181.84,0.19615384615384615,26.0,26.552235391895206,201.0,SYNTHETIC
+PRD-0257,Preston White Marble Accent Table with Metal Base Options,Mercana,Living & Occasional,Side & accent tables,Stocked (ready-made),439.0,82.0,34184.93,14313.869999999999,0.050746268656716415,67.0,41.87187161126262,202.0,SYNTHETIC
+PRD-0195,Stairatt Modern Chenille Accent Chair Gravel with Flared Arms,Ashley Furniture,Living & Occasional,Accent chairs,Stocked (ready-made),819.0,43.0,34037.64,18823.81,0.03348837209302325,43.0,55.30292346942973,203.0,SYNTHETIC
+PRD-0098,Easton Sideboard,LH Imports,Dining,Sideboards & buffets,Stocked (ready-made),1199.0,30.0,33979.659999999996,16534.06,0.05533333333333333,30.0,48.65869758555561,204.0,SYNTHETIC
+PRD-0167,Rain of Leaf I,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),479.0,73.0,33597.06,19610.26,0.038873239436619716,71.0,58.36897633304818,205.0,SYNTHETIC
+PRD-0151,Jawanza Comforter Set,Ashley Furniture,Décor & Lighting,Textiles & poufs,Stocked (ready-made),419.99,82.0,32906.18,17373.739999999998,0.04451219512195122,82.0,52.797802722771216,206.0,SYNTHETIC
+PRD-0221,Ridge Coffee Table,LH Imports,Living & Occasional,Coffee tables,Stocked (ready-made),629.0,54.0,32821.22,17060.78,0.03370370370370371,54.0,51.98094403559648,207.0,SYNTHETIC
+PRD-0193,Skylar Cream Accent Chair,Mercana,Living & Occasional,Accent chairs,Stocked (ready-made),1479.0,23.0,32597.16,16234.960000000001,0.041739130434782605,23.0,49.804829623194166,208.0,SYNTHETIC
+PRD-0169,Shoreland I,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),559.0,61.0,32595.29,16398.57,0.0440983606557377,61.0,50.30963062454729,209.0,SYNTHETIC
+PRD-0135,Giovanna Ogee Arch - Gold,Mercana,Décor & Lighting,Mirrors,Stocked (ready-made),229.0,149.0,32584.41,17878.11,0.04462585034013606,147.0,54.86706679666749,210.0,SYNTHETIC
+PRD-0315,Eastonbridge Sectional Sofa Chaise with Reversible Cushions in Shadow,Ashley Furniture,Sofas & Sectionals,Sectionals,Stocked (ready-made),982.52,34.0,32374.05,13099.11,0.030882352941176472,34.0,40.461758723422,211.0,SYNTHETIC
+PRD-0209,Aldwin Coffee Table with Lift Top,Ashley Furniture,Living & Occasional,Coffee tables,Stocked (ready-made),659.0,51.0,31566.1,14560.15,0.060784313725490195,51.0,46.12590722325533,212.0,SYNTHETIC
+PRD-0211,Arreto White Coffee Table,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),2179.0,15.0,31159.7,15732.35,0.04666666666666667,15.0,50.48941421130498,213.0,SYNTHETIC
+PRD-0248,Colton Side Table,LH Imports,Living & Occasional,Side & accent tables,Stocked (ready-made),569.0,57.0,30754.45,13791.82,0.04936170212765957,47.0,44.8449573964093,214.0,SYNTHETIC
+PRD-0139,Focus 8911_9343,Kalora,Décor & Lighting,Rugs,Stocked (ready-made),259.0,125.0,30722.579999999998,17318.83,0.05104,125.0,56.37166540049697,215.0,SYNTHETIC
+PRD-0113,Tayla Large Blonde Wood Chain Link Decorative Accent Sculpture,Mercana,Décor & Lighting,Decorative accessories,Stocked (ready-made),169.0,188.0,30523.09,16733.29,0.03973118279569892,186.0,54.82174314592658,216.0,SYNTHETIC
+PRD-0247,Ballatine Brown Wood Round Top w/ Black Metal Base Accent Table,Mercana,Living & Occasional,Side & accent tables,Stocked (ready-made),349.0,92.0,30499.11,15761.63,0.050144927536231884,69.0,51.67898341951618,217.0,SYNTHETIC
+PRD-0097,Colloseo Sideboard,LH Imports,Dining,Sideboards & buffets,Stocked (ready-made),2839.0,11.0,30150.18,13567.57,0.034545454545454546,11.0,44.999963515972375,218.0,SYNTHETIC
+PRD-0252,Faye Light Brown Side Table,Mercana,Living & Occasional,Side & accent tables,Stocked (ready-made),489.0,64.0,29457.36,13433.68,0.060200000000000004,50.0,45.60381514161486,219.0,SYNTHETIC
+PRD-0150,Esfera Pouf,Mercana,Décor & Lighting,Textiles & poufs,Stocked (ready-made),279.0,107.0,28639.35,17235.29,0.04065420560747664,107.0,60.18045102280604,220.0,SYNTHETIC
+PRD-0289,Valmont Custom Loveseat Made in Canada,Elite,Sofas & Sectionals,Loveseats,Custom (made to order),1427.0,19.0,27960.079999999998,10505.55,0.04,19.0,37.57339034795322,221.0,SYNTHETIC
+PRD-0149,Dayita Pouf,Mercana,Décor & Lighting,Textiles & poufs,Stocked (ready-made),259.0,113.0,27819.19,15322.52,0.049469026548672565,113.0,55.07895808612688,222.0,SYNTHETIC
+PRD-0188,Guilia Castlerock Gray Accent Chair,Mercana,Living & Occasional,Accent chairs,Stocked (ready-made),1119.0,26.0,27605.73,13437.029999999999,0.051153846153846154,26.0,48.674785995516146,223.0,SYNTHETIC
+PRD-0124,Newcomb Wall Sconce,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),259.0,111.0,27417.74,12726.890000000001,0.046306306306306305,111.0,46.41845024425791,224.0,SYNTHETIC
+PRD-0092,"Taj Live Edge Solid Wood Dining Table 94""",LH Imports,Dining,Dining tables,Stocked (ready-made),1899.0,15.0,27288.63,12277.08,0.042,15.0,44.98972649048339,225.0,SYNTHETIC
+PRD-0072,"Bronwyn Round Dining Table 48""",Magnussen,Dining,Dining tables,Stocked (ready-made),1799.0,16.0,27200.88,13355.76,0.055,16.0,49.10047027890274,226.0,SYNTHETIC
+PRD-0228,Colton Console Table,LH Imports,Living & Occasional,Console tables,Stocked (ready-made),879.0,31.0,26115.09,13335.34,0.04161290322580645,31.0,51.06373364977873,227.0,SYNTHETIC
+PRD-0337,Canadian Custom Top Grain Leather Sofa,Amax,Sofas & Sectionals,Sofas,Custom (made to order),3199.0,8.0,26002.11,8855.42,0.06,8.0,34.05654387278571,228.0,SYNTHETIC
+PRD-0262,8 Inch Chime Innerspring Mattress,Ashley Furniture,Mattresses & Bases,Mattresses,Stocked (ready-made),499.0,52.0,25229.44,13967.800000000001,0.02769230769230769,52.0,55.36309961695544,229.0,SYNTHETIC
+PRD-0269,King Koil Calvino Euro Top Plush Queen Mattress,King Koil,Mattresses & Bases,Mattresses,Stocked (ready-made),1229.0,21.0,24862.67,12938.87,0.03666666666666667,21.0,52.041353563394445,230.0,SYNTHETIC
+PRD-0192,Salem Beach Armless Chair with Cushion,Ashley Furniture,Living & Occasional,Accent chairs,Stocked (ready-made),519.0,51.0,24839.34,11737.44,0.06156862745098039,51.0,47.25342943894645,231.0,SYNTHETIC
+PRD-0258,Vincent Side Table,Mercana,Living & Occasional,Side & accent tables,Stocked (ready-made),589.0,44.0,24702.66,13662.619999999999,0.04028571428571429,35.0,55.308294734251284,232.0,SYNTHETIC
+PRD-0203,Excelsior Accent Cabinet,Mercana,Living & Occasional,Cabinets & storage,Stocked (ready-made),1699.0,15.0,24108.81,11366.31,0.054000000000000006,15.0,47.145877378435515,233.0,SYNTHETIC
+PRD-0004,Gia Bed - Warm Pecan Solid Wood,House collection (various makers),Bedroom,Beds,Stocked (ready-made),1569.0,16.0,23817.42,10035.34,0.051250000000000004,16.0,42.13445452949984,234.0,SYNTHETIC
+PRD-0060,Centiar Brown Dining Chair,Ashley Furniture,Dining,Dining chairs,Stocked (ready-made),219.0,112.0,23691.42,12678.460000000001,0.034583333333333334,24.0,53.514985593940764,235.0,SYNTHETIC
+PRD-0160,Corridor II Hand Embellished Textured Framed Art Print Matted under Glass,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),279.0,87.0,23020.29,13359.81,0.05047058823529412,85.0,58.0349335303769,236.0,SYNTHETIC
+PRD-0084,"Isla Oval Dining Table w/ Light Brown Wood Top & Arched Legs 86.5""",Mercana,Dining,Dining tables,Stocked (ready-made),2199.0,11.0,22913.58,10940.08,0.05272727272727273,11.0,47.744961721389664,237.0,SYNTHETIC
+PRD-0341,Custom Miller Sofa Made in Canada,Elite,Sofas & Sectionals,Sofas,Custom (made to order),1899.0,12.0,22680.9,8457.58,0.04916666666666667,12.0,37.28943736800567,238.0,SYNTHETIC
+PRD-0162,Glance,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),869.0,27.0,22663.52,11753.36,0.034074074074074076,27.0,51.860258247615555,239.0,SYNTHETIC
+PRD-0142,Naturals 2236,Kalora,Décor & Lighting,Rugs,Stocked (ready-made),149.0,158.0,22633.1,12533.74,0.03885350318471338,157.0,55.3779199491011,240.0,SYNTHETIC
+PRD-0181,Remix Desk,LH Imports,Home Office,Desks,Stocked (ready-made),859.0,28.0,22608.88,10582.88,0.06,28.0,46.80851063829787,241.0,SYNTHETIC
+PRD-0138,Evora 8657_12,Kalora,Décor & Lighting,Rugs,Stocked (ready-made),71.0,329.0,22345.829999999998,11765.19,0.04346625766871166,326.0,52.65049452179669,242.0,SYNTHETIC
+PRD-0249,Earth Wind & Fire Side Table,LH Imports,Living & Occasional,Side & accent tables,Stocked (ready-made),319.0,74.0,22314.05,11903.73,0.05491803278688525,61.0,53.34634456766029,243.0,SYNTHETIC
+PRD-0217,Johnelle Coffee Table,Ashley Furniture,Living & Occasional,Coffee tables,Stocked (ready-made),799.0,29.0,22284.11,9864.57,0.03827586206896552,29.0,44.26728283068069,244.0,SYNTHETIC
+PRD-0102,Oasis Sideboard,LH Imports,Dining,Sideboards & buffets,Stocked (ready-made),1449.0,16.0,22097.25,10250.21,0.046875,16.0,46.386812838701644,245.0,SYNTHETIC
+PRD-0106,Arizona Desert Hanging Pots,LH Imports,Décor & Lighting,Decorative accessories,Stocked (ready-made),269.0,87.0,22090.28,11745.98,0.055581395348837215,86.0,53.172617096750244,246.0,SYNTHETIC
+PRD-0172,Springs Ritual by Mercana Studio a Hand Embellished Textured Framed Canvas,House collection (various makers),Décor & Lighting,Wall art,Stocked (ready-made),919.0,25.0,21890.58,12700.58,0.0472,25.0,58.01847187237615,247.0,SYNTHETIC
+PRD-0270,Paarizaat Euphoria Double Sided Queen Mattress,Paarizaat,Mattresses & Bases,Mattresses,Stocked (ready-made),849.0,26.0,21216.51,9715.93,0.03884615384615385,26.0,45.79419518101705,248.0,SYNTHETIC
+PRD-0282,Amara Custom loveseat Made in Canada,Elite,Sofas & Sectionals,Loveseats,Custom (made to order),1502.0,14.0,21089.43,7911.62,0.08285714285714285,14.0,37.51462225389686,249.0,SYNTHETIC
+PRD-0080,"Gia Warm Pecan Extension Solid Wood Dining Table (71/102"")",LH Imports,Dining,Dining tables,Stocked (ready-made),1231.0,19.0,21013.17,10418.01,0.10157894736842105,19.0,49.57847863982446,250.0,SYNTHETIC
+PRD-0179,Eldorado Office Desk,Mercana,Home Office,Desks,Stocked (ready-made),1886.0,12.0,20991.18,8679.42,0.0725,12.0,41.34793756234762,251.0,SYNTHETIC
+PRD-0049,Centiar Brown Bar Stool,Ashley Furniture,Dining,Bar & counter stools,Stocked (ready-made),239.0,89.0,20221.79,10394.41,0.05393939393939394,33.0,51.402027219153204,252.0,SYNTHETIC
+PRD-0127,Santander Wall Sconce,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),129.0,161.0,19654.44,9353.66,0.054000000000000006,160.0,47.5905698661473,253.0,SYNTHETIC
+PRD-0297,Summit Dual Power Recliner Chair,Intercon,Sofas & Sectionals,Recliners,Stocked (ready-made),1449.0,14.0,19474.559999999998,8134.7,0.04,14.0,41.77090522199218,254.0,SYNTHETIC
+PRD-0120,Fenton White Pendant Light,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),429.0,48.0,19425.12,10549.92,0.05666666666666667,48.0,54.31070696088365,255.0,SYNTHETIC
+PRD-0171,Spark II,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),239.0,84.0,19033.96,11405.08,0.05190476190476191,84.0,59.919638372677056,256.0,SYNTHETIC
+PRD-0110,Pianta Plant Stands,Mercana,Décor & Lighting,Decorative accessories,Stocked (ready-made),189.0,106.0,18988.83,10934.95,0.05152380952380953,105.0,57.586223058503336,257.0,SYNTHETIC
+PRD-0031,Piperton Black Kids Bed,Ashley Furniture,Bedroom,Kids beds,Stocked (ready-made),359.0,55.0,18897.76,8137.01,0.042909090909090904,55.0,43.05806614117229,258.0,SYNTHETIC
+PRD-0271,Paarizaat Safora Euro Top King Mattress,Paarizaat,Mattresses & Bases,Mattresses,Stocked (ready-made),1329.0,16.0,18499.68,9441.28,0.13,16.0,51.03482871055067,259.0,SYNTHETIC
+PRD-0152,Linen Natural King Duvet Cover,Brunelli,Décor & Lighting,Textiles & poufs,Stocked (ready-made),329.0,59.0,18450.32,9928.949999999999,0.04982456140350877,57.0,53.814513786210746,260.0,SYNTHETIC
+PRD-0095,Arelius Sideboard,Mercana,Dining,Sideboards & buffets,Stocked (ready-made),2679.0,7.0,18029.67,8278.11,0.038571428571428576,7.0,45.91381872213968,261.0,SYNTHETIC
+PRD-0033,Robbinsdale Sleigh Storage Kids Bed,Ashley Furniture,Bedroom,Kids beds,Stocked (ready-made),1311.75,14.0,17774.23,8426.710000000001,0.03214285714285715,14.0,47.40970494924394,262.0,SYNTHETIC
+PRD-0034,Socalle Twin Platform Kids Bed,Ashley Furniture,Bedroom,Kids beds,Stocked (ready-made),349.0,53.0,17586.11,8096.99,0.04924528301886792,53.0,46.04196152531742,263.0,SYNTHETIC
+PRD-0256,Pieta Stool,LH Imports,Living & Occasional,Side & accent tables,Stocked (ready-made),449.0,40.0,17160.78,8360.380000000001,0.04551724137931035,29.0,48.71794871794873,264.0,SYNTHETIC
+PRD-0071,"Aida Light Brown Wood Dining Table 84""",Mercana,Dining,Dining tables,Stocked (ready-made),1899.0,9.0,16844.13,8349.93,0.014444444444444446,9.0,49.57174992118916,265.0,SYNTHETIC
+PRD-0161,Forest Crossing,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),799.0,22.0,16786.99,8542.93,0.045,22.0,50.89018340989063,266.0,SYNTHETIC
+PRD-0280,iKidz Pink Mattress,Ashley Furniture,Mattresses & Bases,Mattresses,Stocked (ready-made),339.99,51.0,16710.49,7832.919999999999,0.03627450980392157,51.0,46.87426879762352,267.0,SYNTHETIC
+PRD-0099,Gia Sideboard,LH Imports,Dining,Sideboards & buffets,Stocked (ready-made),1319.0,13.0,16553.45,6933.969999999999,0.03461538461538462,13.0,41.88836768166152,268.0,SYNTHETIC
+PRD-0154,Linen White King Duvet Cover,Brunelli,Décor & Lighting,Textiles & poufs,Stocked (ready-made),319.0,53.0,16150.970000000001,8661.01,0.04471698113207547,53.0,53.62532405174426,269.0,SYNTHETIC
+PRD-0148,Damini Pouf,Mercana,Décor & Lighting,Textiles & poufs,Stocked (ready-made),289.0,57.0,15788.07,8754.27,0.041578947368421056,57.0,55.44863938404124,270.0,SYNTHETIC
+PRD-0178,Dandhi Multi-level Desk,LH Imports,Home Office,Desks,Stocked (ready-made),1339.0,12.0,15719.86,7573.42,0.021666666666666667,12.0,48.1774010710019,271.0,SYNTHETIC
+PRD-0029,Chesani Gray Twin Uph Kids Bed,Ashley Furniture,Bedroom,Kids beds,Stocked (ready-made),579.0,28.0,15621.42,7142.46,0.03642857142857143,28.0,45.722219875017764,272.0,SYNTHETIC
+PRD-0051,Givens IV Seat,Mercana,Dining,Bar & counter stools,Stocked (ready-made),319.0,52.0,15541.68,6235.76,0.06941176470588235,17.0,40.12281812519625,273.0,SYNTHETIC
+PRD-0232,Camden Media Cabinet in Walnut & White,House collection (various makers),Living & Occasional,Media cabinets,Stocked (ready-made),1679.0,9.0,14389.029999999999,6878.889999999999,0.04777777777777778,9.0,47.80648869312247,274.0,SYNTHETIC
+PRD-0229,Elaine Solid Wood Console Table,Mercana,Living & Occasional,Console tables,Stocked (ready-made),1469.0,10.0,14014.26,7036.46,0.046,10.0,50.20928682641823,275.0,SYNTHETIC
+PRD-0108,Mabel Set of Two Metal Plant Stands with Green Tops,Mercana,Décor & Lighting,Decorative accessories,Stocked (ready-made),289.0,50.0,13640.800000000001,7094.8,0.05714285714285714,49.0,52.011612222157055,276.0,SYNTHETIC
+PRD-0170,Solo by Rebecca Cozart Hand-Embellished Textured Framed Wall Art Print,Rebecca Cozart,Décor & Lighting,Wall art,Stocked (ready-made),839.0,17.0,13499.51,8136.69,0.05352941176470588,17.0,60.27396549948849,277.0,SYNTHETIC
+PRD-0328,2786 Custom Fabric Sofa Made in Canada,Decor-Rest,Sofas & Sectionals,Sofas,Custom (made to order),1569.0,8.0,13437.24,6559.87,0.04875,8.0,48.818581792094214,278.0,SYNTHETIC
+PRD-0105,Tucker Dark Brown Sideboard,Mercana,Dining,Sideboards & buffets,Stocked (ready-made),2729.0,5.0,12635.27,5744.57,0.074,5.0,45.464560709822585,279.0,SYNTHETIC
+PRD-0206,Mirimyn Accent Cabinet Discontinued,Ashley Furniture,Living & Occasional,Cabinets & storage,Stocked (ready-made),1099.0,13.0,12462.66,6262.05,0.1276923076923077,13.0,50.24649633384848,280.0,SYNTHETIC
+PRD-0312,Customize Your Canadian Modular,House collection (various makers),Sofas & Sectionals,Sectionals,Custom (made to order),839.0,13.0,12254.6,5479.97,0.03769230769230769,13.0,44.71765704306954,281.0,SYNTHETIC
+PRD-0234,Carnaby Ottoman,Ashley Furniture,Living & Occasional,Ottomans & benches,Stocked (ready-made),749.0,17.0,12118.82,6236.139999999999,0.048235294117647064,17.0,51.45831029753721,282.0,SYNTHETIC
+PRD-0147,Binita Pouf,Mercana,Décor & Lighting,Textiles & poufs,Stocked (ready-made),269.0,48.0,12005.47,6337.15,0.07020833333333333,48.0,52.78552193291891,283.0,SYNTHETIC
+PRD-0204,Grier Accent Cabinet,Mercana,Living & Occasional,Cabinets & storage,Stocked (ready-made),1469.0,8.0,10870.6,4924.12,0.075,8.0,45.29759166927308,284.0,SYNTHETIC
+PRD-0156,Raitha Tufted White King Duvet Cover,Brunelli,Décor & Lighting,Textiles & poufs,Stocked (ready-made),229.0,49.0,10795.06,6396.33,0.03875,48.0,59.25238025541313,285.0,SYNTHETIC
+PRD-0144,Naturals SH121,Kalora,Décor & Lighting,Rugs,Stocked (ready-made),64.0,178.0,10705.28,6125.34,0.06062146892655367,177.0,57.21793358043881,286.0,SYNTHETIC
+PRD-0253,Infinity Side Table - Seashell Finish,LH Imports,Living & Occasional,Side & accent tables,Stocked (ready-made),619.0,17.0,10331.11,5080.15,0.02153846153846154,13.0,49.173322130923005,287.0,SYNTHETIC
+PRD-0233,Irish Coast TV Cabinet,LH Imports,Living & Occasional,Media cabinets,Stocked (ready-made),699.0,16.0,10282.29,5215.89,0.080625,16.0,50.72692950694835,288.0,SYNTHETIC
+PRD-0287,Meggett Linen Loveseat,Ashley Furniture,Sofas & Sectionals,Loveseats,Stocked (ready-made),1259.0,8.0,9983.869999999999,4645.71,0.00875,8.0,46.53215636822195,289.0,SYNTHETIC
+PRD-0047,Catania Counter Stool - Natural,LH Imports,Dining,Bar & counter stools,Stocked (ready-made),499.0,21.0,9740.48,4825.85,0.07333333333333333,9.0,49.544272972173864,290.0,SYNTHETIC
+PRD-0109,Natural Concrete Pot,LH Imports,Décor & Lighting,Decorative accessories,Stocked (ready-made),109.0,91.0,9479.73,4996.16,0.04311111111111111,90.0,52.70361075684645,291.0,SYNTHETIC
+PRD-0241,Papillion Blonde Wood Dining Bench,Mercana,Living & Occasional,Ottomans & benches,Stocked (ready-made),999.0,10.0,9410.58,4025.98,0.05800000000000001,10.0,42.78142261157124,292.0,SYNTHETIC
+PRD-0174,Villham Wall Art,Ashley Furniture,Décor & Lighting,Wall art,Stocked (ready-made),479.0,22.0,9407.56,5329.42,0.10727272727272727,22.0,56.650396064441786,293.0,SYNTHETIC
+PRD-0202,Darius Shelving Unit,Mercana,Living & Occasional,Cabinets & storage,Stocked (ready-made),3389.0,3.0,9319.75,3778.75,0.08333333333333333,3.0,40.54561549397784,294.0,SYNTHETIC
+PRD-0136,Giovanna Rounded Arch - Black,Mercana,Décor & Lighting,Mirrors,Stocked (ready-made),199.0,49.0,9219.67,5026.74,0.05448979591836735,49.0,54.52190805093892,295.0,SYNTHETIC
+PRD-0114,Arcadia Wall Sconce,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),129.0,75.0,9171.9,4857.15,0.052,75.0,52.95685735779936,296.0,SYNTHETIC
+PRD-0175,West Desert Landscape 2,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),419.0,22.0,8794.81,5098.37,0.045909090909090906,22.0,57.97021197729115,297.0,SYNTHETIC
+PRD-0166,Mountain Light,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),749.0,13.0,8501.15,4976.33,0.12692307692307694,13.0,58.537139092946255,298.0,SYNTHETIC
+PRD-0207,Stark Tall Bookcase,LH Imports,Living & Occasional,Cabinets & storage,Stocked (ready-made),899.0,10.0,8405.65,3982.5499999999997,0.065,10.0,47.37944120918668,299.0,SYNTHETIC
+PRD-0230,Venus Console Table,LH Imports,Living & Occasional,Console tables,Stocked (ready-made),949.0,9.0,8370.18,4219.29,0.02,9.0,50.40859336358358,300.0,SYNTHETIC
+PRD-0112,Sophia Small White Marble Geometric Ornament Decor Display,Mercana,Décor & Lighting,Decorative accessories,Stocked (ready-made),129.0,68.0,8337.27,5039.2699999999995,0.049558823529411766,68.0,60.44268687472037,301.0,SYNTHETIC
+PRD-0117,Cordell Pendant Light,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),269.0,33.0,8282.51,3835.1,0.06696969696969697,33.0,46.30359637356308,302.0,SYNTHETIC
+PRD-0111,Sherway I Round Large Contemporary Wall Clock,Mercana,Décor & Lighting,Decorative accessories,Stocked (ready-made),199.0,44.0,8043.58,4628.74,0.08136363636363636,44.0,57.545769421078674,303.0,SYNTHETIC
+PRD-0126,Sabinal Wall Sconce - White,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),129.0,62.0,7614.87,3687.79,0.047903225806451614,62.0,48.42879786522948,304.0,SYNTHETIC
+PRD-0048,Catania Counter Stool - Warm Brown,LH Imports,Dining,Bar & counter stools,Stocked (ready-made),499.0,16.0,7564.84,3013.96,0.04,6.0,39.84168865435356,305.0,SYNTHETIC
+PRD-0115,Bella Large Black Metal Cylindrical Cage Candle Holder Lantern,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),299.0,26.0,7472.01,4136.99,0.03884615384615385,26.0,55.366494423856494,306.0,SYNTHETIC
+PRD-0180,Realyn Desk,Ashley Furniture,Home Office,Desks,Stocked (ready-made),949.0,9.0,7392.71,3088.01,0.13444444444444445,9.0,41.77101495933156,307.0,SYNTHETIC
+PRD-0012,Opera 2 Drawer Nightstand - Scrubbed Teak,House collection (various makers),Bedroom,Beds,Stocked (ready-made),589.0,13.0,7362.5,3648.79,0.038461538461538464,13.0,49.55911714770798,308.0,SYNTHETIC
+PRD-0223,Trey Coffee Table - Gold,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),1639.0,6.0,7211.6,1891.4,0.26666666666666666,6.0,26.2271895279827,309.0,SYNTHETIC
+PRD-0216,Hayden Dark Brown Wood Rectangular Coffee Table,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),1699.0,5.0,7084.83,2930.78,0.166,5.0,41.36697704814371,310.0,SYNTHETIC
+PRD-0052,Hollyfield Bar Stool - Gray,Mercana,Dining,Bar & counter stools,Stocked (ready-made),729.0,11.0,7027.56,2777.4900000000002,0.1325,4.0,39.522821576763484,311.0,SYNTHETIC
+PRD-0035,ANNA Solid Wood Cabinet Bed Queen Size - MyComfort,House collection (various makers),Bedroom,Murphy beds,Stocked (ready-made),2399.0,3.0,6957.1,3027.55,0.03333333333333333,3.0,43.517413864972475,312.0,SYNTHETIC
+PRD-0198,Argyle Accent Cabinet,Mercana,Living & Occasional,Cabinets & storage,Stocked (ready-made),1759.0,4.0,6684.2,3102.88,0.05,4.0,46.421112474192874,313.0,SYNTHETIC
+PRD-0140,Intrigue 12194_505,Kalora,Décor & Lighting,Rugs,Stocked (ready-made),539.0,14.0,6640.48,3395.7000000000003,0.12,14.0,51.13636363636365,314.0,SYNTHETIC
+PRD-0129,Vaughn Table Lamp,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),289.0,24.0,6548.74,3170.98,0.055833333333333325,24.0,48.42122301389275,315.0,SYNTHETIC
+PRD-0121,Hines Wall Sconce,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),149.0,46.0,6481.5,3136.84,0.05434782608695652,46.0,48.39682172336651,316.0,SYNTHETIC
+PRD-0050,Frodo Upholstered Fabric Counter Stool with Black Iron Base,Mercana,Dining,Bar & counter stools,Stocked (ready-made),379.0,20.0,6310.35,2633.95,0.15625,8.0,41.74015704358712,317.0,SYNTHETIC
+PRD-0243,Shae Brown Wood w/ Oatmeal Fabric Bench,Mercana,Living & Occasional,Ottomans & benches,Stocked (ready-made),929.0,7.0,6224.3,2940.32,0.042857142857142864,7.0,47.239368282377136,318.0,SYNTHETIC
+PRD-0165,Josie Wall Art,Ashley Furniture,Décor & Lighting,Wall art,Stocked (ready-made),129.0,49.0,6078.48,3569.19,0.038367346938775505,49.0,58.71846251036443,319.0,SYNTHETIC
+PRD-0030,Kordesky Kids Bed,Ashley Furniture,Bedroom,Kids beds,Stocked (ready-made),519.0,12.0,5823.18,2229.66,0.065,12.0,38.28938827238725,320.0,SYNTHETIC
+PRD-0123,Mariam Table Lamp,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),299.0,20.0,5707.91,2825.51,0.0455,20.0,49.50165647320999,321.0,SYNTHETIC
+PRD-0028,Chesani Blush Twin Uph Kids Bed,Ashley Furniture,Bedroom,Kids beds,Stocked (ready-made),579.0,11.0,5645.25,2626.3,0.11363636363636363,11.0,46.52229750675347,322.0,SYNTHETIC
+PRD-0242,"Restore Bench 73""",LH Imports,Living & Occasional,Ottomans & benches,Stocked (ready-made),1139.0,5.0,5512.76,2562.76,0.032,5.0,46.487784703125115,323.0,SYNTHETIC
+PRD-0159,Arid Solitude,Mercana,Décor & Lighting,Wall art,Stocked (ready-made),269.0,20.0,5078.72,3002.12,0.05600000000000001,20.0,59.11174469157583,324.0,SYNTHETIC
+PRD-0032,Piperton White Kids Bed,Ashley Furniture,Bedroom,Kids beds,Stocked (ready-made),359.0,15.0,5058.31,1795.06,0.06066666666666667,15.0,35.487346564366355,325.0,SYNTHETIC
+PRD-0235,Estelle Rustic Brown Reclaimed Wood Bench,Mercana,Living & Occasional,Ottomans & benches,Stocked (ready-made),559.0,9.0,4796.22,2547.39,0.04666666666666666,9.0,53.112451055205966,326.0,SYNTHETIC
+PRD-0119,Dreward - Distressed Grey - Paper Table Lamp,Ashley Furniture,Décor & Lighting,Lighting,Stocked (ready-made),199.0,25.0,4728.24,2524.2400000000002,0.0496,25.0,53.38646092414937,327.0,SYNTHETIC
+PRD-0240,Live Edge-Solid Wood Bench,LH Imports,Living & Occasional,Ottomans & benches,Stocked (ready-made),959.0,5.0,4718.28,2229.68,0.016,5.0,47.256203531795485,328.0,SYNTHETIC
+PRD-0128,Tahla Pendant Light,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),199.0,25.0,4700.38,2585.88,0.0552,25.0,55.014275441560045,329.0,SYNTHETIC
+PRD-0085,"Jennings Round Dining Table Dark 48""",Mercana,Dining,Dining tables,Stocked (ready-made),1219.0,4.0,4571.25,1918.69,0.0625,4.0,41.972983319660926,330.0,SYNTHETIC
+PRD-0153,Linen White Double Queen Duvet Cover,Brunelli,Décor & Lighting,Textiles & poufs,Stocked (ready-made),279.0,18.0,4371.93,2548.89,0.12944444444444445,18.0,58.301253679724965,331.0,SYNTHETIC
+PRD-0157,Saphyr Blue Velvet Double Queen Duvet Cover,Brunelli,Décor & Lighting,Textiles & poufs,Stocked (ready-made),149.0,27.0,3777.15,2139.87,0.06111111111111111,27.0,56.65303204797267,332.0,SYNTHETIC
+PRD-0056,Monmouth Bar/Counter Stool,Mercana,Dining,Bar & counter stools,Stocked (ready-made),619.0,6.0,3621.15,1845.87,0.025,2.0,50.974690360796984,333.0,SYNTHETIC
+PRD-0218,Pinera Black Coffee Table,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),719.0,6.0,3465.58,1446.6399999999999,0.19666666666666666,6.0,41.743084851597715,334.0,SYNTHETIC
+PRD-0245,Ziggy Ottoman,LH Imports,Living & Occasional,Ottomans & benches,Stocked (ready-made),719.0,5.0,3307.4,1434.3999999999999,0.08,5.0,43.36941404124085,335.0,SYNTHETIC
+PRD-0046,Bowie Cognac Leather Bar Stool,LH Imports,Dining,Bar & counter stools,Stocked (ready-made),349.0,10.0,3196.84,1280.84,0.09000000000000001,3.0,40.0658149923049,336.0,SYNTHETIC
+PRD-0122,Leo Table Lamp,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),499.0,6.0,2854.2799999999997,1617.74,0.04666666666666667,6.0,56.67769104642852,337.0,SYNTHETIC
+PRD-0177,Cordell Wooden Office Desk,Mercana,Home Office,Desks,Stocked (ready-made),1379.43,2.0,2758.86,1382.18,0.0,2.0,50.09967885285952,338.0,SYNTHETIC
+PRD-0131,Argonne Frame Mirror,Mercana,Décor & Lighting,Mirrors,Stocked (ready-made),159.0,17.0,2591.7,1399.6599999999999,0.041176470588235294,17.0,54.00547902920862,339.0,SYNTHETIC
+PRD-0055,Mila Bar/Counter Stool,LH Imports,Dining,Bar & counter stools,Stocked (ready-made),199.0,12.0,2328.3,1196.34,0.025,4.0,51.38255379461408,340.0,SYNTHETIC
+PRD-0116,Cato Table Lamp,Mercana,Décor & Lighting,Lighting,Stocked (ready-made),449.0,5.0,2141.73,1131.48,0.046,5.0,52.83018867924528,341.0,SYNTHETIC
+PRD-0143,Naturals 2240,House collection (various makers),Décor & Lighting,Rugs,Stocked (ready-made),55.0,22.0,1144.0,633.38,0.05454545454545454,22.0,55.36538461538461,342.0,SYNTHETIC
+PRD-0244,Valence Beige Ottoman,Mercana,Living & Occasional,Ottomans & benches,Stocked (ready-made),1179.0,1.0,1061.1,525.83,0.1,1.0,49.555178588257476,343.0,SYNTHETIC
+PRD-0208,Aida Light Brown Round Coffee Table,Mercana,Living & Occasional,Coffee tables,Stocked (ready-made),1119.0,1.0,872.82,323.39,0.22,1.0,37.0511674801219,344.0,SYNTHETIC
+PRD-0236,Fossil Beige Storage Bench,Ashley Furniture,Living & Occasional,Ottomans & benches,Stocked (ready-made),889.0,1.0,800.1,409.83,0.1,1.0,51.222347206599174,345.0,SYNTHETIC
+PRD-0201,Bronfield Accent Cabinet,Ashley Furniture,Living & Occasional,Cabinets & storage,Stocked (ready-made),409.0,2.0,728.02,330.48,0.11,2.0,45.39435729787644,346.0,SYNTHETIC
+PRD-0239,Lavernett Ottoman,Ashley Furniture,Living & Occasional,Ottomans & benches,Stocked (ready-made),729.0,1.0,656.1,293.79,0.1,1.0,44.778235025148604,347.0,SYNTHETIC
+PRD-0238,Heron Blue Storage Bench,Ashley Furniture,Living & Occasional,Ottomans & benches,Stocked (ready-made),309.0,1.0,309.0,160.68,0.0,1.0,52.0,348.0,SYNTHETIC
+PRD-0107,Garand Small 13H Two-Toned Black/Natural Ceramic Jug - Decorative Vase,Mercana,Décor & Lighting,Decorative accessories,Stocked (ready-made),49.0,7.0,266.56,127.33000000000001,0.22285714285714286,7.0,47.767857142857146,349.0,SYNTHETIC
+PRD-0237,Fossil Whitewash Storage Bench,Ashley Furniture,Living & Occasional,Ottomans & benches,Stocked (ready-made),391.0,0.0,0.0,0.0,,,,350.0,SYNTHETIC

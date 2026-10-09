@@ -1,0 +1,5 @@
+campaign_id,campaign_name,spend_channel,data_status
+CMP-SEARCH,Always-on search & shopping ads,Google search ads,SYNTHETIC
+CMP-SOCIAL,Social ads & weekly furniture giveaways,Meta / Instagram ads,SYNTHETIC
+CMP-REVIEW,Review & marketplace profile,Review & marketplace listings,SYNTHETIC
+CMP-PARTNER,Real-estate & stager partnership,Contests & community giveaways,SYNTHETIC

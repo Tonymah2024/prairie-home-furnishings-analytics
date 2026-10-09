@@ -1,0 +1,31 @@
+{
+ "ran": true,
+ "ok": true,
+ "max_diff": 1.862645149230957e-09,
+ "excel_checks": true,
+ "cases": "Base; Conservative; Custom",
+ "rows": [
+  {
+   "case": "Base",
+   "rows_compared": 120,
+   "max_abs_diff_vs_python": 1.1641532182693481e-09,
+   "excel_checks_all_true": true,
+   "excel_net_income_12m": 611286.3641994486
+  },
+  {
+   "case": "Conservative",
+   "rows_compared": 120,
+   "max_abs_diff_vs_python": 9.313225746154785e-10,
+   "excel_checks_all_true": true,
+   "excel_net_income_12m": 258375.25295949954
+  },
+  {
+   "case": "Custom",
+   "rows_compared": 120,
+   "max_abs_diff_vs_python": 1.862645149230957e-09,
+   "excel_checks_all_true": true,
+   "excel_net_income_12m": 890262.5030791578
+  }
+ ],
+ "data_status": "SIMULATED"
+}

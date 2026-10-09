@@ -1,0 +1,46 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><title>Prairie Home Furnishings - Demonstration guide</title><style>
+@page { size: Letter; margin: 17mm 15mm 18mm 15mm;
+  @bottom-left { content: "VisiVault Analytics Ltd.  |  Prairie Home Furnishings (fictional)  |  SYNTHETIC DEMONSTRATION DATA - not actual company records"; font: 7.5pt Helvetica, Arial; color: #4a3aa7; }
+  @bottom-right { content: "Page " counter(page) " of " counter(pages); font: 7.5pt Helvetica, Arial; color: #888; } }
+@page cover { margin: 0; @bottom-left { content: none } @bottom-right { content: none } }
+* { box-sizing: border-box; }
+body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.6pt; line-height: 1.45; color: #0b1120; margin: 0; }
+h1 { font-size: 20pt; margin: 0 0 6px; color: #0b1120; }
+h2 { font-size: 14pt; color: #184f95; border-bottom: 2px solid #2a78d6; padding-bottom: 3px; margin: 18px 0 8px; break-after: avoid; }
+h3 { font-size: 11pt; color: #0b1120; margin: 12px 0 4px; break-after: avoid; }
+p { margin: 4px 0 7px; }
+ul { margin: 3px 0 8px 0; padding-left: 18px; } li { margin: 2px 0; }
+table { border-collapse: collapse; width: 100%; margin: 6px 0 10px; font-size: 8.2pt; break-inside: auto; }
+th { background: #0b1120; color: #fff; text-align: left; padding: 4px 6px; font-weight: 600; }
+td { border-bottom: 1px solid #e3e2dd; padding: 3.5px 6px; vertical-align: top; }
+tr { break-inside: avoid; }
+tbody tr:nth-child(even) td { background: #f7f7f5; }
+figure { margin: 6px 0 10px; break-inside: avoid; } figure img { border: 1px solid #ecebe7; border-radius: 4px; }
+figcaption { font-size: 8pt; color: #52514e; margin-top: 2px; }
+.callout { background: #eaf2fc; border-left: 4px solid #2a78d6; padding: 8px 12px; margin: 8px 0; break-inside: avoid; }
+.warn { background: #fff4e5; border-left: 4px solid #d97706; padding: 8px 12px; margin: 8px 0; break-inside: avoid; font-size: 8.8pt; }
+.kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 8px 0 12px; }
+.kpi { border: 1px solid #e3e2dd; border-radius: 8px; padding: 8px 10px; break-inside: avoid; }
+.kpi .l { font-size: 7.4pt; text-transform: uppercase; letter-spacing: .04em; color: #52514e; }
+.kpi .v { font-size: 15pt; font-weight: 700; color: #184f95; }
+.kpi .s { font-size: 7.6pt; color: #52514e; }
+.tag { display:inline-block; font-size:7pt; font-weight:700; padding:1px 6px; border-radius: 8px; }
+.tag.v { background:#e3f5f2; color:#0d9488; } .tag.s { background:#efeaf9; color:#4a3aa7; } .tag.a { background:#fff4e5; color:#b45309; }
+.pb { break-before: page; }
+.two { display:block; }
+.cover { page: cover; height: 279mm; background: linear-gradient(160deg, #0b1120 0%, #184f95 70%, #2a78d6 100%); color: #fff; padding: 34mm 22mm; position: relative; }
+.cover h1 { color:#fff; font-size: 28pt; line-height: 1.15; margin-bottom: 14px; }
+.cover .sub { font-size: 13pt; opacity: .9; }
+.cover .meta { position:absolute; bottom: 30mm; left: 22mm; right: 22mm; font-size: 10pt; opacity:.92; }
+.cover .badge { display:inline-block; background:#fff4e5; color:#7a4a00; font-weight:700; padding:6px 12px; border-radius:6px; font-size:9.5pt; margin-top:22px; }
+.brandmark { font-weight: 800; letter-spacing: .02em; font-size: 12pt; }
+.small { font-size: 8pt; color: #52514e; }
+.toc li { margin: 3px 0; }
+</style></head><body><h1>Prairie Home Furnishings Analytics - Demonstration guide</h1><p class='small'>Demonstration developed by VisiVault Analytics Ltd. · 20-minute walkthrough for a furniture retailer's management team</p>
+<div class='warn'>Synthetic demonstration data — not actual company financial or operational records. Prairie Home Furnishings is fictional; say so at the start of every demo.</div>
+<h2>Before the meeting</h2><ul><li>Open the dashboard ([Streamlit Community Cloud URL - added after deployment] or locally: <code>.venv/bin/streamlit run dashboard/app.py</code>).</li>
+<li>Have the Excel model and the executive report PDF ready to share.</li><li>Ask which systems they already use (POS/ERP, accounting, e-commerce, CRM) - the pilot reads from them; it replaces nothing.</li></ul>
+<h2>Walkthrough</h2><table class=''><thead><tr><th>Page</th><th>What to show</th></tr></thead><tbody><tr><td>Executive Overview</td><td>Start here: bookings vs recognised revenue, open orders and deposits, headline findings and ranked actions.</td></tr><tr><td>Sales Performance / Product Profitability</td><td>Filter by date, category and channel; show promotion lift and the custom vs ready-made margin trade-off; open the cross-sell table.</td></tr><tr><td>Inventory Intelligence</td><td>Filter to ABC class A and action 'Reorder now'; then show aged stock and the clearance list.</td></tr><tr><td>Custom Order Tracking</td><td>Tick 'Only past promised date' - the tracker lists each late order with deposit, balance, supplier ETA and model delay risk.</td></tr><tr><td>Supplier & Fulfillment</td><td>Show the weakest suppliers' on-time %, the Saturday pickup-slot crunch and why third-party delivery is not revenue.</td></tr><tr><td>Customer Intelligence / Design Consultations</td><td>Explain low repeat rates in furniture; show the follow-up effect on conversion (32% vs 53%) and the open-quote pipeline.</td></tr><tr><td>Income Statement / Balance Sheet / Cash Flow / Ratios</td><td>Show revenue recognised at hand-off, deposits as a liability, the cash bridge and the cash conversion cycle after deposits.</td></tr><tr><td>Forecasting / Scenario Simulator</td><td>Move the sliders (volume, margin, supplier delays, payment terms) and watch revenue, profit, cash and working capital update together.</td></tr><tr><td>Excel model</td><td>Open Prairie_Home_Integrated_Financial_Model.xlsx, change Assumptions!C4 to Optimistic and show the Checks sheet staying TRUE.</td></tr></tbody></table>
+<h2>Questions to ask</h2><ul><li>How are deposits, balances and supplier ETAs tracked today, and who chases late orders?</li><li>Which reports does management review monthly, and how long do they take to produce?</li>
+<li>Where is stock aging or clearance decided?</li><li>How are design consultations followed up and measured?</li></ul>
+<h2>Close</h2><p>Propose the 90-day pilot (sales & product profitability, inventory aging & reorder intelligence, cash flow & financial reporting) with read-only data access.</p></body></html>

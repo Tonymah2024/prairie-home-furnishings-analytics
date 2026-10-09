@@ -1,0 +1,7 @@
+handoff_wait_reason,orders,data_status
+Carrier scheduling,3277,SYNTHETIC
+Customer requested storage,459,SYNTHETIC
+Customer scheduling,2720,SYNTHETIC
+Not yet handed off,219,SYNTHETIC
+Pickup slot capacity,482,SYNTHETIC
+Same day,415,SYNTHETIC

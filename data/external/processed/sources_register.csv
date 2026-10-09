@@ -1,0 +1,13 @@
+source,url,information_used,retrieved
+Public product feed,a public Calgary furniture retailer's website,"1,752 products: titles, manufacturers, product types, CAD list and compare-at prices, availability",2026-10-09
+Contact page,a public Calgary furniture retailer's website,"Location (Calgary), hours Mon-Sat 10-6 / Sunday closed, third-party delivery company paid directly, Guardsman protection plan claims",2026-10-09
+Free design consult page,a public Calgary furniture retailer's website,"Free design consultation: schedule, mood boards/layouts, store places order, third-party delivery paid directly by client",2026-10-09
+Pickup & delivery page,a public Calgary furniture retailer's website,"In-store pickup 10:30-5:30, 9 pickup slots/day, 24h notice, balance paid before pickup, storage beyond 1 week by request; white-glove partner booked and paid directly",2026-10-09
+Returns & exchanges page / refund policy,a public Calgary furniture retailer's website,"In-stock regular-priced items refundable within 3 days with 15% restocking fee; discounted, custom, mattresses, bedding and clearance final sale",2026-10-09
+0% financing page,a public Calgary furniture retailer's website,"0% interest financing, no admin cost for 12 months",2026-10-09
+FAQs,a public Calgary furniture retailer's website,"Family business; custom Canadian sofas/sectionals (fabric, foam, configuration); 70,000 sq ft showroom; price-match guarantee within 14 days; $199 flat-rate Calgary delivery for online orders over $999 (one item); free design consult Mon-Sat; 5,000+ reviews; contests/giveaways",2026-10-09
+Our story,a public Calgary furniture retailer's website,Specialises in custom Canadian furniture; over 1/3 of products hand-made in Canada; buys factory-direct,2026-10-09
+Warranty page,a public Calgary furniture retailer's website,One-year manufacturer warranty; optional third-party Guardsman 5-year protection plan sold through the store,2026-10-09
+Terms of service,a public Calgary furniture retailer's website,Warehouse pickup Mon-Sat; local third-party delivery companies paid directly by the customer,2026-10-09
+Bank of Canada Valet API,https://www.bankofcanada.ca/valet/,Policy rate and CPI (monthly) used as macro context / forecast regressors,2026-10-09
+Alberta statutory holidays,"python-holidays package (CA, subdiv=AB)",Store-closure calendar,2026-10-09

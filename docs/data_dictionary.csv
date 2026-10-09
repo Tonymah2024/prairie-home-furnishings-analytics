@@ -1,0 +1,355 @@
+table,table_rows,column,type,primary_key,references,example,table_description
+campaigns,4,campaign_id,TEXT,True,,CMP-PARTNER,Marketing campaigns used for attribution.
+campaigns,4,campaign_name,TEXT,False,,Always-on search & shopping ads,Marketing campaigns used for attribution.
+campaigns,4,spend_channel,TEXT,False,,Google search ads,Marketing campaigns used for attribution.
+campaigns,4,data_status,TEXT,False,,SYNTHETIC,Marketing campaigns used for attribution.
+consultations,1919,consultation_id,TEXT,True,,DC-000006,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,consultation_date,TEXT,False,,2023-09-02,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,customer_id,TEXT,False,customers(customer_id),CUST-000015,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,designer_id,TEXT,False,staff(employee_id),DSN-04,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,consultation_type,TEXT,False,,In-store design consult,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,rooms_in_scope,INTEGER,False,,1,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,quotation_amount_cad,REAL,False,,11400.0,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,follow_up_count,INTEGER,False,,2,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,first_follow_up_days,REAL,False,,4.0,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,designer_hours,REAL,False,,1.81,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,converted,INTEGER,False,,1,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,repeat_customer,INTEGER,False,,0,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,estimated_conversion_cost_cad,REAL,False,,144.26,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,recommended_categories,TEXT,False,,"Bedroom, Sofas & Sectionals","Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,order_id,TEXT,False,orders(order_id),ORD-000158,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,conversion_date,TEXT,False,,2023-09-23,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,pre_period,INTEGER,False,,1,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,conversion_status,TEXT,False,,Converted,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,final_sales_revenue_cad,REAL,False,,9061.5,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,days_to_convert,REAL,False,,21.0,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+consultations,1919,data_status,TEXT,False,,SYNTHETIC,"Free design consultations: designer, type, quotation, follow-ups, conversion, resulting order and revenue, estimated cost."
+customers,7885,customer_id,TEXT,True,,CUST-000001,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,customer_type,TEXT,False,,Condo / apartment,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,acquisition_channel,TEXT,False,,Social media & contests,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,created_date,TEXT,False,,2023-09-01,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,postal_area,TEXT,False,,Elsewhere in Alberta,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,first_order_date,TEXT,False,,2024-08-10,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,last_order_date,TEXT,False,,2024-08-10,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,orders,INTEGER,False,,1,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,lifetime_net_sales_cad,REAL,False,,899.0,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,lifetime_gross_profit_cad,REAL,False,,462.98,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,repeat_customer,INTEGER,False,,0,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,consultations,INTEGER,False,,0,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,campaign_id,TEXT,False,campaigns(campaign_id),CMP-SOCIAL,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,lead_conversion_status,TEXT,False,,Converted,"Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+customers,7885,data_status,TEXT,False,,"SYNTHETIC (fictional, privacy-safe)","Fictional customers with type, acquisition channel, campaign and lifetime metrics derived from transactions."
+fin_ap_subledger,9308,item_id,TEXT,False,,OB-PO-000061,Payable open items.
+fin_ap_subledger,9308,account,TEXT,False,,2000,Payable open items.
+fin_ap_subledger,9308,counterparty,TEXT,False,,SUP-07,Payable open items.
+fin_ap_subledger,9308,doc_date,TEXT,False,,2023-12-09,Payable open items.
+fin_ap_subledger,9308,due_date,TEXT,False,,2024-01-08,Payable open items.
+fin_ap_subledger,9308,amount,REAL,False,,3768.61,Payable open items.
+fin_ap_subledger,9308,data_status,TEXT,False,,SIMULATED,Payable open items.
+fin_ar_subledger,12058,item_id,TEXT,False,,OB-PAY-0001446,Receivable open items.
+fin_ar_subledger,12058,account,TEXT,False,,1110,Receivable open items.
+fin_ar_subledger,12058,counterparty,TEXT,False,,Financing partner,Receivable open items.
+fin_ar_subledger,12058,doc_date,TEXT,False,,2023-12-29,Receivable open items.
+fin_ar_subledger,12058,due_date,TEXT,False,,2024-01-01,Receivable open items.
+fin_ar_subledger,12058,amount,REAL,False,,2248.39,Receivable open items.
+fin_ar_subledger,12058,data_status,TEXT,False,,SIMULATED,Receivable open items.
+fin_chart_of_accounts,60,code,TEXT,False,,1000,Chart of accounts.
+fin_chart_of_accounts,60,name,TEXT,False,,Cash - operating account,Chart of accounts.
+fin_chart_of_accounts,60,type,TEXT,False,,asset,Chart of accounts.
+fin_chart_of_accounts,60,normal_balance,TEXT,False,,D,Chart of accounts.
+fin_chart_of_accounts,60,statement_line,TEXT,False,,Cash,Chart of accounts.
+fin_chart_of_accounts,60,cash_flow_class,TEXT,False,,cash,Chart of accounts.
+fin_chart_of_accounts,60,data_status,TEXT,False,,SIMULATED,Chart of accounts.
+fin_debt_treasury,33,month,TEXT,False,,2024-01,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,prime_rate,REAL,False,,0.07200000000000001,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,term_rate,REAL,False,,0.09200000000000001,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,revolver_rate,REAL,False,,0.082,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,term_interest,REAL,False,,3833.33,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,revolver_interest,REAL,False,,0.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,term_principal,REAL,False,,10416.67,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,term_balance,REAL,False,,489583.33,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,revolver_intramonth_draws,REAL,False,,0.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,revolver_draw,REAL,False,,0.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,revolver_repay,REAL,False,,0.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,revolver_balance,REAL,False,,0.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,dividend,REAL,False,,0.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,month_end_cash,REAL,False,,721261.96,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,min_daily_cash,REAL,False,,508122.71,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,pbt_ytd,REAL,False,,83180.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,tax_ytd,REAL,False,,9149.8,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,loss_carryforward,REAL,False,,0.0,"Debt, revolver, interest, tax and treasury schedule."
+fin_debt_treasury,33,data_status,TEXT,False,,SIMULATED,"Debt, revolver, interest, tax and treasury schedule."
+fin_fixed_assets,7,asset_id,TEXT,False,,FA-001,Fixed-asset register.
+fin_fixed_assets,7,description,TEXT,False,,"Showroom leasehold improvements (60,000 ",Fixed-asset register.
+fin_fixed_assets,7,account,TEXT,False,,1500,Fixed-asset register.
+fin_fixed_assets,7,acquired,TEXT,False,,2019-01-15,Fixed-asset register.
+fin_fixed_assets,7,cost,REAL,False,,420000.0,Fixed-asset register.
+fin_fixed_assets,7,useful_life_months,INTEGER,False,,120,Fixed-asset register.
+fin_fixed_assets,7,accumulated_depreciation_31dec2023,REAL,False,,207000.0,Fixed-asset register.
+fin_fixed_assets,7,accumulated_depreciation_30sep2026,REAL,False,,322500.0,Fixed-asset register.
+fin_fixed_assets,7,net_book_value_30sep2026,REAL,False,,97500.0,Fixed-asset register.
+fin_fixed_assets,7,data_status,TEXT,False,,SIMULATED,Fixed-asset register.
+fin_general_ledger,136189,line_no,INTEGER,False,,1,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,je_id,TEXT,False,,OB-0000001,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,date,TEXT,False,,2023-12-31,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,account,TEXT,False,,1000,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,debit,REAL,False,,650000.0,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,credit,REAL,False,,0.0,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,source,TEXT,False,,Opening balance,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,reference,TEXT,False,,OB-2023,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,counterparty,TEXT,False,,Lender,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,description,TEXT,False,,Opening statement of financial position ,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,is_closing,INTEGER,False,,0,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,amount,REAL,False,,650000.0,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,month,TEXT,False,,2023-12,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,account_name,TEXT,False,,Cash - operating account,Double-entry general ledger lines (SIMULATED).
+fin_general_ledger,136189,data_status,TEXT,False,,SIMULATED,Double-entry general ledger lines (SIMULATED).
+fin_journal_entries,40842,je_id,TEXT,False,,ADJ-0032602,Journal entry headers.
+fin_journal_entries,40842,date,TEXT,False,,2024-01-25,Journal entry headers.
+fin_journal_entries,40842,source,TEXT,False,,Inventory,Journal entry headers.
+fin_journal_entries,40842,reference,TEXT,False,,RET-00021,Journal entry headers.
+fin_journal_entries,40842,description,TEXT,False,,WRITE_OFF_DAMAGED,Journal entry headers.
+fin_journal_entries,40842,lines,INTEGER,False,,2,Journal entry headers.
+fin_journal_entries,40842,total_debits,REAL,False,,865.76,Journal entry headers.
+fin_journal_entries,40842,total_credits,REAL,False,,865.76,Journal entry headers.
+fin_journal_entries,40842,data_status,TEXT,False,,SIMULATED,Journal entry headers.
+fin_trial_balance,1896,month,TEXT,False,,2023-12,Monthly pre-closing trial balances.
+fin_trial_balance,1896,account,TEXT,False,,1000,Monthly pre-closing trial balances.
+fin_trial_balance,1896,account_name,TEXT,False,,Cash - operating account,Monthly pre-closing trial balances.
+fin_trial_balance,1896,type,TEXT,False,,asset,Monthly pre-closing trial balances.
+fin_trial_balance,1896,debit,REAL,False,,650000.0,Monthly pre-closing trial balances.
+fin_trial_balance,1896,credit,REAL,False,,0.0,Monthly pre-closing trial balances.
+fin_trial_balance,1896,data_status,TEXT,False,,SIMULATED,Monthly pre-closing trial balances.
+fulfillment,7572,fulfillment_id,TEXT,True,,FUL-000158,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,order_id,TEXT,False,orders(order_id),ORD-000158,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,order_type,TEXT,False,,Custom,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,fulfillment_method,TEXT,False,,Customer pickup,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,carrier,TEXT,False,,Carrier A (fictional),"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,promised_ready_date,TEXT,False,,2023-11-16,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,ready_date,TEXT,False,,2023-12-11,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,requested_date,TEXT,False,,2024-01-13,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,scheduled_date,TEXT,False,,2024-01-13,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,fulfilled_date,TEXT,False,,2024-01-13,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,status,TEXT,False,,Fulfilled,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,warehouse_prep_days,REAL,False,,79.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,supplier_delay_days,REAL,False,,26.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,ready_delay_days,REAL,False,,25.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,delay_category,TEXT,False,,Supplier delay,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,pickup_capacity_wait_days,REAL,False,,0.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,handoff_wait_days,REAL,False,,33.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,handoff_wait_reason,TEXT,False,,Customer requested storage,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,fulfillment_days,REAL,False,,112.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,storage_hold,REAL,False,,1.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,damage_flag,REAL,False,,0.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,return_flag,INTEGER,False,,0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,retailer_fulfillment_cost_cad,REAL,False,,40.71,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,carrier_fee_customer_paid_cad,REAL,False,,0.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,agent_delivery_fee_cad,REAL,False,,0.0,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,carrier_fee_note,TEXT,False,,Paid by customer directly to carrier - n,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+fulfillment,7572,data_status,TEXT,False,,SYNTHETIC,"Fulfilment record per active order: readiness vs promise, delay category, hand-off wait reason, pickup / carrier, costs; carrier fees paid by customers are memo only."
+inventory_movements,61256,movement_id,TEXT,True,,MV-0000001,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,product_id,TEXT,False,products(product_id),PRD-0001,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,inventory_state,TEXT,False,,allocated,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,quantity,INTEGER,False,,1,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,value_cad,REAL,False,,1346.53,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,unit_cost_cad,REAL,False,,1346.53,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,movement_date,TEXT,False,,2024-01-01,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,movement_type,TEXT,False,,OPENING_BALANCE,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,reference_id,TEXT,False,,OPENING-2024-01-01,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+inventory_movements,61256,data_status,TEXT,False,,SYNTHETIC,Perpetual inventory movements by state (stock / allocated to customer) with quantity and value; reconciles to product balances.
+leads,29642,lead_id,TEXT,True,,LEAD-000001,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,lead_date,TEXT,False,,2024-01-01,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,lead_channel,TEXT,False,,Real-estate partner,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,customer_id,TEXT,False,customers(customer_id),CUST-000929,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,converted,INTEGER,False,,1,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,conversion_date,TEXT,False,,2024-01-03,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,lead_status,TEXT,False,,Won,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,lead_source_detail,TEXT,False,,Partner referral,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+leads,29642,data_status,TEXT,False,,SYNTHETIC,"Inquiries (search, social & contests, showroom, referral, online) with conversion status."
+marketing_spend,198,month,TEXT,False,,2024-01-01,Monthly marketing spend by channel.
+marketing_spend,198,marketing_channel,TEXT,False,,Google search ads,Monthly marketing spend by channel.
+marketing_spend,198,spend_cad,REAL,False,,16082.22,Monthly marketing spend by channel.
+marketing_spend,198,data_status,TEXT,False,,SYNTHETIC,Monthly marketing spend by channel.
+operating_expenses,33,month,TEXT,True,,2024-01-01,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,sales_wages_cad,REAL,False,,28204.8,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,sales_commission_cad,REAL,False,,16096.0,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,designer_compensation_cad,REAL,False,,25238.73,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,warehouse_wages_cad,REAL,False,,19743.36,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,management_admin_salaries_cad,REAL,False,,34465.0,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,rent_cad,REAL,False,,44000.0,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,cam_property_tax_cad,REAL,False,,9800.0,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,utilities_cad,REAL,False,,11473.57,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,marketing_cad,REAL,False,,48733.99,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,insurance_cad,REAL,False,,5200.0,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,admin_professional_cad,REAL,False,,7462.75,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,it_ecommerce_cad,REAL,False,,3630.53,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,warehouse_operations_cad,REAL,False,,3864.04,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,design_consult_materials_travel_cad,REAL,False,,2625.0,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,card_processing_fees_cad,REAL,False,,9652.03,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,total_opex_cad,REAL,False,,270189.8,"Monthly operating expenses by category (simulated, assumption-driven)."
+operating_expenses,33,data_status,TEXT,False,,SYNTHETIC (assumption-driven),"Monthly operating expenses by category (simulated, assumption-driven)."
+orders,7760,order_id,TEXT,True,,ORD-000158,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,customer_id,TEXT,False,customers(customer_id),CUST-000015,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,order_date,TEXT,False,,2023-09-23,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,sales_channel,TEXT,False,,Design consultation,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,employee_id,TEXT,False,staff(employee_id),DSN-04,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,room_type,TEXT,False,,Décor & lighting only,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,consultation_id,TEXT,False,consultations(consultation_id),DC-000006,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,order_type,TEXT,False,,Custom,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,net_order_value_cad,REAL,False,,9061.5,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,gst_cad,REAL,False,,453.08,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,deposit_rate,REAL,False,,0.5,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,tender,TEXT,False,,Credit card,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,financed,INTEGER,False,,0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,trade_account,INTEGER,False,,0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,promised_ready_date,TEXT,False,,2023-11-16,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,fulfillment_method,TEXT,False,,Customer pickup,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,protection_plan_cad,REAL,False,,0.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,agent_delivery_fee_cad,REAL,False,,0.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,promotion_id,TEXT,False,promotions(promotion_id),PRM-2023-BLAC11,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,status,TEXT,False,,Fulfilled,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,ready_date,TEXT,False,,2023-12-11,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,scheduled_date,TEXT,False,,2024-01-13,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,fulfilled_date,TEXT,False,,2024-01-13,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,cancel_date,TEXT,False,,2024-01-06,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,cancel_reason,TEXT,False,,Supplier delay - customer cancelled,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,retained_cancellation_fee_cad,REAL,False,,0.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,requested_date,TEXT,False,,2024-01-13,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,storage_hold,REAL,False,,1.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,carrier,TEXT,False,,Carrier A (fictional),"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,damage_flag,REAL,False,,0.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,retailer_fulfillment_cost_cad,REAL,False,,40.71,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,carrier_fee_customer_paid_cad,REAL,False,,0.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,opening_backlog,INTEGER,False,,1,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,total_paid_incl_gst_cad,REAL,False,,9514.58,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,order_total_incl_gst_cad,REAL,False,,9514.58,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,deposit_required_cad,REAL,False,,4757.29,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,deposit_paid_cad,REAL,False,,4757.29,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,balance_outstanding_cad,REAL,False,,0.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,fulfillment_days,REAL,False,,112.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,ready_delay_days,REAL,False,,25.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,handoff_wait_days,REAL,False,,33.0,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+orders,7760,data_status,TEXT,False,,SYNTHETIC,"Order headers: channel, order type (Custom / Special order / In stock), deposits, balances, promised ready date, fulfilment method, status, cancellations."
+payments,15090,payment_id,TEXT,True,,PAY-0000232,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+payments,15090,order_id,TEXT,False,orders(order_id),ORD-000158,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+payments,15090,payment_date,TEXT,False,,2023-09-23,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+payments,15090,payment_type,TEXT,False,,Deposit,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+payments,15090,tender,TEXT,False,,Credit card,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+payments,15090,amount_incl_gst,REAL,False,,4757.29,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+payments,15090,pre_period,INTEGER,False,,1,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+payments,15090,data_status,TEXT,False,,SYNTHETIC,"Customer payments and refunds (deposits, balances before pickup, trade settlements); pre_period = received before 1-Jan-2024 for opening backlog orders."
+products,350,product_id,TEXT,True,,PRD-0001,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,sku,TEXT,False,,PHF-BED-0001,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,product_name,TEXT,False,,2382-61 Queen Bed,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,manufacturer,TEXT,False,,House collection (various makers),"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,category,TEXT,False,,Bedroom,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,subcategory,TEXT,False,,Beds,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,fulfillment_type,TEXT,False,,Custom (made to order),"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,custom,INTEGER,False,,1,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,made_in_canada,INTEGER,False,,0,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,options,TEXT,False,,Title,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,list_price_cad,REAL,False,,2199.0,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,compare_at_cad,REAL,False,,2939.0,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,unit_cost_cad,REAL,False,,1132.49,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,assumed_margin,REAL,False,,0.485,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,supplier_class,TEXT,False,,Specialty importer,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,quoted_lead_days,INTEGER,False,,42,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,handle,TEXT,False,,2382-61-queen-bed,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,supplier_id,TEXT,False,suppliers(supplier_id),SUP-11,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,reorder_point_current_policy,REAL,False,,2.0,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,order_up_to_current_policy,REAL,False,,4.0,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,on_hand_stock_units,INTEGER,False,,0,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,allocated_to_customers_units,INTEGER,False,,1,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,holding_cost_rate_annual,REAL,False,,0.22,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+products,350,data_status,TEXT,False,,List price VERIFIED from public catalogu,"Curated product catalogue (350 SKUs). Names, manufacturers and list prices from a public Calgary furniture catalogue; costs, margins, lead times SIMULATED."
+promotions,32,promotion_id,TEXT,True,,PRM-2023-BLAC11,"Promotional calendar (event name, dates, extra discount, scope)."
+promotions,32,promotion_name,TEXT,False,,New Year Blowout,"Promotional calendar (event name, dates, extra discount, scope)."
+promotions,32,start_date,TEXT,False,,2023-01-02,"Promotional calendar (event name, dates, extra discount, scope)."
+promotions,32,end_date,TEXT,False,,2023-01-20,"Promotional calendar (event name, dates, extra discount, scope)."
+promotions,32,extra_discount_pct,REAL,False,,0.1,"Promotional calendar (event name, dates, extra discount, scope)."
+promotions,32,scope,TEXT,False,,All,"Promotional calendar (event name, dates, extra discount, scope)."
+promotions,32,data_status,TEXT,False,,SYNTHETIC,"Promotional calendar (event name, dates, extra discount, scope)."
+purchase_orders,9573,po_id,TEXT,True,,PO-000061,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,po_type,TEXT,False,,Custom,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,supplier_id,TEXT,False,suppliers(supplier_id),SUP-07,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,product_id,TEXT,False,products(product_id),PRD-0333,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,order_line_id,TEXT,False,sales_transactions(line_id),LN-0000393,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,order_date,TEXT,False,,2023-09-25,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,promised_date,TEXT,False,,2023-11-13,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,received_date,TEXT,False,,2023-12-09,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,qty_ordered,INTEGER,False,,1,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,qty_received,INTEGER,False,,1,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,qty_damaged,INTEGER,False,,0,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,unit_cost_cad,REAL,False,,3451.11,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,status,TEXT,False,,Received,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,delay_days,INTEGER,False,,26,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,delay_reason,TEXT,False,,Supplier production backlog,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,replacement_of,TEXT,False,purchase_orders(po_id),PO-000677,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,cancel_date,TEXT,False,,2024-02-11,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,supplier_cancellation_fee_cad,REAL,False,,180.09,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,pre_period,INTEGER,False,,1,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+purchase_orders,9573,data_status,TEXT,False,,SYNTHETIC,"Supplier POs: stock replenishment, custom (made to order) and special orders with promised/received dates, delays and damage replacements."
+returns,219,return_id,TEXT,True,,RET-00019,In-stock returns within 3 days with 15% restocking fee.
+returns,219,line_id,TEXT,False,sales_transactions(line_id),LN-0001366,In-stock returns within 3 days with 15% restocking fee.
+returns,219,order_id,TEXT,False,orders(order_id),ORD-000530,In-stock returns within 3 days with 15% restocking fee.
+returns,219,return_date,TEXT,False,,2024-01-15,In-stock returns within 3 days with 15% restocking fee.
+returns,219,units,INTEGER,False,,1,In-stock returns within 3 days with 15% restocking fee.
+returns,219,net_sales_returned_cad,REAL,False,,259.0,In-stock returns within 3 days with 15% restocking fee.
+returns,219,restocking_fee_cad,REAL,False,,38.85,In-stock returns within 3 days with 15% restocking fee.
+returns,219,refund_incl_gst_cad,REAL,False,,231.16,In-stock returns within 3 days with 15% restocking fee.
+returns,219,restocked,INTEGER,False,,1,In-stock returns within 3 days with 15% restocking fee.
+returns,219,reason,TEXT,False,,Comfort,In-stock returns within 3 days with 15% restocking fee.
+returns,219,data_status,TEXT,False,,SYNTHETIC,In-stock returns within 3 days with 15% restocking fee.
+sales_transactions,20899,line_id,TEXT,True,,LN-0000390,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,order_id,TEXT,False,orders(order_id),ORD-000158,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,transaction_date,TEXT,False,,2023-09-23,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,customer_id,TEXT,False,customers(customer_id),CUST-000015,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,product_id,TEXT,False,products(product_id),PRD-0001,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,units,INTEGER,False,,1,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,list_unit_price_cad,REAL,False,,269.0,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,unit_price_cad,REAL,False,,269.0,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,discount_pct,REAL,False,,0.1,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,discount_reason,TEXT,False,,Trade discount,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,gross_sales_cad,REAL,False,,269.0,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,net_sales_cad,REAL,False,,242.1,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,unit_cost_cad,REAL,False,,134.77,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,material_variant,TEXT,False,,Standard,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,configuration,TEXT,False,,Standard,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,fulfillment_type,TEXT,False,,Stocked (ready-made),"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,supply_source,TEXT,False,,From stock,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,sales_channel,TEXT,False,,Design consultation,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,employee_id,TEXT,False,staff(employee_id),DSN-04,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,promotion_id,TEXT,False,promotions(promotion_id),PRM-2023-BLAC11,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,consultation_id,TEXT,False,consultations(consultation_id),DC-000006,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,line_status,TEXT,False,,Fulfilled,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,returned_units,INTEGER,False,,0,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,received_date,TEXT,False,,2023-12-09,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,category,TEXT,False,,Décor & Lighting,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,subcategory,TEXT,False,,Lighting,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,manufacturer,TEXT,False,,Mercana,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,cogs_cad,REAL,False,,134.77,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,gross_profit_cad,REAL,False,,107.33,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,gross_margin_pct,REAL,False,,44.33,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,opening_backlog,INTEGER,False,,1,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,fulfilled_date,TEXT,False,,2024-01-13,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+sales_transactions,20899,data_status,TEXT,False,,SYNTHETIC,"Order lines (written sales by order date): units, prices, configuration, discounts, net sales, COGS, gross profit, supply source, status."
+staff,13,employee_id,TEXT,True,,DSN-01,Sales associates and interior designers (fictional IDs).
+staff,13,role,TEXT,False,,Sales associate,Sales associates and interior designers (fictional IDs).
+staff,13,start_date,TEXT,False,,2019-03-01,Sales associates and interior designers (fictional IDs).
+staff,13,end_date,TEXT,False,,2025-05-31,Sales associates and interior designers (fictional IDs).
+staff,13,data_status,TEXT,False,,SYNTHETIC,Sales associates and interior designers (fictional IDs).
+stockout_events,886,stockout_id,TEXT,True,,SO-000085,Demand for ready-made SKUs lost because stock was unavailable and the customer declined a backorder.
+stockout_events,886,event_date,TEXT,False,,2024-01-02,Demand for ready-made SKUs lost because stock was unavailable and the customer declined a backorder.
+stockout_events,886,product_id,TEXT,False,products(product_id),PRD-0321,Demand for ready-made SKUs lost because stock was unavailable and the customer declined a backorder.
+stockout_events,886,lost_units,INTEGER,False,,1,Demand for ready-made SKUs lost because stock was unavailable and the customer declined a backorder.
+stockout_events,886,lost_revenue_est_cad,REAL,False,,827.1,Demand for ready-made SKUs lost because stock was unavailable and the customer declined a backorder.
+stockout_events,886,data_status,TEXT,False,,SYNTHETIC,Demand for ready-made SKUs lost because stock was unavailable and the customer declined a backorder.
+store_calendar,1004,date,TEXT,True,,2024-01-01,"Daily store-open calendar (closed Sundays, Alberta statutory holidays, Dec 25-26)."
+store_calendar,1004,store_open,INTEGER,False,,0,"Daily store-open calendar (closed Sundays, Alberta statutory holidays, Dec 25-26)."
+suppliers,25,supplier_id,TEXT,True,,SUP-01,"Manufacturers / distributors with supplier class, quoted lead time and payment terms (simulated)."
+suppliers,25,supplier_name,TEXT,False,,Amax,"Manufacturers / distributors with supplier class, quoted lead time and payment terms (simulated)."
+suppliers,25,supplier_class,TEXT,False,,North American case goods & upholstery,"Manufacturers / distributors with supplier class, quoted lead time and payment terms (simulated)."
+suppliers,25,quoted_lead_days,INTEGER,False,,28,"Manufacturers / distributors with supplier class, quoted lead time and payment terms (simulated)."
+suppliers,25,payment_terms,TEXT,False,,Net 30,"Manufacturers / distributors with supplier class, quoted lead time and payment terms (simulated)."
+suppliers,25,region,TEXT,False,,North America / import,"Manufacturers / distributors with supplier class, quoted lead time and payment terms (simulated)."
+suppliers,25,data_status,TEXT,False,,SYNTHETIC (lead times & terms simulated),"Manufacturers / distributors with supplier class, quoted lead time and payment terms (simulated)."

@@ -1,0 +1,47 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><title>VisiVault - 90-day pilot plan</title><style>
+@page { size: Letter; margin: 17mm 15mm 18mm 15mm;
+  @bottom-left { content: "VisiVault Analytics Ltd.  |  Prairie Home Furnishings (fictional)  |  SYNTHETIC DEMONSTRATION DATA - not actual company records"; font: 7.5pt Helvetica, Arial; color: #4a3aa7; }
+  @bottom-right { content: "Page " counter(page) " of " counter(pages); font: 7.5pt Helvetica, Arial; color: #888; } }
+@page cover { margin: 0; @bottom-left { content: none } @bottom-right { content: none } }
+* { box-sizing: border-box; }
+body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.6pt; line-height: 1.45; color: #0b1120; margin: 0; }
+h1 { font-size: 20pt; margin: 0 0 6px; color: #0b1120; }
+h2 { font-size: 14pt; color: #184f95; border-bottom: 2px solid #2a78d6; padding-bottom: 3px; margin: 18px 0 8px; break-after: avoid; }
+h3 { font-size: 11pt; color: #0b1120; margin: 12px 0 4px; break-after: avoid; }
+p { margin: 4px 0 7px; }
+ul { margin: 3px 0 8px 0; padding-left: 18px; } li { margin: 2px 0; }
+table { border-collapse: collapse; width: 100%; margin: 6px 0 10px; font-size: 8.2pt; break-inside: auto; }
+th { background: #0b1120; color: #fff; text-align: left; padding: 4px 6px; font-weight: 600; }
+td { border-bottom: 1px solid #e3e2dd; padding: 3.5px 6px; vertical-align: top; }
+tr { break-inside: avoid; }
+tbody tr:nth-child(even) td { background: #f7f7f5; }
+figure { margin: 6px 0 10px; break-inside: avoid; } figure img { border: 1px solid #ecebe7; border-radius: 4px; }
+figcaption { font-size: 8pt; color: #52514e; margin-top: 2px; }
+.callout { background: #eaf2fc; border-left: 4px solid #2a78d6; padding: 8px 12px; margin: 8px 0; break-inside: avoid; }
+.warn { background: #fff4e5; border-left: 4px solid #d97706; padding: 8px 12px; margin: 8px 0; break-inside: avoid; font-size: 8.8pt; }
+.kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 8px 0 12px; }
+.kpi { border: 1px solid #e3e2dd; border-radius: 8px; padding: 8px 10px; break-inside: avoid; }
+.kpi .l { font-size: 7.4pt; text-transform: uppercase; letter-spacing: .04em; color: #52514e; }
+.kpi .v { font-size: 15pt; font-weight: 700; color: #184f95; }
+.kpi .s { font-size: 7.6pt; color: #52514e; }
+.tag { display:inline-block; font-size:7pt; font-weight:700; padding:1px 6px; border-radius: 8px; }
+.tag.v { background:#e3f5f2; color:#0d9488; } .tag.s { background:#efeaf9; color:#4a3aa7; } .tag.a { background:#fff4e5; color:#b45309; }
+.pb { break-before: page; }
+.two { display:block; }
+.cover { page: cover; height: 279mm; background: linear-gradient(160deg, #0b1120 0%, #184f95 70%, #2a78d6 100%); color: #fff; padding: 34mm 22mm; position: relative; }
+.cover h1 { color:#fff; font-size: 28pt; line-height: 1.15; margin-bottom: 14px; }
+.cover .sub { font-size: 13pt; opacity: .9; }
+.cover .meta { position:absolute; bottom: 30mm; left: 22mm; right: 22mm; font-size: 10pt; opacity:.92; }
+.cover .badge { display:inline-block; background:#fff4e5; color:#7a4a00; font-weight:700; padding:6px 12px; border-radius:6px; font-size:9.5pt; margin-top:22px; }
+.brandmark { font-weight: 800; letter-spacing: .02em; font-size: 12pt; }
+.small { font-size: 8pt; color: #52514e; }
+.toc li { margin: 3px 0; }
+</style></head><body><h1>90-day pilot implementation plan</h1><p class='small'>Demonstration developed by VisiVault Analytics Ltd. · Retail and financial intelligence pilot · October 2026</p>
+<div class='warn'>Plan for a pilot using the retailer's own data. The demonstration that accompanies it uses a fictional retailer and synthetic data.</div>
+<h2>Timeline</h2><table class=''><thead><tr><th>When</th><th>Workstream</th><th>Activities &amp; outputs</th></tr></thead><tbody><tr><td>Weeks 1-2</td><td>Kickoff & data access</td><td>Confirm systems, exports and policies (revenue, deposits, costing); data-sharing agreement; success measures signed off</td></tr><tr><td>Weeks 3-4</td><td>Data model & validation</td><td>Load sales, product, inventory, PO and trial-balance exports; automated reconciliation checks; data-quality report</td></tr><tr><td>Weeks 5-7</td><td>Module 1 - sales & product profitability</td><td>Dashboard pages, margin and promotion analysis, first management review</td></tr><tr><td>Weeks 6-9</td><td>Module 2 - inventory intelligence</td><td>ABC, aging, reorder points and safety stock, supplier scorecard; buyer workshop; first reorder/clearance lists</td></tr><tr><td>Weeks 8-11</td><td>Module 3 - cash flow & financial reporting</td><td>Monthly statements from the trial balance, deposits & backlog view, 13-week cash forecast, ratio pack</td></tr><tr><td>Week 12</td><td>Month-end pack & handover</td><td>Produce a full month-end pack, review results against success measures, training, recommendation for phase 2</td></tr><tr><td>Week 13</td><td>Pilot close-out</td><td>Pilot report: value delivered, data gaps, options and costs for ongoing support and phase 2 modules</td></tr></tbody></table>
+<h2>Responsibilities</h2><table class=''><thead><tr><th>Activity</th><th>Owner</th><th>Support</th></tr></thead><tbody><tr><td>Data exports</td><td>Retailer IT / admin</td><td>VisiVault</td></tr><tr><td>Policy confirmation (revenue, deposits, costing)</td><td>Retailer finance</td><td>VisiVault</td></tr><tr><td>Dashboards, models, reconciliations</td><td>VisiVault</td><td>Retailer management</td></tr><tr><td>Buyer workshop & reorder acceptance</td><td>Retailer purchasing</td><td>VisiVault</td></tr><tr><td>Monthly review</td><td>Owners / management</td><td>VisiVault</td></tr></tbody></table>
+<h2>Deliverables at day 90</h2><ul><li>Live dashboard on the retailer's data (sales, product profitability, inventory, financial statements, cash).</li><li>Month-end management pack and
+13-week cash forecast template.</li><li>Reorder-point, safety-stock and clearance lists with a supplier lead-time scorecard.</li><li>Data dictionary, reconciliation log and runbook.</li></ul>
+<h2>Risks & mitigations</h2><ul><li>Data export gaps - start from monthly exports; automate later.</li><li>Policy differences (e.g., deposit or revenue timing) - confirm in week 1 and mirror
+the books exactly.</li><li>Staff time - limit to 2-3 hours per week from one contact.</li></ul>
+<h2>Phase 2 options</h2><p>Customer conversion (design consultations, follow-up, attribution) and order fulfilment (delay-risk scoring, pickup and carrier analytics).</p></body></html>

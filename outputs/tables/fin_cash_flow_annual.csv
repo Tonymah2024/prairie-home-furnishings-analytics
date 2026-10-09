@@ -1,0 +1,21 @@
+key,2024,2025,2026,label,data_status
+net_income,451095.17,585437.06,569840.35,Net income,SIMULATED
+da,99672.63,111357.15,69755.85,Depreciation,SIMULATED
+d_ar,-75763.96,2150.13,9810.33,(Increase) decrease in receivables,SIMULATED
+d_inv,193816.5,-18331.62,99799.35,Inventory investment: (increase) decrease in inventory,SIMULATED
+d_ap,56258.61,108593.1,-151485.47,Increase (decrease) in accounts payable (supplier & vendor credit),SIMULATED
+d_deposits,-49193.53,90233.99,-110971.87,Increase (decrease) in customer deposits,SIMULATED
+d_other,52282.34,48784.2,-13220.45,"Other working capital (prepaid, accrued, agent, GST, tax)",SIMULATED
+cfo,728167.76,928224.01,473528.09,Net cash from operating activities,SIMULATED
+capex,-85000.0,-84000.0,-28000.0,Capital expenditures,SIMULATED
+cfi,-85000.0,-84000.0,-28000.0,Net cash used in investing activities,SIMULATED
+rev_draw,0.0,0.0,0.0,Revolver draws,SIMULATED
+rev_repay,0.0,0.0,0.0,Revolver repayments,SIMULATED
+term_repay,-125000.04,-125000.04,-93750.03,Term-loan repayments,SIMULATED
+dividends,-225000.0,-292000.0,0.0,Dividends paid,SIMULATED
+cff,-350000.04,-417000.04,-93750.03,Net cash from (used in) financing activities,SIMULATED
+net_change,293167.72,427223.97,351778.06,Net change in cash,SIMULATED
+open_cash,650000.0,943167.72,1370391.69,Opening cash,SIMULATED
+close_cash,943167.72,1370391.69,1722169.75,Ending cash balance,SIMULATED
+bs_cash,943167.72,1370391.69,1722169.75,Cash per balance sheet,SIMULATED
+check,0.0,0.0,0.0,Check: ending cash - balance-sheet cash,SIMULATED

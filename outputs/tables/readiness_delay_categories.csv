@@ -1,0 +1,6 @@
+delay_category,orders,data_status
+Damaged on arrival - supplier replacement,96,SYNTHETIC
+Open - awaiting supplier,170,SYNTHETIC
+Ready on time,5831,SYNTHETIC
+Supplier delay,1202,SYNTHETIC
+Warehouse preparation,273,SYNTHETIC

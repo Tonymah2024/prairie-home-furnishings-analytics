@@ -1,0 +1,61 @@
+code,name,type,normal_balance,statement_line,cash_flow_class,data_status
+1000,Cash - operating account,asset,D,Cash,cash,SIMULATED
+1100,Card & debit processor receivable,asset,D,Receivables,op_wc,SIMULATED
+1110,Financing-partner receivable,asset,D,Receivables,op_wc,SIMULATED
+1120,Trade receivables - designer & business accounts,asset,D,Receivables,op_wc,SIMULATED
+1200,Inventory - stocked merchandise,asset,D,Inventory,op_wc,SIMULATED
+1210,Inventory - allocated to customer orders (custom & reserved),asset,D,Inventory,op_wc,SIMULATED
+1300,Prepaid expenses,asset,D,Prepaid expenses,op_wc,SIMULATED
+1400,GST input tax credits,asset,D,Sales tax,op_wc,SIMULATED
+1500,Leasehold improvements,asset,D,Fixed assets,ppe,SIMULATED
+1510,Warehouse equipment & forklifts,asset,D,Fixed assets,ppe,SIMULATED
+1520,"Showroom fixtures, POS & IT",asset,D,Fixed assets,ppe,SIMULATED
+1590,Accumulated depreciation,contra_asset,C,Accumulated depreciation,accdep,SIMULATED
+2000,Accounts payable - suppliers,liability,C,Accounts payable,op_wc,SIMULATED
+2010,Accounts payable - operating vendors,liability,C,Accounts payable,op_wc,SIMULATED
+2100,Accrued payroll & commissions,liability,C,Accrued liabilities,op_wc,SIMULATED
+2300,GST collected,liability,C,Sales tax,op_wc,SIMULATED
+2350,Customer deposits (contract liabilities),liability,C,Customer deposits,op_wc,SIMULATED
+2360,Delivery fees collected for partner carrier (agent),liability,C,Agent liabilities,op_wc,SIMULATED
+2370,Protection-plan premiums payable to insurer (agent),liability,C,Agent liabilities,op_wc,SIMULATED
+2400,Income tax payable,liability,C,Income tax payable,op_wc,SIMULATED
+2600,Revolving operating line of credit,liability,C,Revolver,fin_rev,SIMULATED
+2700,Term loan,liability,C,Term loan,fin_term,SIMULATED
+3000,Share capital,equity,C,Share capital,equity,SIMULATED
+3200,Retained earnings,equity,C,Retained earnings,re,SIMULATED
+3300,Dividends declared,equity,D,Retained earnings,equity,SIMULATED
+4000,Sales - sofas & sectionals,revenue,C,Gross furniture sales,pnl,SIMULATED
+4010,Sales - bedroom,revenue,C,Gross furniture sales,pnl,SIMULATED
+4020,Sales - mattresses & bases,revenue,C,Gross furniture sales,pnl,SIMULATED
+4030,Sales - dining,revenue,C,Gross furniture sales,pnl,SIMULATED
+4040,Sales - living & occasional,revenue,C,Gross furniture sales,pnl,SIMULATED
+4050,Sales - home office,revenue,C,Gross furniture sales,pnl,SIMULATED
+4060,Sales - décor & lighting,revenue,C,Gross furniture sales,pnl,SIMULATED
+4100,"Protection-plan commissions (net, agent)",revenue,C,Other revenue,pnl,SIMULATED
+4200,Restocking fees,revenue,C,Other revenue,pnl,SIMULATED
+4300,Retained cancellation fees,revenue,C,Other revenue,pnl,SIMULATED
+4900,Discounts & promotional allowances,contra_revenue,D,Discounts,pnl,SIMULATED
+4910,Sales returns,contra_revenue,D,Returns,pnl,SIMULATED
+5000,Cost of goods sold - merchandise,cogs,D,Cost of goods sold,pnl,SIMULATED
+5100,"Inventory variances, shrinkage & write-offs",cogs,D,Cost of goods sold,pnl,SIMULATED
+5200,Freight-in & supplier charges,cogs,D,Cost of goods sold,pnl,SIMULATED
+6000,Wages - sales associates,opex,D,Employee compensation,pnl,SIMULATED
+6010,Sales commissions,opex,D,Employee compensation,pnl,SIMULATED
+6020,Interior designer compensation,opex,D,Employee compensation,pnl,SIMULATED
+6030,Wages - warehouse,opex,D,Employee compensation,pnl,SIMULATED
+6040,Salaries - management & administration,opex,D,Employee compensation,pnl,SIMULATED
+6100,Rent,opex,D,Occupancy,pnl,SIMULATED
+6105,Common-area & property tax charges,opex,D,Occupancy,pnl,SIMULATED
+6110,Utilities,opex,D,Occupancy,pnl,SIMULATED
+6200,Marketing & advertising,opex,D,Marketing,pnl,SIMULATED
+6300,Insurance,opex,D,General & administrative,pnl,SIMULATED
+6310,Administrative & professional fees,opex,D,General & administrative,pnl,SIMULATED
+6320,IT & e-commerce platform,opex,D,General & administrative,pnl,SIMULATED
+6400,Warehouse & fulfilment operations,opex,D,Warehouse & fulfilment,pnl,SIMULATED
+6410,Design consultation materials & travel,opex,D,Warehouse & fulfilment,pnl,SIMULATED
+6420,Card processing fees,opex,D,Merchant & financing fees,pnl,SIMULATED
+6430,Financing-partner merchant fees,opex,D,Merchant & financing fees,pnl,SIMULATED
+6900,Depreciation,opex,D,Depreciation,pnl,SIMULATED
+7000,Interest - term loan,other_exp,D,Interest,pnl,SIMULATED
+7010,Interest - revolving line,other_exp,D,Interest,pnl,SIMULATED
+8000,Income tax expense,tax,D,Income taxes,pnl,SIMULATED

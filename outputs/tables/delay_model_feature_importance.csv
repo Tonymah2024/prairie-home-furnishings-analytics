@@ -1,0 +1,13 @@
+feature,importance,data_status
+supplier_class_Canadian décor & furniture distributor,0.2230361,SYNTHETIC
+quoted_lead_days,0.18962258,SYNTHETIC
+supplier_class_North American case goods & upholstery,0.0615695,SYNTHETIC
+supplier_class_Specialty importer,0.049563393,SYNTHETIC
+peak_season,0.047541562,SYNTHETIC
+category_Sofas & Sectionals,0.039806567,SYNTHETIC
+supplier_hist_late_rate,0.037101004,SYNTHETIC
+log_value,0.03694529,SYNTHETIC
+supplier_hist_mean_delay,0.034708157,SYNTHETIC
+category_Living & Occasional,0.032952562,SYNTHETIC
+supplier_hist_n,0.032658804,SYNTHETIC
+supplier_open_pos,0.03232592,SYNTHETIC

@@ -1,0 +1,8 @@
+item,cad,data_status
+Written net sales booked Jan-2024 to Sep-2026 (order date),26846263.049999997,SIMULATED
++ Opening order backlog at 31-Dec-2023,1108110.33,SIMULATED
+- Orders cancelled in the period,-775624.98,SIMULATED
+"- Closing order backlog at 30-Sep-2026 (deposits held, not yet revenue)",-967117.72,SIMULATED
+= Explained net furniture sales before returns,26211630.679999996,SIMULATED
+GL gross sales less discounts (recognised at hand-off),26211630.679999996,SIMULATED
+Unexplained residual (must be 0),0.0,SIMULATED

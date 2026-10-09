@@ -1,0 +1,14 @@
+employee_id,role,start_date,end_date,data_status
+EMP-S01,Sales associate,2019-03-01,,SYNTHETIC
+EMP-S02,Sales associate,2020-06-01,,SYNTHETIC
+EMP-S03,Sales associate,2021-02-01,,SYNTHETIC
+EMP-S04,Sales associate,2022-04-15,2025-05-31,SYNTHETIC
+EMP-S05,Sales associate,2022-09-01,,SYNTHETIC
+EMP-S06,Sales associate,2023-05-01,,SYNTHETIC
+EMP-S07,Sales associate,2024-03-01,,SYNTHETIC
+EMP-S08,Sales associate,2025-04-01,,SYNTHETIC
+EMP-S09,Sales associate,2025-08-15,,SYNTHETIC
+DSN-01,Interior designer,2021-01-01,,SYNTHETIC
+DSN-02,Interior designer,2021-01-01,,SYNTHETIC
+DSN-03,Interior designer,2021-01-01,,SYNTHETIC
+DSN-04,Interior designer,2021-01-01,,SYNTHETIC

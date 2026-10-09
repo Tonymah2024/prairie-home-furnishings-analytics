@@ -1,0 +1,10 @@
+order_type,fulfillment_method,orders,ready_on_time_pct,median_ready_delay,median_handoff_wait,damage_pct,retailer_cost,carrier_fees_paid_by_customers,data_status
+Custom,Customer pickup,1077,54.874651810584965,0.0,5.0,1.5784586815227482,4928.58,0.0,SYNTHETIC
+Custom,Retailer-arranged flat-rate delivery,53,54.71698113207547,0.0,5.0,0.0,237.85,0.0,SYNTHETIC
+Custom,Third-party delivery (customer-paid),1078,52.875695732838594,0.0,5.0,2.5974025974025974,6697.87,293293.5,SYNTHETIC
+In stock,Customer pickup,2163,98.65926953305593,-1.0,4.0,0.8784096162736941,8032.89,0.0,SYNTHETIC
+In stock,Retailer-arranged flat-rate delivery,63,93.65079365079364,-1.0,5.0,0.0,229.3,0.0,SYNTHETIC
+In stock,Third-party delivery (customer-paid),1688,96.86018957345972,-1.0,5.0,2.0734597156398102,7892.11,407614.5,SYNTHETIC
+Special order,Customer pickup,621,62.15780998389694,-1.0,5.0,0.4830917874396135,2161.44,0.0,SYNTHETIC
+Special order,Retailer-arranged flat-rate delivery,23,78.26086956521739,-2.0,5.0,0.0,36.43,0.0,SYNTHETIC
+Special order,Third-party delivery (customer-paid),587,62.35093696763203,-1.0,5.0,2.555366269165247,3670.67,148823.5,SYNTHETIC

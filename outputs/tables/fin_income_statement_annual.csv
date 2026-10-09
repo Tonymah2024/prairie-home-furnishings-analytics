@@ -1,0 +1,35 @@
+key,2024,2025,2026,label,data_status
+sales_sofas,2863709.28,3056791.8,2743516.9,Sofas & sectionals,SIMULATED
+sales_bedroom,1774442.02,1774559.82,1444195.65,Bedroom,SIMULATED
+sales_mattress,830812.35,939197.2,705955.38,Mattresses & bases,SIMULATED
+sales_dining,2118105.0,2473845.0,1772022.0,Dining,SIMULATED
+sales_living,1122666.51,1261007.89,1030786.5,Living & occasional,SIMULATED
+sales_office,67946.86,97507.0,55462.0,Home office,SIMULATED
+sales_decor,584305.77,599295.55,532292.87,Décor & lighting,SIMULATED
+gross_sales,9361987.79,10202204.26,8284231.3,Gross furniture sales,SIMULATED
+discounts,-553066.13,-591272.29,-492454.25,Less: discounts & promotional allowances,SIMULATED
+returns,-133393.75,-75029.0,-70474.74,Less: sales returns,SIMULATED
+net_sales,8675527.91,9535902.97,7721302.31,Net furniture sales,SIMULATED
+plan_comm,44001.31,52745.32,37455.83,"Protection-plan commissions (agent, net)",SIMULATED
+restock_fees,20009.06,11254.35,10571.21,Restocking fees,SIMULATED
+cancel_fees,33467.58,32919.58,15693.08,Retained cancellation fees,SIMULATED
+net_rev,8773005.86,9632822.22,7785022.43,Total net revenue,SIMULATED
+cogs_merch,-4738541.71,-5201384.06,-4233889.32,Cost of goods sold - merchandise,SIMULATED
+freight_in,-190943.12,-220481.6,-171944.33,Freight-in & supplier charges,SIMULATED
+inv_var,-49240.95,-53050.53,-42937.06,"Inventory variances, shrinkage & write-offs",SIMULATED
+cogs,-4978725.78,-5474916.19,-4448770.71,Cost of goods sold,SIMULATED
+gross_profit,3794280.08,4157906.03,3336251.72,Gross profit,SIMULATED
+emp_comp,-1475907.73,-1569525.4,-1229825.99,Employee compensation (incl. commissions & designers),SIMULATED
+occupancy,-747564.72,-764328.22,-582940.53,"Occupancy (rent, CAM & property tax, utilities)",SIMULATED
+marketing,-453737.78,-498214.14,-381098.83,Marketing & advertising,SIMULATED
+g_and_a,-196035.55,-200418.25,-153362.65,"General & administrative (insurance, professional, IT)",SIMULATED
+warehouse,-75363.53,-80840.47,-62724.07,"Warehouse, fulfilment & design-consult costs",SIMULATED
+fees,-199464.73,-229001.08,-184335.37,Card & financing-partner fees,SIMULATED
+opex,-3148074.04,-3342327.56,-2594287.44,Operating expenses (before depreciation),SIMULATED
+ebitda,646206.04,815578.47,741964.28,EBITDA,SIMULATED
+da,-99672.63,-111357.15,-69755.85,Depreciation,SIMULATED
+ebit,546533.41,704221.32,672208.43,Operating income (EBIT),SIMULATED
+interest,-38617.61,-21835.53,-10078.11,Interest expense,SIMULATED
+pbt,507915.8,682385.79,662130.32,Income before tax,SIMULATED
+tax,-56820.63,-96948.73,-92289.97,Income taxes,SIMULATED
+net_income,451095.17,585437.06,569840.35,Net income,SIMULATED

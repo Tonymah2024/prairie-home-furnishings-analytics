@@ -1,0 +1,1897 @@
+month,account,account_name,type,debit,credit,data_status
+2023-12,1000,Cash - operating account,asset,650000.0,0.0,SIMULATED
+2023-12,1100,Card & debit processor receivable,asset,3383.03,0.0,SIMULATED
+2023-12,1110,Financing-partner receivable,asset,6408.57,0.0,SIMULATED
+2023-12,1200,Inventory - stocked merchandise,asset,711662.28,0.0,SIMULATED
+2023-12,1210,Inventory - allocated to customer orders (custom & reserved),asset,348548.36,0.0,SIMULATED
+2023-12,1500,Leasehold improvements,asset,420000.0,0.0,SIMULATED
+2023-12,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2023-12,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2023-12,1590,Accumulated depreciation,contra_asset,0.0,390000.0,SIMULATED
+2023-12,2000,Accounts payable - suppliers,liability,0.0,409303.05,SIMULATED
+2023-12,2010,Accounts payable - operating vendors,liability,0.0,91331.41,SIMULATED
+2023-12,2100,Accrued payroll & commissions,liability,0.0,61873.94,SIMULATED
+2023-12,2350,Customer deposits (contract liabilities),liability,0.0,565915.51,SIMULATED
+2023-12,2400,Income tax payable,liability,0.0,38000.0,SIMULATED
+2023-12,2700,Term loan,liability,0.0,500000.0,SIMULATED
+2023-12,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2023-12,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-01,1000,Cash - operating account,asset,721261.96,0.0,SIMULATED
+2024-01,1100,Card & debit processor receivable,asset,19685.71,0.0,SIMULATED
+2024-01,1110,Financing-partner receivable,asset,30416.88,0.0,SIMULATED
+2024-01,1120,Trade receivables - designer & business accounts,asset,21088.79,0.0,SIMULATED
+2024-01,1200,Inventory - stocked merchandise,asset,651832.59,0.0,SIMULATED
+2024-01,1210,Inventory - allocated to customer orders (custom & reserved),asset,331461.21,0.0,SIMULATED
+2024-01,1300,Prepaid expenses,asset,57200.0,0.0,SIMULATED
+2024-01,1400,GST input tax credits,asset,28808.16,0.0,SIMULATED
+2024-01,1500,Leasehold improvements,asset,420000.0,0.0,SIMULATED
+2024-01,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-01,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-01,1590,Accumulated depreciation,contra_asset,0.0,397892.86,SIMULATED
+2024-01,2000,Accounts payable - suppliers,liability,0.0,466800.69,SIMULATED
+2024-01,2010,Accounts payable - operating vendors,liability,0.0,91331.41,SIMULATED
+2024-01,2100,Accrued payroll & commissions,liability,0.0,61873.95,SIMULATED
+2024-01,2300,GST collected,liability,0.0,44573.76,SIMULATED
+2024-01,2350,Customer deposits (contract liabilities),liability,0.0,516148.12,SIMULATED
+2024-01,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2024-01,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,8195.85,SIMULATED
+2024-01,2400,Income tax payable,liability,0.0,47149.8,SIMULATED
+2024-01,2700,Term loan,liability,0.0,489583.33,SIMULATED
+2024-01,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-01,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-01,4000,Sales - sofas & sectionals,revenue,0.0,309788.86,SIMULATED
+2024-01,4010,Sales - bedroom,revenue,0.0,202461.72,SIMULATED
+2024-01,4020,Sales - mattresses & bases,revenue,0.0,102730.95,SIMULATED
+2024-01,4030,Sales - dining,revenue,0.0,188416.0,SIMULATED
+2024-01,4040,Sales - living & occasional,revenue,0.0,105983.94,SIMULATED
+2024-01,4050,Sales - home office,revenue,0.0,6847.0,SIMULATED
+2024-01,4060,Sales - décor & lighting,revenue,0.0,61715.88,SIMULATED
+2024-01,4100,"Protection-plan commissions (net, agent)",revenue,0.0,5463.93,SIMULATED
+2024-01,4200,Restocking fees,revenue,0.0,1074.75,SIMULATED
+2024-01,4300,Retained cancellation fees,revenue,0.0,2347.59,SIMULATED
+2024-01,4900,Discounts & promotional allowances,contra_revenue,82728.93,0.0,SIMULATED
+2024-01,4910,Sales returns,contra_revenue,7165.0,0.0,SIMULATED
+2024-01,5000,Cost of goods sold - merchandise,cogs,500305.82,0.0,SIMULATED
+2024-01,5100,"Inventory variances, shrinkage & write-offs",cogs,3909.41,0.0,SIMULATED
+2024-01,5200,Freight-in & supplier charges,cogs,17273.64,0.0,SIMULATED
+2024-01,6000,Wages - sales associates,opex,28204.8,0.0,SIMULATED
+2024-01,6010,Sales commissions,opex,16096.0,0.0,SIMULATED
+2024-01,6020,Interior designer compensation,opex,25238.73,0.0,SIMULATED
+2024-01,6030,Wages - warehouse,opex,19743.36,0.0,SIMULATED
+2024-01,6040,Salaries - management & administration,opex,34465.0,0.0,SIMULATED
+2024-01,6100,Rent,opex,44000.0,0.0,SIMULATED
+2024-01,6105,Common-area & property tax charges,opex,9800.0,0.0,SIMULATED
+2024-01,6110,Utilities,opex,11473.57,0.0,SIMULATED
+2024-01,6200,Marketing & advertising,opex,48733.99,0.0,SIMULATED
+2024-01,6300,Insurance,opex,5200.0,0.0,SIMULATED
+2024-01,6310,Administrative & professional fees,opex,7462.75,0.0,SIMULATED
+2024-01,6320,IT & e-commerce platform,opex,3630.53,0.0,SIMULATED
+2024-01,6400,Warehouse & fulfilment operations,opex,3864.04,0.0,SIMULATED
+2024-01,6410,Design consultation materials & travel,opex,2625.0,0.0,SIMULATED
+2024-01,6420,Card processing fees,opex,9652.03,0.0,SIMULATED
+2024-01,6430,Financing-partner merchant fees,opex,10351.83,0.0,SIMULATED
+2024-01,6900,Depreciation,opex,7892.86,0.0,SIMULATED
+2024-01,7000,Interest - term loan,other_exp,3833.33,0.0,SIMULATED
+2024-01,8000,Income tax expense,tax,9149.8,0.0,SIMULATED
+2024-02,1000,Cash - operating account,asset,627056.48,0.0,SIMULATED
+2024-02,1100,Card & debit processor receivable,asset,13883.33,0.0,SIMULATED
+2024-02,1110,Financing-partner receivable,asset,13447.22,0.0,SIMULATED
+2024-02,1120,Trade receivables - designer & business accounts,asset,26803.03,0.0,SIMULATED
+2024-02,1200,Inventory - stocked merchandise,asset,706451.19,0.0,SIMULATED
+2024-02,1210,Inventory - allocated to customer orders (custom & reserved),asset,296506.12,0.0,SIMULATED
+2024-02,1300,Prepaid expenses,asset,52000.0,0.0,SIMULATED
+2024-02,1400,GST input tax credits,asset,53846.53,0.0,SIMULATED
+2024-02,1500,Leasehold improvements,asset,420000.0,0.0,SIMULATED
+2024-02,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-02,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-02,1590,Accumulated depreciation,contra_asset,0.0,405785.72,SIMULATED
+2024-02,2000,Accounts payable - suppliers,liability,0.0,418578.66,SIMULATED
+2024-02,2010,Accounts payable - operating vendors,liability,0.0,70308.16,SIMULATED
+2024-02,2100,Accrued payroll & commissions,liability,0.0,57112.98,SIMULATED
+2024-02,2300,GST collected,liability,0.0,76223.09,SIMULATED
+2024-02,2350,Customer deposits (contract liabilities),liability,0.0,478873.17,SIMULATED
+2024-02,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2024-02,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,7669.71,SIMULATED
+2024-02,2400,Income tax payable,liability,0.0,48351.05,SIMULATED
+2024-02,2700,Term loan,liability,0.0,479166.66,SIMULATED
+2024-02,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-02,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-02,4000,Sales - sofas & sectionals,revenue,0.0,531624.87,SIMULATED
+2024-02,4010,Sales - bedroom,revenue,0.0,327186.0,SIMULATED
+2024-02,4020,Sales - mattresses & bases,revenue,0.0,143227.88,SIMULATED
+2024-02,4030,Sales - dining,revenue,0.0,360879.0,SIMULATED
+2024-02,4040,Sales - living & occasional,revenue,0.0,189364.79,SIMULATED
+2024-02,4050,Sales - home office,revenue,0.0,13127.0,SIMULATED
+2024-02,4060,Sales - décor & lighting,revenue,0.0,99057.73,SIMULATED
+2024-02,4100,"Protection-plan commissions (net, agent)",revenue,0.0,10577.03,SIMULATED
+2024-02,4200,Restocking fees,revenue,0.0,2919.0,SIMULATED
+2024-02,4300,Retained cancellation fees,revenue,0.0,6504.94,SIMULATED
+2024-02,4900,Discounts & promotional allowances,contra_revenue,129971.92,0.0,SIMULATED
+2024-02,4910,Sales returns,contra_revenue,19460.0,0.0,SIMULATED
+2024-02,5000,Cost of goods sold - merchandise,cogs,848885.36,0.0,SIMULATED
+2024-02,5100,"Inventory variances, shrinkage & write-offs",cogs,7278.41,0.0,SIMULATED
+2024-02,5200,Freight-in & supplier charges,cogs,32577.01,0.0,SIMULATED
+2024-02,6000,Wages - sales associates,opex,54240.0,0.0,SIMULATED
+2024-02,6010,Sales commissions,opex,25237.22,0.0,SIMULATED
+2024-02,6020,Interior designer compensation,opex,51598.63,0.0,SIMULATED
+2024-02,6030,Wages - warehouse,opex,37968.0,0.0,SIMULATED
+2024-02,6040,Salaries - management & administration,opex,68930.0,0.0,SIMULATED
+2024-02,6100,Rent,opex,88000.0,0.0,SIMULATED
+2024-02,6105,Common-area & property tax charges,opex,19600.0,0.0,SIMULATED
+2024-02,6110,Utilities,opex,21895.1,0.0,SIMULATED
+2024-02,6200,Marketing & advertising,opex,81555.35,0.0,SIMULATED
+2024-02,6300,Insurance,opex,10400.0,0.0,SIMULATED
+2024-02,6310,Administrative & professional fees,opex,15080.9,0.0,SIMULATED
+2024-02,6320,IT & e-commerce platform,opex,6969.13,0.0,SIMULATED
+2024-02,6400,Warehouse & fulfilment operations,opex,7866.12,0.0,SIMULATED
+2024-02,6410,Design consultation materials & travel,opex,4475.0,0.0,SIMULATED
+2024-02,6420,Card processing fees,opex,16905.88,0.0,SIMULATED
+2024-02,6430,Financing-partner merchant fees,opex,18101.27,0.0,SIMULATED
+2024-02,6900,Depreciation,opex,15785.72,0.0,SIMULATED
+2024-02,7000,Interest - term loan,other_exp,7586.8,0.0,SIMULATED
+2024-02,8000,Income tax expense,tax,10351.05,0.0,SIMULATED
+2024-03,1000,Cash - operating account,asset,578379.09,0.0,SIMULATED
+2024-03,1100,Card & debit processor receivable,asset,16502.91,0.0,SIMULATED
+2024-03,1110,Financing-partner receivable,asset,9016.99,0.0,SIMULATED
+2024-03,1120,Trade receivables - designer & business accounts,asset,33839.21,0.0,SIMULATED
+2024-03,1200,Inventory - stocked merchandise,asset,711753.46,0.0,SIMULATED
+2024-03,1210,Inventory - allocated to customer orders (custom & reserved),asset,282554.34,0.0,SIMULATED
+2024-03,1300,Prepaid expenses,asset,46800.0,0.0,SIMULATED
+2024-03,1400,GST input tax credits,asset,77451.73,0.0,SIMULATED
+2024-03,1500,Leasehold improvements,asset,420000.0,0.0,SIMULATED
+2024-03,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-03,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-03,1590,Accumulated depreciation,contra_asset,0.0,413678.58,SIMULATED
+2024-03,2000,Accounts payable - suppliers,liability,0.0,381372.47,SIMULATED
+2024-03,2010,Accounts payable - operating vendors,liability,0.0,61403.97,SIMULATED
+2024-03,2100,Accrued payroll & commissions,liability,0.0,60499.86,SIMULATED
+2024-03,2300,GST collected,liability,0.0,109709.16,SIMULATED
+2024-03,2350,Customer deposits (contract liabilities),liability,0.0,458386.16,SIMULATED
+2024-03,2360,Delivery fees collected for partner carrier (agent),liability,0.0,199.0,SIMULATED
+2024-03,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5128.94,SIMULATED
+2024-03,2400,Income tax payable,liability,0.0,14695.04,SIMULATED
+2024-03,2700,Term loan,liability,0.0,468749.99,SIMULATED
+2024-03,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-03,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-03,4000,Sales - sofas & sectionals,revenue,0.0,742802.45,SIMULATED
+2024-03,4010,Sales - bedroom,revenue,0.0,491214.43,SIMULATED
+2024-03,4020,Sales - mattresses & bases,revenue,0.0,211680.78,SIMULATED
+2024-03,4030,Sales - dining,revenue,0.0,492584.0,SIMULATED
+2024-03,4040,Sales - living & occasional,revenue,0.0,284018.79,SIMULATED
+2024-03,4050,Sales - home office,revenue,0.0,18224.43,SIMULATED
+2024-03,4060,Sales - décor & lighting,revenue,0.0,140116.68,SIMULATED
+2024-03,4100,"Protection-plan commissions (net, agent)",revenue,0.0,13996.36,SIMULATED
+2024-03,4200,Restocking fees,revenue,0.0,4765.8,SIMULATED
+2024-03,4300,Retained cancellation fees,revenue,0.0,9015.55,SIMULATED
+2024-03,4900,Discounts & promotional allowances,contra_revenue,168470.06,0.0,SIMULATED
+2024-03,4910,Sales returns,contra_revenue,31772.0,0.0,SIMULATED
+2024-03,5000,Cost of goods sold - merchandise,cogs,1210176.38,0.0,SIMULATED
+2024-03,5100,"Inventory variances, shrinkage & write-offs",cogs,7617.86,0.0,SIMULATED
+2024-03,5200,Freight-in & supplier charges,cogs,47123.45,0.0,SIMULATED
+2024-03,6000,Wages - sales associates,opex,84976.0,0.0,SIMULATED
+2024-03,6010,Sales commissions,opex,36149.98,0.0,SIMULATED
+2024-03,6020,Interior designer compensation,opex,77500.59,0.0,SIMULATED
+2024-03,6030,Wages - warehouse,opex,56952.0,0.0,SIMULATED
+2024-03,6040,Salaries - management & administration,opex,103395.0,0.0,SIMULATED
+2024-03,6100,Rent,opex,132000.0,0.0,SIMULATED
+2024-03,6105,Common-area & property tax charges,opex,29400.0,0.0,SIMULATED
+2024-03,6110,Utilities,opex,31270.03,0.0,SIMULATED
+2024-03,6200,Marketing & advertising,opex,104979.17,0.0,SIMULATED
+2024-03,6300,Insurance,opex,15600.0,0.0,SIMULATED
+2024-03,6310,Administrative & professional fees,opex,23072.68,0.0,SIMULATED
+2024-03,6320,IT & e-commerce platform,opex,10272.48,0.0,SIMULATED
+2024-03,6400,Warehouse & fulfilment operations,opex,12322.91,0.0,SIMULATED
+2024-03,6410,Design consultation materials & travel,opex,6700.0,0.0,SIMULATED
+2024-03,6420,Card processing fees,opex,24995.39,0.0,SIMULATED
+2024-03,6430,Financing-partner merchant fees,opex,25143.03,0.0,SIMULATED
+2024-03,6900,Depreciation,opex,23678.58,0.0,SIMULATED
+2024-03,7000,Interest - term loan,other_exp,11260.41,0.0,SIMULATED
+2024-03,8000,Income tax expense,tax,14695.04,0.0,SIMULATED
+2024-04,1000,Cash - operating account,asset,605752.73,0.0,SIMULATED
+2024-04,1100,Card & debit processor receivable,asset,28479.76,0.0,SIMULATED
+2024-04,1110,Financing-partner receivable,asset,10993.56,0.0,SIMULATED
+2024-04,1120,Trade receivables - designer & business accounts,asset,33627.68,0.0,SIMULATED
+2024-04,1200,Inventory - stocked merchandise,asset,715171.42,0.0,SIMULATED
+2024-04,1210,Inventory - allocated to customer orders (custom & reserved),asset,301602.39,0.0,SIMULATED
+2024-04,1300,Prepaid expenses,asset,41600.0,0.0,SIMULATED
+2024-04,1400,GST input tax credits,asset,24424.43,0.0,SIMULATED
+2024-04,1500,Leasehold improvements,asset,420000.0,0.0,SIMULATED
+2024-04,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-04,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-04,1590,Accumulated depreciation,contra_asset,0.0,421571.44,SIMULATED
+2024-04,2000,Accounts payable - suppliers,liability,0.0,392834.74,SIMULATED
+2024-04,2010,Accounts payable - operating vendors,liability,0.0,72250.4,SIMULATED
+2024-04,2100,Accrued payroll & commissions,liability,0.0,63235.72,SIMULATED
+2024-04,2300,GST collected,liability,0.0,31437.27,SIMULATED
+2024-04,2350,Customer deposits (contract liabilities),liability,0.0,513950.43,SIMULATED
+2024-04,2360,Delivery fees collected for partner carrier (agent),liability,0.0,199.0,SIMULATED
+2024-04,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,3437.34,SIMULATED
+2024-04,2400,Income tax payable,liability,0.0,15490.64,SIMULATED
+2024-04,2700,Term loan,liability,0.0,458333.32,SIMULATED
+2024-04,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-04,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-04,4000,Sales - sofas & sectionals,revenue,0.0,922796.32,SIMULATED
+2024-04,4010,Sales - bedroom,revenue,0.0,621946.44,SIMULATED
+2024-04,4020,Sales - mattresses & bases,revenue,0.0,274400.72,SIMULATED
+2024-04,4030,Sales - dining,revenue,0.0,661134.0,SIMULATED
+2024-04,4040,Sales - living & occasional,revenue,0.0,358537.79,SIMULATED
+2024-04,4050,Sales - home office,revenue,0.0,25906.86,SIMULATED
+2024-04,4060,Sales - décor & lighting,revenue,0.0,181533.57,SIMULATED
+2024-04,4100,"Protection-plan commissions (net, agent)",revenue,0.0,16287.92,SIMULATED
+2024-04,4200,Restocking fees,revenue,0.0,6690.0,SIMULATED
+2024-04,4300,Retained cancellation fees,revenue,0.0,16815.82,SIMULATED
+2024-04,4900,Discounts & promotional allowances,contra_revenue,202234.21,0.0,SIMULATED
+2024-04,4910,Sales returns,contra_revenue,44600.0,0.0,SIMULATED
+2024-04,5000,Cost of goods sold - merchandise,cogs,1542817.53,0.0,SIMULATED
+2024-04,5100,"Inventory variances, shrinkage & write-offs",cogs,10726.89,0.0,SIMULATED
+2024-04,5200,Freight-in & supplier charges,cogs,63035.62,0.0,SIMULATED
+2024-04,6000,Wages - sales associates,opex,116941.44,0.0,SIMULATED
+2024-04,6010,Sales commissions,opex,49558.66,0.0,SIMULATED
+2024-04,6020,Interior designer compensation,opex,104389.55,0.0,SIMULATED
+2024-04,6030,Wages - warehouse,opex,76695.36,0.0,SIMULATED
+2024-04,6040,Salaries - management & administration,opex,137860.0,0.0,SIMULATED
+2024-04,6100,Rent,opex,176000.0,0.0,SIMULATED
+2024-04,6105,Common-area & property tax charges,opex,39200.0,0.0,SIMULATED
+2024-04,6110,Utilities,opex,39416.14,0.0,SIMULATED
+2024-04,6200,Marketing & advertising,opex,140583.69,0.0,SIMULATED
+2024-04,6300,Insurance,opex,20800.0,0.0,SIMULATED
+2024-04,6310,Administrative & professional fees,opex,30487.86,0.0,SIMULATED
+2024-04,6320,IT & e-commerce platform,opex,13665.11,0.0,SIMULATED
+2024-04,6400,Warehouse & fulfilment operations,opex,15975.28,0.0,SIMULATED
+2024-04,6410,Design consultation materials & travel,opex,9050.0,0.0,SIMULATED
+2024-04,6420,Card processing fees,opex,33656.93,0.0,SIMULATED
+2024-04,6430,Financing-partner merchant fees,opex,31105.59,0.0,SIMULATED
+2024-04,6900,Depreciation,opex,31571.44,0.0,SIMULATED
+2024-04,7000,Interest - term loan,other_exp,14854.16,0.0,SIMULATED
+2024-04,8000,Income tax expense,tax,15490.64,0.0,SIMULATED
+2024-05,1000,Cash - operating account,asset,633995.94,0.0,SIMULATED
+2024-05,1100,Card & debit processor receivable,asset,20474.84,0.0,SIMULATED
+2024-05,1110,Financing-partner receivable,asset,4129.66,0.0,SIMULATED
+2024-05,1120,Trade receivables - designer & business accounts,asset,29745.52,0.0,SIMULATED
+2024-05,1200,Inventory - stocked merchandise,asset,668829.25,0.0,SIMULATED
+2024-05,1210,Inventory - allocated to customer orders (custom & reserved),asset,325644.35,0.0,SIMULATED
+2024-05,1300,Prepaid expenses,asset,36400.0,0.0,SIMULATED
+2024-05,1400,GST input tax credits,asset,54480.14,0.0,SIMULATED
+2024-05,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-05,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-05,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-05,1590,Accumulated depreciation,contra_asset,0.0,429464.3,SIMULATED
+2024-05,2000,Accounts payable - suppliers,liability,0.0,401398.59,SIMULATED
+2024-05,2010,Accounts payable - operating vendors,liability,0.0,83036.83,SIMULATED
+2024-05,2100,Accrued payroll & commissions,liability,0.0,63397.88,SIMULATED
+2024-05,2300,GST collected,liability,0.0,68221.56,SIMULATED
+2024-05,2350,Customer deposits (contract liabilities),liability,0.0,512659.28,SIMULATED
+2024-05,2360,Delivery fees collected for partner carrier (agent),liability,0.0,995.0,SIMULATED
+2024-05,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5073.3,SIMULATED
+2024-05,2400,Income tax payable,liability,0.0,20125.38,SIMULATED
+2024-05,2700,Term loan,liability,0.0,447916.65,SIMULATED
+2024-05,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-05,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-05,4000,Sales - sofas & sectionals,revenue,0.0,1143993.93,SIMULATED
+2024-05,4010,Sales - bedroom,revenue,0.0,785091.27,SIMULATED
+2024-05,4020,Sales - mattresses & bases,revenue,0.0,348234.69,SIMULATED
+2024-05,4030,Sales - dining,revenue,0.0,826136.0,SIMULATED
+2024-05,4040,Sales - living & occasional,revenue,0.0,456667.79,SIMULATED
+2024-05,4050,Sales - home office,revenue,0.0,34110.86,SIMULATED
+2024-05,4060,Sales - décor & lighting,revenue,0.0,229691.47,SIMULATED
+2024-05,4100,"Protection-plan commissions (net, agent)",revenue,0.0,19670.14,SIMULATED
+2024-05,4200,Restocking fees,revenue,0.0,8238.15,SIMULATED
+2024-05,4300,Retained cancellation fees,revenue,0.0,20722.24,SIMULATED
+2024-05,4900,Discounts & promotional allowances,contra_revenue,239352.66,0.0,SIMULATED
+2024-05,4910,Sales returns,contra_revenue,54921.0,0.0,SIMULATED
+2024-05,5000,Cost of goods sold - merchandise,cogs,1934663.22,0.0,SIMULATED
+2024-05,5100,"Inventory variances, shrinkage & write-offs",cogs,17580.8,0.0,SIMULATED
+2024-05,5200,Freight-in & supplier charges,cogs,78678.79,0.0,SIMULATED
+2024-05,6000,Wages - sales associates,opex,148906.88,0.0,SIMULATED
+2024-05,6010,Sales commissions,opex,63742.65,0.0,SIMULATED
+2024-05,6020,Interior designer compensation,opex,130827.52,0.0,SIMULATED
+2024-05,6030,Wages - warehouse,opex,96438.72,0.0,SIMULATED
+2024-05,6040,Salaries - management & administration,opex,172325.0,0.0,SIMULATED
+2024-05,6100,Rent,opex,220000.0,0.0,SIMULATED
+2024-05,6105,Common-area & property tax charges,opex,49000.0,0.0,SIMULATED
+2024-05,6110,Utilities,opex,47263.76,0.0,SIMULATED
+2024-05,6200,Marketing & advertising,opex,184457.31,0.0,SIMULATED
+2024-05,6300,Insurance,opex,26000.0,0.0,SIMULATED
+2024-05,6310,Administrative & professional fees,opex,38437.51,0.0,SIMULATED
+2024-05,6320,IT & e-commerce platform,opex,17062.58,0.0,SIMULATED
+2024-05,6400,Warehouse & fulfilment operations,opex,21026.88,0.0,SIMULATED
+2024-05,6410,Design consultation materials & travel,opex,11200.0,0.0,SIMULATED
+2024-05,6420,Card processing fees,opex,42910.31,0.0,SIMULATED
+2024-05,6430,Financing-partner merchant fees,opex,36970.62,0.0,SIMULATED
+2024-05,6900,Depreciation,opex,39464.3,0.0,SIMULATED
+2024-05,7000,Interest - term loan,other_exp,18368.05,0.0,SIMULATED
+2024-05,8000,Income tax expense,tax,20125.38,0.0,SIMULATED
+2024-06,1000,Cash - operating account,asset,673995.68,0.0,SIMULATED
+2024-06,1100,Card & debit processor receivable,asset,22198.51,0.0,SIMULATED
+2024-06,1110,Financing-partner receivable,asset,15665.96,0.0,SIMULATED
+2024-06,1120,Trade receivables - designer & business accounts,asset,23927.22,0.0,SIMULATED
+2024-06,1200,Inventory - stocked merchandise,asset,650325.65,0.0,SIMULATED
+2024-06,1210,Inventory - allocated to customer orders (custom & reserved),asset,293731.38,0.0,SIMULATED
+2024-06,1300,Prepaid expenses,asset,31200.0,0.0,SIMULATED
+2024-06,1400,GST input tax credits,asset,77665.19,0.0,SIMULATED
+2024-06,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-06,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-06,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-06,1590,Accumulated depreciation,contra_asset,0.0,438065.49,SIMULATED
+2024-06,2000,Accounts payable - suppliers,liability,0.0,370733.74,SIMULATED
+2024-06,2010,Accounts payable - operating vendors,liability,0.0,68727.76,SIMULATED
+2024-06,2100,Accrued payroll & commissions,liability,0.0,60830.18,SIMULATED
+2024-06,2300,GST collected,liability,0.0,104613.86,SIMULATED
+2024-06,2350,Customer deposits (contract liabilities),liability,0.0,477574.63,SIMULATED
+2024-06,2360,Delivery fees collected for partner carrier (agent),liability,0.0,199.0,SIMULATED
+2024-06,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5596.48,SIMULATED
+2024-06,2400,Income tax payable,liability,0.0,27091.92,SIMULATED
+2024-06,2700,Term loan,liability,0.0,437499.98,SIMULATED
+2024-06,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-06,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-06,4000,Sales - sofas & sectionals,revenue,0.0,1405820.12,SIMULATED
+2024-06,4010,Sales - bedroom,revenue,0.0,874713.92,SIMULATED
+2024-06,4020,Sales - mattresses & bases,revenue,0.0,397564.68,SIMULATED
+2024-06,4030,Sales - dining,revenue,0.0,1035781.0,SIMULATED
+2024-06,4040,Sales - living & occasional,revenue,0.0,549103.71,SIMULATED
+2024-06,4050,Sales - home office,revenue,0.0,43392.86,SIMULATED
+2024-06,4060,Sales - décor & lighting,revenue,0.0,281617.38,SIMULATED
+2024-06,4100,"Protection-plan commissions (net, agent)",revenue,0.0,23401.14,SIMULATED
+2024-06,4200,Restocking fees,revenue,0.0,9886.05,SIMULATED
+2024-06,4300,Retained cancellation fees,revenue,0.0,23911.09,SIMULATED
+2024-06,4900,Discounts & promotional allowances,contra_revenue,269424.7,0.0,SIMULATED
+2024-06,4910,Sales returns,contra_revenue,65907.0,0.0,SIMULATED
+2024-06,5000,Cost of goods sold - merchandise,cogs,2323400.27,0.0,SIMULATED
+2024-06,5100,"Inventory variances, shrinkage & write-offs",cogs,18133.1,0.0,SIMULATED
+2024-06,5200,Freight-in & supplier charges,cogs,92885.74,0.0,SIMULATED
+2024-06,6000,Wages - sales associates,opex,179642.88,0.0,SIMULATED
+2024-06,6010,Sales commissions,opex,75467.3,0.0,SIMULATED
+2024-06,6020,Interior designer compensation,opex,156578.23,0.0,SIMULATED
+2024-06,6030,Wages - warehouse,opex,115422.72,0.0,SIMULATED
+2024-06,6040,Salaries - management & administration,opex,206790.0,0.0,SIMULATED
+2024-06,6100,Rent,opex,264000.0,0.0,SIMULATED
+2024-06,6105,Common-area & property tax charges,opex,58800.0,0.0,SIMULATED
+2024-06,6110,Utilities,opex,54108.96,0.0,SIMULATED
+2024-06,6200,Marketing & advertising,opex,218680.65,0.0,SIMULATED
+2024-06,6300,Insurance,opex,31200.0,0.0,SIMULATED
+2024-06,6310,Administrative & professional fees,opex,45322.44,0.0,SIMULATED
+2024-06,6320,IT & e-commerce platform,opex,20196.93,0.0,SIMULATED
+2024-06,6400,Warehouse & fulfilment operations,opex,24759.68,0.0,SIMULATED
+2024-06,6410,Design consultation materials & travel,opex,13200.0,0.0,SIMULATED
+2024-06,6420,Card processing fees,opex,51976.41,0.0,SIMULATED
+2024-06,6430,Financing-partner merchant fees,opex,43230.55,0.0,SIMULATED
+2024-06,6900,Depreciation,opex,48065.49,0.0,SIMULATED
+2024-06,7000,Interest - term loan,other_exp,21708.76,0.0,SIMULATED
+2024-06,8000,Income tax expense,tax,27091.92,0.0,SIMULATED
+2024-07,1000,Cash - operating account,asset,798770.17,0.0,SIMULATED
+2024-07,1100,Card & debit processor receivable,asset,18726.45,0.0,SIMULATED
+2024-07,1110,Financing-partner receivable,asset,13918.21,0.0,SIMULATED
+2024-07,1120,Trade receivables - designer & business accounts,asset,36149.3,0.0,SIMULATED
+2024-07,1200,Inventory - stocked merchandise,asset,629786.02,0.0,SIMULATED
+2024-07,1210,Inventory - allocated to customer orders (custom & reserved),asset,266097.5,0.0,SIMULATED
+2024-07,1300,Prepaid expenses,asset,26000.0,0.0,SIMULATED
+2024-07,1400,GST input tax credits,asset,24920.29,0.0,SIMULATED
+2024-07,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-07,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-07,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-07,1590,Accumulated depreciation,contra_asset,0.0,446666.68,SIMULATED
+2024-07,2000,Accounts payable - suppliers,liability,0.0,412691.43,SIMULATED
+2024-07,2010,Accounts payable - operating vendors,liability,0.0,63842.26,SIMULATED
+2024-07,2100,Accrued payroll & commissions,liability,0.0,62479.53,SIMULATED
+2024-07,2300,GST collected,liability,0.0,38870.16,SIMULATED
+2024-07,2350,Customer deposits (contract liabilities),liability,0.0,457022.26,SIMULATED
+2024-07,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2024-07,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,4687.09,SIMULATED
+2024-07,2400,Income tax payable,liability,0.0,35403.49,SIMULATED
+2024-07,2700,Term loan,liability,0.0,427083.31,SIMULATED
+2024-07,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-07,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-07,4000,Sales - sofas & sectionals,revenue,0.0,1656074.53,SIMULATED
+2024-07,4010,Sales - bedroom,revenue,0.0,1037532.91,SIMULATED
+2024-07,4020,Sales - mattresses & bases,revenue,0.0,479903.58,SIMULATED
+2024-07,4030,Sales - dining,revenue,0.0,1211266.0,SIMULATED
+2024-07,4040,Sales - living & occasional,revenue,0.0,648836.5,SIMULATED
+2024-07,4050,Sales - home office,revenue,0.0,43392.86,SIMULATED
+2024-07,4060,Sales - décor & lighting,revenue,0.0,339612.28,SIMULATED
+2024-07,4100,"Protection-plan commissions (net, agent)",revenue,0.0,26525.88,SIMULATED
+2024-07,4200,Restocking fees,revenue,0.0,10991.7,SIMULATED
+2024-07,4300,Retained cancellation fees,revenue,0.0,25303.05,SIMULATED
+2024-07,4900,Discounts & promotional allowances,contra_revenue,315772.65,0.0,SIMULATED
+2024-07,4910,Sales returns,contra_revenue,73278.0,0.0,SIMULATED
+2024-07,5000,Cost of goods sold - merchandise,cogs,2745603.06,0.0,SIMULATED
+2024-07,5100,"Inventory variances, shrinkage & write-offs",cogs,22026.36,0.0,SIMULATED
+2024-07,5200,Freight-in & supplier charges,cogs,108002.6,0.0,SIMULATED
+2024-07,6000,Wages - sales associates,opex,211608.32,0.0,SIMULATED
+2024-07,6010,Sales commissions,opex,87384.89,0.0,SIMULATED
+2024-07,6020,Interior designer compensation,opex,183445.9,0.0,SIMULATED
+2024-07,6030,Wages - warehouse,opex,135166.08,0.0,SIMULATED
+2024-07,6040,Salaries - management & administration,opex,241255.0,0.0,SIMULATED
+2024-07,6100,Rent,opex,308000.0,0.0,SIMULATED
+2024-07,6105,Common-area & property tax charges,opex,68600.0,0.0,SIMULATED
+2024-07,6110,Utilities,opex,60000.63,0.0,SIMULATED
+2024-07,6200,Marketing & advertising,opex,246934.9,0.0,SIMULATED
+2024-07,6300,Insurance,opex,36400.0,0.0,SIMULATED
+2024-07,6310,Administrative & professional fees,opex,53781.84,0.0,SIMULATED
+2024-07,6320,IT & e-commerce platform,opex,23515.64,0.0,SIMULATED
+2024-07,6400,Warehouse & fulfilment operations,opex,28525.81,0.0,SIMULATED
+2024-07,6410,Design consultation materials & travel,opex,15075.0,0.0,SIMULATED
+2024-07,6420,Card processing fees,opex,61675.25,0.0,SIMULATED
+2024-07,6430,Financing-partner merchant fees,opex,49990.16,0.0,SIMULATED
+2024-07,6900,Depreciation,opex,56666.68,0.0,SIMULATED
+2024-07,7000,Interest - term loan,other_exp,24880.63,0.0,SIMULATED
+2024-07,8000,Income tax expense,tax,35403.49,0.0,SIMULATED
+2024-08,1000,Cash - operating account,asset,880647.19,0.0,SIMULATED
+2024-08,1100,Card & debit processor receivable,asset,36704.76,0.0,SIMULATED
+2024-08,1110,Financing-partner receivable,asset,17819.45,0.0,SIMULATED
+2024-08,1120,Trade receivables - designer & business accounts,asset,24808.21,0.0,SIMULATED
+2024-08,1200,Inventory - stocked merchandise,asset,674277.26,0.0,SIMULATED
+2024-08,1210,Inventory - allocated to customer orders (custom & reserved),asset,284554.53,0.0,SIMULATED
+2024-08,1300,Prepaid expenses,asset,20800.0,0.0,SIMULATED
+2024-08,1400,GST input tax credits,asset,53404.32,0.0,SIMULATED
+2024-08,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-08,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-08,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-08,1590,Accumulated depreciation,contra_asset,0.0,455267.87,SIMULATED
+2024-08,2000,Accounts payable - suppliers,liability,0.0,477305.83,SIMULATED
+2024-08,2010,Accounts payable - operating vendors,liability,0.0,64913.68,SIMULATED
+2024-08,2100,Accrued payroll & commissions,liability,0.0,63169.47,SIMULATED
+2024-08,2300,GST collected,liability,0.0,73957.26,SIMULATED
+2024-08,2350,Customer deposits (contract liabilities),liability,0.0,498317.45,SIMULATED
+2024-08,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1194.0,SIMULATED
+2024-08,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,4981.04,SIMULATED
+2024-08,2400,Income tax payable,liability,0.0,39453.06,SIMULATED
+2024-08,2700,Term loan,liability,0.0,416666.64,SIMULATED
+2024-08,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-08,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-08,4000,Sales - sofas & sectionals,revenue,0.0,1890330.46,SIMULATED
+2024-08,4010,Sales - bedroom,revenue,0.0,1183975.02,SIMULATED
+2024-08,4020,Sales - mattresses & bases,revenue,0.0,551788.55,SIMULATED
+2024-08,4030,Sales - dining,revenue,0.0,1357495.0,SIMULATED
+2024-08,4040,Sales - living & occasional,revenue,0.0,740019.16,SIMULATED
+2024-08,4050,Sales - home office,revenue,0.0,50284.86,SIMULATED
+2024-08,4060,Sales - décor & lighting,revenue,0.0,384961.18,SIMULATED
+2024-08,4100,"Protection-plan commissions (net, agent)",revenue,0.0,29846.58,SIMULATED
+2024-08,4200,Restocking fees,revenue,0.0,12343.65,SIMULATED
+2024-08,4300,Retained cancellation fees,revenue,0.0,27126.29,SIMULATED
+2024-08,4900,Discounts & promotional allowances,contra_revenue,350429.09,0.0,SIMULATED
+2024-08,4910,Sales returns,contra_revenue,82291.0,0.0,SIMULATED
+2024-08,5000,Cost of goods sold - merchandise,cogs,3121335.75,0.0,SIMULATED
+2024-08,5100,"Inventory variances, shrinkage & write-offs",cogs,26804.61,0.0,SIMULATED
+2024-08,5200,Freight-in & supplier charges,cogs,126683.07,0.0,SIMULATED
+2024-08,6000,Wages - sales associates,opex,244803.2,0.0,SIMULATED
+2024-08,6010,Sales commissions,opex,99042.91,0.0,SIMULATED
+2024-08,6020,Interior designer compensation,opex,209964.21,0.0,SIMULATED
+2024-08,6030,Wages - warehouse,opex,155668.8,0.0,SIMULATED
+2024-08,6040,Salaries - management & administration,opex,275720.0,0.0,SIMULATED
+2024-08,6100,Rent,opex,352000.0,0.0,SIMULATED
+2024-08,6105,Common-area & property tax charges,opex,78400.0,0.0,SIMULATED
+2024-08,6110,Utilities,opex,66109.76,0.0,SIMULATED
+2024-08,6200,Marketing & advertising,opex,278035.18,0.0,SIMULATED
+2024-08,6300,Insurance,opex,41600.0,0.0,SIMULATED
+2024-08,6310,Administrative & professional fees,opex,61041.21,0.0,SIMULATED
+2024-08,6320,IT & e-commerce platform,opex,27163.37,0.0,SIMULATED
+2024-08,6400,Warehouse & fulfilment operations,opex,32248.43,0.0,SIMULATED
+2024-08,6410,Design consultation materials & travel,opex,16975.0,0.0,SIMULATED
+2024-08,6420,Card processing fees,opex,70162.84,0.0,SIMULATED
+2024-08,6430,Financing-partner merchant fees,opex,59783.32,0.0,SIMULATED
+2024-08,6900,Depreciation,opex,65267.87,0.0,SIMULATED
+2024-08,7000,Interest - term loan,other_exp,27976.98,0.0,SIMULATED
+2024-08,8000,Income tax expense,tax,39453.06,0.0,SIMULATED
+2024-09,1000,Cash - operating account,asset,929953.29,0.0,SIMULATED
+2024-09,1100,Card & debit processor receivable,asset,26791.92,0.0,SIMULATED
+2024-09,1110,Financing-partner receivable,asset,4965.16,0.0,SIMULATED
+2024-09,1120,Trade receivables - designer & business accounts,asset,39295.44,0.0,SIMULATED
+2024-09,1200,Inventory - stocked merchandise,asset,610286.83,0.0,SIMULATED
+2024-09,1210,Inventory - allocated to customer orders (custom & reserved),asset,281715.31,0.0,SIMULATED
+2024-09,1300,Prepaid expenses,asset,15600.0,0.0,SIMULATED
+2024-09,1400,GST input tax credits,asset,77598.49,0.0,SIMULATED
+2024-09,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-09,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-09,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-09,1590,Accumulated depreciation,contra_asset,0.0,463869.06,SIMULATED
+2024-09,2000,Accounts payable - suppliers,liability,0.0,377729.76,SIMULATED
+2024-09,2010,Accounts payable - operating vendors,liability,0.0,82571.08,SIMULATED
+2024-09,2100,Accrued payroll & commissions,liability,0.0,60572.57,SIMULATED
+2024-09,2300,GST collected,liability,0.0,110724.1,SIMULATED
+2024-09,2350,Customer deposits (contract liabilities),liability,0.0,510616.25,SIMULATED
+2024-09,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1194.0,SIMULATED
+2024-09,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,4557.06,SIMULATED
+2024-09,2400,Income tax payable,liability,0.0,42849.87,SIMULATED
+2024-09,2700,Term loan,liability,0.0,406249.97,SIMULATED
+2024-09,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-09,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-09,4000,Sales - sofas & sectionals,revenue,0.0,2115116.68,SIMULATED
+2024-09,4010,Sales - bedroom,revenue,0.0,1343996.92,SIMULATED
+2024-09,4020,Sales - mattresses & bases,revenue,0.0,604777.5,SIMULATED
+2024-09,4030,Sales - dining,revenue,0.0,1572608.0,SIMULATED
+2024-09,4040,Sales - living & occasional,revenue,0.0,831402.87,SIMULATED
+2024-09,4050,Sales - home office,revenue,0.0,54500.86,SIMULATED
+2024-09,4060,Sales - décor & lighting,revenue,0.0,428451.08,SIMULATED
+2024-09,4100,"Protection-plan commissions (net, agent)",revenue,0.0,32884.61,SIMULATED
+2024-09,4200,Restocking fees,revenue,0.0,13533.26,SIMULATED
+2024-09,4300,Retained cancellation fees,revenue,0.0,27737.82,SIMULATED
+2024-09,4900,Discounts & promotional allowances,contra_revenue,400963.02,0.0,SIMULATED
+2024-09,4910,Sales returns,contra_revenue,90221.75,0.0,SIMULATED
+2024-09,5000,Cost of goods sold - merchandise,cogs,3528186.69,0.0,SIMULATED
+2024-09,5100,"Inventory variances, shrinkage & write-offs",cogs,32478.46,0.0,SIMULATED
+2024-09,5200,Freight-in & supplier charges,cogs,140730.46,0.0,SIMULATED
+2024-09,6000,Wages - sales associates,opex,274309.76,0.0,SIMULATED
+2024-09,6010,Sales commissions,opex,112209.32,0.0,SIMULATED
+2024-09,6020,Interior designer compensation,opex,235746.74,0.0,SIMULATED
+2024-09,6030,Wages - warehouse,opex,173893.44,0.0,SIMULATED
+2024-09,6040,Salaries - management & administration,opex,310185.0,0.0,SIMULATED
+2024-09,6100,Rent,opex,396000.0,0.0,SIMULATED
+2024-09,6105,Common-area & property tax charges,opex,88200.0,0.0,SIMULATED
+2024-09,6110,Utilities,opex,73212.3,0.0,SIMULATED
+2024-09,6200,Marketing & advertising,opex,324332.61,0.0,SIMULATED
+2024-09,6300,Insurance,opex,46800.0,0.0,SIMULATED
+2024-09,6310,Administrative & professional fees,opex,68581.88,0.0,SIMULATED
+2024-09,6320,IT & e-commerce platform,opex,30504.68,0.0,SIMULATED
+2024-09,6400,Warehouse & fulfilment operations,opex,36255.21,0.0,SIMULATED
+2024-09,6410,Design consultation materials & travel,opex,19025.0,0.0,SIMULATED
+2024-09,6420,Card processing fees,opex,78878.25,0.0,SIMULATED
+2024-09,6430,Financing-partner merchant fees,opex,69970.7,0.0,SIMULATED
+2024-09,6900,Depreciation,opex,73869.06,0.0,SIMULATED
+2024-09,7000,Interest - term loan,other_exp,30911.01,0.0,SIMULATED
+2024-09,8000,Income tax expense,tax,42849.87,0.0,SIMULATED
+2024-10,1000,Cash - operating account,asset,933387.74,0.0,SIMULATED
+2024-10,1100,Card & debit processor receivable,asset,27269.71,0.0,SIMULATED
+2024-10,1110,Financing-partner receivable,asset,28403.06,0.0,SIMULATED
+2024-10,1120,Trade receivables - designer & business accounts,asset,23924.72,0.0,SIMULATED
+2024-10,1200,Inventory - stocked merchandise,asset,606611.44,0.0,SIMULATED
+2024-10,1210,Inventory - allocated to customer orders (custom & reserved),asset,315499.97,0.0,SIMULATED
+2024-10,1300,Prepaid expenses,asset,10400.0,0.0,SIMULATED
+2024-10,1400,GST input tax credits,asset,26769.19,0.0,SIMULATED
+2024-10,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-10,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-10,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-10,1590,Accumulated depreciation,contra_asset,0.0,472470.25,SIMULATED
+2024-10,2000,Accounts payable - suppliers,liability,0.0,409685.43,SIMULATED
+2024-10,2010,Accounts payable - operating vendors,liability,0.0,85728.38,SIMULATED
+2024-10,2100,Accrued payroll & commissions,liability,0.0,62173.51,SIMULATED
+2024-10,2300,GST collected,liability,0.0,32930.6,SIMULATED
+2024-10,2350,Customer deposits (contract liabilities),liability,0.0,537993.04,SIMULATED
+2024-10,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2024-10,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5316.57,SIMULATED
+2024-10,2400,Income tax payable,liability,0.0,43005.54,SIMULATED
+2024-10,2700,Term loan,liability,0.0,395833.3,SIMULATED
+2024-10,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-10,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-10,4000,Sales - sofas & sectionals,revenue,0.0,2347784.91,SIMULATED
+2024-10,4010,Sales - bedroom,revenue,0.0,1449096.38,SIMULATED
+2024-10,4020,Sales - mattresses & bases,revenue,0.0,672601.45,SIMULATED
+2024-10,4030,Sales - dining,revenue,0.0,1729655.0,SIMULATED
+2024-10,4040,Sales - living & occasional,revenue,0.0,927031.66,SIMULATED
+2024-10,4050,Sales - home office,revenue,0.0,58194.86,SIMULATED
+2024-10,4060,Sales - décor & lighting,revenue,0.0,470308.99,SIMULATED
+2024-10,4100,"Protection-plan commissions (net, agent)",revenue,0.0,36429.01,SIMULATED
+2024-10,4200,Restocking fees,revenue,0.0,14984.06,SIMULATED
+2024-10,4300,Retained cancellation fees,revenue,0.0,28474.35,SIMULATED
+2024-10,4900,Discounts & promotional allowances,contra_revenue,438685.97,0.0,SIMULATED
+2024-10,4910,Sales returns,contra_revenue,99893.75,0.0,SIMULATED
+2024-10,5000,Cost of goods sold - merchandise,cogs,3883872.93,0.0,SIMULATED
+2024-10,5100,"Inventory variances, shrinkage & write-offs",cogs,38689.51,0.0,SIMULATED
+2024-10,5200,Freight-in & supplier charges,cogs,156566.05,0.0,SIMULATED
+2024-10,6000,Wages - sales associates,opex,306275.2,0.0,SIMULATED
+2024-10,6010,Sales commissions,opex,125362.64,0.0,SIMULATED
+2024-10,6020,Interior designer compensation,opex,260766.63,0.0,SIMULATED
+2024-10,6030,Wages - warehouse,opex,193636.8,0.0,SIMULATED
+2024-10,6040,Salaries - management & administration,opex,344650.0,0.0,SIMULATED
+2024-10,6100,Rent,opex,440000.0,0.0,SIMULATED
+2024-10,6105,Common-area & property tax charges,opex,98000.0,0.0,SIMULATED
+2024-10,6110,Utilities,opex,81929.43,0.0,SIMULATED
+2024-10,6200,Marketing & advertising,opex,371324.42,0.0,SIMULATED
+2024-10,6300,Insurance,opex,52000.0,0.0,SIMULATED
+2024-10,6310,Administrative & professional fees,opex,76842.01,0.0,SIMULATED
+2024-10,6320,IT & e-commerce platform,opex,33827.51,0.0,SIMULATED
+2024-10,6400,Warehouse & fulfilment operations,opex,40429.99,0.0,SIMULATED
+2024-10,6410,Design consultation materials & travel,opex,21300.0,0.0,SIMULATED
+2024-10,6420,Card processing fees,opex,87177.86,0.0,SIMULATED
+2024-10,6430,Financing-partner merchant fees,opex,76297.88,0.0,SIMULATED
+2024-10,6900,Depreciation,opex,82470.25,0.0,SIMULATED
+2024-10,7000,Interest - term loan,other_exp,33602.42,0.0,SIMULATED
+2024-10,8000,Income tax expense,tax,43005.54,0.0,SIMULATED
+2024-11,1000,Cash - operating account,asset,1110369.25,0.0,SIMULATED
+2024-11,1100,Card & debit processor receivable,asset,56303.9,0.0,SIMULATED
+2024-11,1110,Financing-partner receivable,asset,24066.54,0.0,SIMULATED
+2024-11,1120,Trade receivables - designer & business accounts,asset,54931.21,0.0,SIMULATED
+2024-11,1200,Inventory - stocked merchandise,asset,524205.39,0.0,SIMULATED
+2024-11,1210,Inventory - allocated to customer orders (custom & reserved),asset,315587.61,0.0,SIMULATED
+2024-11,1300,Prepaid expenses,asset,5200.0,0.0,SIMULATED
+2024-11,1400,GST input tax credits,asset,52486.91,0.0,SIMULATED
+2024-11,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-11,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-11,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-11,1590,Accumulated depreciation,contra_asset,0.0,481071.44,SIMULATED
+2024-11,2000,Accounts payable - suppliers,liability,0.0,409349.2,SIMULATED
+2024-11,2010,Accounts payable - operating vendors,liability,0.0,84073.1,SIMULATED
+2024-11,2100,Accrued payroll & commissions,liability,0.0,63566.62,SIMULATED
+2024-11,2300,GST collected,liability,0.0,75048.85,SIMULATED
+2024-11,2350,Customer deposits (contract liabilities),liability,0.0,582442.85,SIMULATED
+2024-11,2360,Delivery fees collected for partner carrier (agent),liability,0.0,398.0,SIMULATED
+2024-11,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6365.97,SIMULATED
+2024-11,2400,Income tax payable,liability,0.0,52452.38,SIMULATED
+2024-11,2700,Term loan,liability,0.0,385416.63,SIMULATED
+2024-11,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-11,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-11,4000,Sales - sofas & sectionals,revenue,0.0,2626668.24,SIMULATED
+2024-11,4010,Sales - bedroom,revenue,0.0,1629487.07,SIMULATED
+2024-11,4020,Sales - mattresses & bases,revenue,0.0,759628.38,SIMULATED
+2024-11,4030,Sales - dining,revenue,0.0,1922017.0,SIMULATED
+2024-11,4040,Sales - living & occasional,revenue,0.0,1038579.66,SIMULATED
+2024-11,4050,Sales - home office,revenue,0.0,61031.86,SIMULATED
+2024-11,4060,Sales - décor & lighting,revenue,0.0,526229.89,SIMULATED
+2024-11,4100,"Protection-plan commissions (net, agent)",revenue,0.0,40673.0,SIMULATED
+2024-11,4200,Restocking fees,revenue,0.0,18760.76,SIMULATED
+2024-11,4300,Retained cancellation fees,revenue,0.0,28474.35,SIMULATED
+2024-11,4900,Discounts & promotional allowances,contra_revenue,483890.33,0.0,SIMULATED
+2024-11,4910,Sales returns,contra_revenue,125071.75,0.0,SIMULATED
+2024-11,5000,Cost of goods sold - merchandise,cogs,4338273.04,0.0,SIMULATED
+2024-11,5100,"Inventory variances, shrinkage & write-offs",cogs,41195.87,0.0,SIMULATED
+2024-11,5200,Freight-in & supplier charges,cogs,171834.27,0.0,SIMULATED
+2024-11,6000,Wages - sales associates,opex,337011.2,0.0,SIMULATED
+2024-11,6010,Sales commissions,opex,142757.87,0.0,SIMULATED
+2024-11,6020,Interior designer compensation,opex,286319.64,0.0,SIMULATED
+2024-11,6030,Wages - warehouse,opex,212620.8,0.0,SIMULATED
+2024-11,6040,Salaries - management & administration,opex,379115.0,0.0,SIMULATED
+2024-11,6100,Rent,opex,484000.0,0.0,SIMULATED
+2024-11,6105,Common-area & property tax charges,opex,107800.0,0.0,SIMULATED
+2024-11,6110,Utilities,opex,91369.41,0.0,SIMULATED
+2024-11,6200,Marketing & advertising,opex,414465.29,0.0,SIMULATED
+2024-11,6300,Insurance,opex,57200.0,0.0,SIMULATED
+2024-11,6310,Administrative & professional fees,opex,85082.51,0.0,SIMULATED
+2024-11,6320,IT & e-commerce platform,opex,36972.4,0.0,SIMULATED
+2024-11,6400,Warehouse & fulfilment operations,opex,44859.73,0.0,SIMULATED
+2024-11,6410,Design consultation materials & travel,opex,23600.0,0.0,SIMULATED
+2024-11,6420,Card processing fees,opex,97020.18,0.0,SIMULATED
+2024-11,6430,Financing-partner merchant fees,opex,86954.84,0.0,SIMULATED
+2024-11,6900,Depreciation,opex,91071.44,0.0,SIMULATED
+2024-11,7000,Interest - term loan,other_exp,36224.82,0.0,SIMULATED
+2024-11,8000,Income tax expense,tax,52452.38,0.0,SIMULATED
+2024-12,1000,Cash - operating account,asset,943167.72,0.0,SIMULATED
+2024-12,1100,Card & debit processor receivable,asset,36555.56,0.0,SIMULATED
+2024-12,1110,Financing-partner receivable,asset,13255.66,0.0,SIMULATED
+2024-12,1120,Trade receivables - designer & business accounts,asset,35744.34,0.0,SIMULATED
+2024-12,1200,Inventory - stocked merchandise,asset,574624.47,0.0,SIMULATED
+2024-12,1210,Inventory - allocated to customer orders (custom & reserved),asset,291769.67,0.0,SIMULATED
+2024-12,1400,GST input tax credits,asset,81295.71,0.0,SIMULATED
+2024-12,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2024-12,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2024-12,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2024-12,1590,Accumulated depreciation,contra_asset,0.0,489672.63,SIMULATED
+2024-12,2000,Accounts payable - suppliers,liability,0.0,476724.93,SIMULATED
+2024-12,2010,Accounts payable - operating vendors,liability,0.0,80168.14,SIMULATED
+2024-12,2100,Accrued payroll & commissions,liability,0.0,59041.61,SIMULATED
+2024-12,2300,GST collected,liability,0.0,111403.26,SIMULATED
+2024-12,2350,Customer deposits (contract liabilities),liability,0.0,516721.98,SIMULATED
+2024-12,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1194.0,SIMULATED
+2024-12,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,4992.49,SIMULATED
+2024-12,2400,Income tax payable,liability,0.0,56820.63,SIMULATED
+2024-12,2700,Term loan,liability,0.0,374999.96,SIMULATED
+2024-12,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2024-12,3200,Retained earnings,equity,0.0,138578.33,SIMULATED
+2024-12,3300,Dividends declared,equity,225000.0,0.0,SIMULATED
+2024-12,4000,Sales - sofas & sectionals,revenue,0.0,2863709.28,SIMULATED
+2024-12,4010,Sales - bedroom,revenue,0.0,1774442.02,SIMULATED
+2024-12,4020,Sales - mattresses & bases,revenue,0.0,830812.35,SIMULATED
+2024-12,4030,Sales - dining,revenue,0.0,2118105.0,SIMULATED
+2024-12,4040,Sales - living & occasional,revenue,0.0,1122666.51,SIMULATED
+2024-12,4050,Sales - home office,revenue,0.0,67946.86,SIMULATED
+2024-12,4060,Sales - décor & lighting,revenue,0.0,584305.77,SIMULATED
+2024-12,4100,"Protection-plan commissions (net, agent)",revenue,0.0,44001.31,SIMULATED
+2024-12,4200,Restocking fees,revenue,0.0,20009.06,SIMULATED
+2024-12,4300,Retained cancellation fees,revenue,0.0,33467.58,SIMULATED
+2024-12,4900,Discounts & promotional allowances,contra_revenue,553066.13,0.0,SIMULATED
+2024-12,4910,Sales returns,contra_revenue,133393.75,0.0,SIMULATED
+2024-12,5000,Cost of goods sold - merchandise,cogs,4738541.71,0.0,SIMULATED
+2024-12,5100,"Inventory variances, shrinkage & write-offs",cogs,49240.95,0.0,SIMULATED
+2024-12,5200,Freight-in & supplier charges,cogs,190943.12,0.0,SIMULATED
+2024-12,6000,Wages - sales associates,opex,366517.76,0.0,SIMULATED
+2024-12,6010,Sales commissions,opex,153313.84,0.0,SIMULATED
+2024-12,6020,Interior designer compensation,opex,311650.69,0.0,SIMULATED
+2024-12,6030,Wages - warehouse,opex,230845.44,0.0,SIMULATED
+2024-12,6040,Salaries - management & administration,opex,413580.0,0.0,SIMULATED
+2024-12,6100,Rent,opex,528000.0,0.0,SIMULATED
+2024-12,6105,Common-area & property tax charges,opex,117600.0,0.0,SIMULATED
+2024-12,6110,Utilities,opex,101964.72,0.0,SIMULATED
+2024-12,6200,Marketing & advertising,opex,453737.78,0.0,SIMULATED
+2024-12,6300,Insurance,opex,62400.0,0.0,SIMULATED
+2024-12,6310,Administrative & professional fees,opex,93158.77,0.0,SIMULATED
+2024-12,6320,IT & e-commerce platform,opex,40476.78,0.0,SIMULATED
+2024-12,6400,Warehouse & fulfilment operations,opex,49638.53,0.0,SIMULATED
+2024-12,6410,Design consultation materials & travel,opex,25725.0,0.0,SIMULATED
+2024-12,6420,Card processing fees,opex,105418.47,0.0,SIMULATED
+2024-12,6430,Financing-partner merchant fees,opex,94046.26,0.0,SIMULATED
+2024-12,6900,Depreciation,opex,99672.63,0.0,SIMULATED
+2024-12,7000,Interest - term loan,other_exp,38617.61,0.0,SIMULATED
+2024-12,8000,Income tax expense,tax,56820.63,0.0,SIMULATED
+2025-01,1000,Cash - operating account,asset,984564.19,0.0,SIMULATED
+2025-01,1100,Card & debit processor receivable,asset,25350.67,0.0,SIMULATED
+2025-01,1110,Financing-partner receivable,asset,25573.19,0.0,SIMULATED
+2025-01,1120,Trade receivables - designer & business accounts,asset,49115.25,0.0,SIMULATED
+2025-01,1200,Inventory - stocked merchandise,asset,493836.59,0.0,SIMULATED
+2025-01,1210,Inventory - allocated to customer orders (custom & reserved),asset,328738.06,0.0,SIMULATED
+2025-01,1300,Prepaid expenses,asset,59488.0,0.0,SIMULATED
+2025-01,1400,GST input tax credits,asset,27740.7,0.0,SIMULATED
+2025-01,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-01,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2025-01,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-01,1590,Accumulated depreciation,contra_asset,0.0,498273.82,SIMULATED
+2025-01,2000,Accounts payable - suppliers,liability,0.0,452134.32,SIMULATED
+2025-01,2010,Accounts payable - operating vendors,liability,0.0,81969.75,SIMULATED
+2025-01,2100,Accrued payroll & commissions,liability,0.0,66148.8,SIMULATED
+2025-01,2300,GST collected,liability,0.0,40028.3,SIMULATED
+2025-01,2350,Customer deposits (contract liabilities),liability,0.0,586115.32,SIMULATED
+2025-01,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1393.0,SIMULATED
+2025-01,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5078.97,SIMULATED
+2025-01,2400,Income tax payable,liability,0.0,60911.19,SIMULATED
+2025-01,2700,Term loan,liability,0.0,364583.29,SIMULATED
+2025-01,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-01,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-01,4000,Sales - sofas & sectionals,revenue,0.0,311517.01,SIMULATED
+2025-01,4010,Sales - bedroom,revenue,0.0,166279.98,SIMULATED
+2025-01,4020,Sales - mattresses & bases,revenue,0.0,64050.91,SIMULATED
+2025-01,4030,Sales - dining,revenue,0.0,174917.0,SIMULATED
+2025-01,4040,Sales - living & occasional,revenue,0.0,99269.8,SIMULATED
+2025-01,4050,Sales - home office,revenue,0.0,9997.0,SIMULATED
+2025-01,4060,Sales - décor & lighting,revenue,0.0,53799.88,SIMULATED
+2025-01,4100,"Protection-plan commissions (net, agent)",revenue,0.0,3386.04,SIMULATED
+2025-01,4200,Restocking fees,revenue,0.0,478.2,SIMULATED
+2025-01,4300,Retained cancellation fees,revenue,0.0,4423.63,SIMULATED
+2025-01,4900,Discounts & promotional allowances,contra_revenue,80981.37,0.0,SIMULATED
+2025-01,4910,Sales returns,contra_revenue,3188.0,0.0,SIMULATED
+2025-01,5000,Cost of goods sold - merchandise,cogs,451878.83,0.0,SIMULATED
+2025-01,5100,"Inventory variances, shrinkage & write-offs",cogs,4539.46,0.0,SIMULATED
+2025-01,5200,Freight-in & supplier charges,cogs,18005.24,0.0,SIMULATED
+2025-01,6000,Wages - sales associates,opex,32924.4,0.0,SIMULATED
+2025-01,6010,Sales commissions,opex,16831.91,0.0,SIMULATED
+2025-01,6020,Interior designer compensation,opex,26706.68,0.0,SIMULATED
+2025-01,6030,Wages - warehouse,opex,20335.66,0.0,SIMULATED
+2025-01,6040,Salaries - management & administration,opex,35498.95,0.0,SIMULATED
+2025-01,6100,Rent,opex,45320.0,0.0,SIMULATED
+2025-01,6105,Common-area & property tax charges,opex,10045.0,0.0,SIMULATED
+2025-01,6110,Utilities,opex,11178.28,0.0,SIMULATED
+2025-01,6200,Marketing & advertising,opex,39436.99,0.0,SIMULATED
+2025-01,6300,Insurance,opex,5408.0,0.0,SIMULATED
+2025-01,6310,Administrative & professional fees,opex,7573.39,0.0,SIMULATED
+2025-01,6320,IT & e-commerce platform,opex,3328.71,0.0,SIMULATED
+2025-01,6400,Warehouse & fulfilment operations,opex,4075.9,0.0,SIMULATED
+2025-01,6410,Design consultation materials & travel,opex,3250.0,0.0,SIMULATED
+2025-01,6420,Card processing fees,opex,9684.31,0.0,SIMULATED
+2025-01,6430,Financing-partner merchant fees,opex,9890.23,0.0,SIMULATED
+2025-01,6900,Depreciation,opex,8601.19,0.0,SIMULATED
+2025-01,7000,Interest - term loan,other_exp,2250.0,0.0,SIMULATED
+2025-01,8000,Income tax expense,tax,4090.56,0.0,SIMULATED
+2025-02,1000,Cash - operating account,asset,953065.09,0.0,SIMULATED
+2025-02,1100,Card & debit processor receivable,asset,22618.23,0.0,SIMULATED
+2025-02,1110,Financing-partner receivable,asset,15742.66,0.0,SIMULATED
+2025-02,1120,Trade receivables - designer & business accounts,asset,48013.26,0.0,SIMULATED
+2025-02,1200,Inventory - stocked merchandise,asset,536462.45,0.0,SIMULATED
+2025-02,1210,Inventory - allocated to customer orders (custom & reserved),asset,302607.97,0.0,SIMULATED
+2025-02,1300,Prepaid expenses,asset,54080.0,0.0,SIMULATED
+2025-02,1400,GST input tax credits,asset,54559.35,0.0,SIMULATED
+2025-02,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-02,1510,Warehouse equipment & forklifts,asset,145000.0,0.0,SIMULATED
+2025-02,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-02,1590,Accumulated depreciation,contra_asset,0.0,506875.01,SIMULATED
+2025-02,2000,Accounts payable - suppliers,liability,0.0,447574.59,SIMULATED
+2025-02,2010,Accounts payable - operating vendors,liability,0.0,79451.11,SIMULATED
+2025-02,2100,Accrued payroll & commissions,liability,0.0,59746.79,SIMULATED
+2025-02,2300,GST collected,liability,0.0,73916.2,SIMULATED
+2025-02,2350,Customer deposits (contract liabilities),liability,0.0,548838.87,SIMULATED
+2025-02,2360,Delivery fees collected for partner carrier (agent),liability,0.0,796.0,SIMULATED
+2025-02,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6752.67,SIMULATED
+2025-02,2400,Income tax payable,liability,0.0,62049.7,SIMULATED
+2025-02,2700,Term loan,liability,0.0,354166.62,SIMULATED
+2025-02,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-02,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-02,4000,Sales - sofas & sectionals,revenue,0.0,541640.17,SIMULATED
+2025-02,4010,Sales - bedroom,revenue,0.0,286983.8,SIMULATED
+2025-02,4020,Sales - mattresses & bases,revenue,0.0,123559.8,SIMULATED
+2025-02,4030,Sales - dining,revenue,0.0,355729.0,SIMULATED
+2025-02,4040,Sales - living & occasional,revenue,0.0,187598.65,SIMULATED
+2025-02,4050,Sales - home office,revenue,0.0,12742.0,SIMULATED
+2025-02,4060,Sales - décor & lighting,revenue,0.0,103160.76,SIMULATED
+2025-02,4100,"Protection-plan commissions (net, agent)",revenue,0.0,7887.82,SIMULATED
+2025-02,4200,Restocking fees,revenue,0.0,728.1,SIMULATED
+2025-02,4300,Retained cancellation fees,revenue,0.0,5013.98,SIMULATED
+2025-02,4900,Discounts & promotional allowances,contra_revenue,133980.63,0.0,SIMULATED
+2025-02,4910,Sales returns,contra_revenue,4854.0,0.0,SIMULATED
+2025-02,5000,Cost of goods sold - merchandise,cogs,827851.97,0.0,SIMULATED
+2025-02,5100,"Inventory variances, shrinkage & write-offs",cogs,7852.94,0.0,SIMULATED
+2025-02,5200,Freight-in & supplier charges,cogs,34458.97,0.0,SIMULATED
+2025-02,6000,Wages - sales associates,opex,62049.83,0.0,SIMULATED
+2025-02,6010,Sales commissions,opex,26915.69,0.0,SIMULATED
+2025-02,6020,Interior designer compensation,opex,53502.86,0.0,SIMULATED
+2025-02,6030,Wages - warehouse,opex,38324.9,0.0,SIMULATED
+2025-02,6040,Salaries - management & administration,opex,70997.9,0.0,SIMULATED
+2025-02,6100,Rent,opex,90640.0,0.0,SIMULATED
+2025-02,6105,Common-area & property tax charges,opex,20090.0,0.0,SIMULATED
+2025-02,6110,Utilities,opex,21728.42,0.0,SIMULATED
+2025-02,6200,Marketing & advertising,opex,79778.64,0.0,SIMULATED
+2025-02,6300,Insurance,opex,10816.0,0.0,SIMULATED
+2025-02,6310,Administrative & professional fees,opex,15667.6,0.0,SIMULATED
+2025-02,6320,IT & e-commerce platform,opex,6922.38,0.0,SIMULATED
+2025-02,6400,Warehouse & fulfilment operations,opex,8192.22,0.0,SIMULATED
+2025-02,6410,Design consultation materials & travel,opex,5325.0,0.0,SIMULATED
+2025-02,6420,Card processing fees,opex,16925.88,0.0,SIMULATED
+2025-02,6430,Financing-partner merchant fees,opex,18991.35,0.0,SIMULATED
+2025-02,6900,Depreciation,opex,17202.38,0.0,SIMULATED
+2025-02,7000,Interest - term loan,other_exp,4437.5,0.0,SIMULATED
+2025-02,8000,Income tax expense,tax,5229.07,0.0,SIMULATED
+2025-03,1000,Cash - operating account,asset,943349.26,0.0,SIMULATED
+2025-03,1100,Card & debit processor receivable,asset,63244.05,0.0,SIMULATED
+2025-03,1110,Financing-partner receivable,asset,8533.12,0.0,SIMULATED
+2025-03,1120,Trade receivables - designer & business accounts,asset,59914.12,0.0,SIMULATED
+2025-03,1200,Inventory - stocked merchandise,asset,579102.47,0.0,SIMULATED
+2025-03,1210,Inventory - allocated to customer orders (custom & reserved),asset,327740.65,0.0,SIMULATED
+2025-03,1300,Prepaid expenses,asset,48672.0,0.0,SIMULATED
+2025-03,1400,GST input tax credits,asset,90514.44,0.0,SIMULATED
+2025-03,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-03,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-03,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-03,1590,Accumulated depreciation,contra_asset,0.0,515476.2,SIMULATED
+2025-03,2000,Accounts payable - suppliers,liability,0.0,582205.48,SIMULATED
+2025-03,2010,Accounts payable - operating vendors,liability,0.0,65904.73,SIMULATED
+2025-03,2100,Accrued payroll & commissions,liability,0.0,65439.57,SIMULATED
+2025-03,2300,GST collected,liability,0.0,116610.0,SIMULATED
+2025-03,2350,Customer deposits (contract liabilities),liability,0.0,532163.36,SIMULATED
+2025-03,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1194.0,SIMULATED
+2025-03,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6602.67,SIMULATED
+2025-03,2400,Income tax payable,liability,0.0,14855.57,SIMULATED
+2025-03,2700,Term loan,liability,0.0,343749.95,SIMULATED
+2025-03,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-03,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-03,4000,Sales - sofas & sectionals,revenue,0.0,862180.93,SIMULATED
+2025-03,4010,Sales - bedroom,revenue,0.0,460416.37,SIMULATED
+2025-03,4020,Sales - mattresses & bases,revenue,0.0,216455.75,SIMULATED
+2025-03,4030,Sales - dining,revenue,0.0,519170.0,SIMULATED
+2025-03,4040,Sales - living & occasional,revenue,0.0,295456.81,SIMULATED
+2025-03,4050,Sales - home office,revenue,0.0,14720.0,SIMULATED
+2025-03,4060,Sales - décor & lighting,revenue,0.0,151339.62,SIMULATED
+2025-03,4100,"Protection-plan commissions (net, agent)",revenue,0.0,12289.61,SIMULATED
+2025-03,4200,Restocking fees,revenue,0.0,1149.0,SIMULATED
+2025-03,4300,Retained cancellation fees,revenue,0.0,5659.17,SIMULATED
+2025-03,4900,Discounts & promotional allowances,contra_revenue,186690.26,0.0,SIMULATED
+2025-03,4910,Sales returns,contra_revenue,7660.0,0.0,SIMULATED
+2025-03,5000,Cost of goods sold - merchandise,cogs,1296584.14,0.0,SIMULATED
+2025-03,5100,"Inventory variances, shrinkage & write-offs",cogs,11768.79,0.0,SIMULATED
+2025-03,5200,Freight-in & supplier charges,cogs,56637.15,0.0,SIMULATED
+2025-03,6000,Wages - sales associates,opex,94974.23,0.0,SIMULATED
+2025-03,6010,Sales commissions,opex,40118.33,0.0,SIMULATED
+2025-03,6020,Interior designer compensation,opex,82420.34,0.0,SIMULATED
+2025-03,6030,Wages - warehouse,opex,58660.56,0.0,SIMULATED
+2025-03,6040,Salaries - management & administration,opex,106496.85,0.0,SIMULATED
+2025-03,6100,Rent,opex,135960.0,0.0,SIMULATED
+2025-03,6105,Common-area & property tax charges,opex,30135.0,0.0,SIMULATED
+2025-03,6110,Utilities,opex,31235.83,0.0,SIMULATED
+2025-03,6200,Marketing & advertising,opex,105101.14,0.0,SIMULATED
+2025-03,6300,Insurance,opex,16224.0,0.0,SIMULATED
+2025-03,6310,Administrative & professional fees,opex,23972.91,0.0,SIMULATED
+2025-03,6320,IT & e-commerce platform,opex,10320.78,0.0,SIMULATED
+2025-03,6400,Warehouse & fulfilment operations,opex,12368.35,0.0,SIMULATED
+2025-03,6410,Design consultation materials & travel,opex,7750.0,0.0,SIMULATED
+2025-03,6420,Card processing fees,opex,27039.11,0.0,SIMULATED
+2025-03,6430,Financing-partner merchant fees,opex,29376.55,0.0,SIMULATED
+2025-03,6900,Depreciation,opex,25803.57,0.0,SIMULATED
+2025-03,7000,Interest - term loan,other_exp,6488.72,0.0,SIMULATED
+2025-03,8000,Income tax expense,tax,14855.57,0.0,SIMULATED
+2025-04,1000,Cash - operating account,asset,956091.26,0.0,SIMULATED
+2025-04,1100,Card & debit processor receivable,asset,16743.0,0.0,SIMULATED
+2025-04,1110,Financing-partner receivable,asset,11774.41,0.0,SIMULATED
+2025-04,1120,Trade receivables - designer & business accounts,asset,31017.65,0.0,SIMULATED
+2025-04,1200,Inventory - stocked merchandise,asset,585192.04,0.0,SIMULATED
+2025-04,1210,Inventory - allocated to customer orders (custom & reserved),asset,337975.85,0.0,SIMULATED
+2025-04,1300,Prepaid expenses,asset,43264.0,0.0,SIMULATED
+2025-04,1400,GST input tax credits,asset,28884.96,0.0,SIMULATED
+2025-04,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-04,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-04,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-04,1590,Accumulated depreciation,contra_asset,0.0,524648.82,SIMULATED
+2025-04,2000,Accounts payable - suppliers,liability,0.0,467601.58,SIMULATED
+2025-04,2010,Accounts payable - operating vendors,liability,0.0,90631.28,SIMULATED
+2025-04,2100,Accrued payroll & commissions,liability,0.0,66878.99,SIMULATED
+2025-04,2300,GST collected,liability,0.0,37991.77,SIMULATED
+2025-04,2350,Customer deposits (contract liabilities),liability,0.0,556597.78,SIMULATED
+2025-04,2360,Delivery fees collected for partner carrier (agent),liability,0.0,796.0,SIMULATED
+2025-04,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,7330.01,SIMULATED
+2025-04,2400,Income tax payable,liability,0.0,18530.62,SIMULATED
+2025-04,2700,Term loan,liability,0.0,333333.28,SIMULATED
+2025-04,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-04,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-04,4000,Sales - sofas & sectionals,revenue,0.0,1081518.93,SIMULATED
+2025-04,4010,Sales - bedroom,revenue,0.0,614198.13,SIMULATED
+2025-04,4020,Sales - mattresses & bases,revenue,0.0,286442.72,SIMULATED
+2025-04,4030,Sales - dining,revenue,0.0,724817.0,SIMULATED
+2025-04,4040,Sales - living & occasional,revenue,0.0,387316.79,SIMULATED
+2025-04,4050,Sales - home office,revenue,0.0,20155.0,SIMULATED
+2025-04,4060,Sales - décor & lighting,revenue,0.0,207933.51,SIMULATED
+2025-04,4100,"Protection-plan commissions (net, agent)",revenue,0.0,17176.26,SIMULATED
+2025-04,4200,Restocking fees,revenue,0.0,2499.45,SIMULATED
+2025-04,4300,Retained cancellation fees,revenue,0.0,10630.06,SIMULATED
+2025-04,4900,Discounts & promotional allowances,contra_revenue,226815.24,0.0,SIMULATED
+2025-04,4910,Sales returns,contra_revenue,16663.0,0.0,SIMULATED
+2025-04,5000,Cost of goods sold - merchandise,cogs,1703060.34,0.0,SIMULATED
+2025-04,5100,"Inventory variances, shrinkage & write-offs",cogs,16551.43,0.0,SIMULATED
+2025-04,5200,Freight-in & supplier charges,cogs,74388.27,0.0,SIMULATED
+2025-04,6000,Wages - sales associates,opex,130356.79,0.0,SIMULATED
+2025-04,6010,Sales commissions,opex,56356.28,0.0,SIMULATED
+2025-04,6020,Interior designer compensation,opex,109505.33,0.0,SIMULATED
+2025-04,6030,Wages - warehouse,opex,78214.08,0.0,SIMULATED
+2025-04,6040,Salaries - management & administration,opex,141995.8,0.0,SIMULATED
+2025-04,6100,Rent,opex,181280.0,0.0,SIMULATED
+2025-04,6105,Common-area & property tax charges,opex,40180.0,0.0,SIMULATED
+2025-04,6110,Utilities,opex,39379.16,0.0,SIMULATED
+2025-04,6200,Marketing & advertising,opex,155520.93,0.0,SIMULATED
+2025-04,6300,Insurance,opex,21632.0,0.0,SIMULATED
+2025-04,6310,Administrative & professional fees,opex,32112.49,0.0,SIMULATED
+2025-04,6320,IT & e-commerce platform,opex,13882.27,0.0,SIMULATED
+2025-04,6400,Warehouse & fulfilment operations,opex,16251.37,0.0,SIMULATED
+2025-04,6410,Design consultation materials & travel,opex,10600.0,0.0,SIMULATED
+2025-04,6420,Card processing fees,opex,36823.32,0.0,SIMULATED
+2025-04,6430,Financing-partner merchant fees,opex,39203.79,0.0,SIMULATED
+2025-04,6900,Depreciation,opex,34976.19,0.0,SIMULATED
+2025-04,7000,Interest - term loan,other_exp,8479.61,0.0,SIMULATED
+2025-04,8000,Income tax expense,tax,18530.62,0.0,SIMULATED
+2025-05,1000,Cash - operating account,asset,1088287.46,0.0,SIMULATED
+2025-05,1100,Card & debit processor receivable,asset,42876.76,0.0,SIMULATED
+2025-05,1110,Financing-partner receivable,asset,29145.79,0.0,SIMULATED
+2025-05,1120,Trade receivables - designer & business accounts,asset,41255.6,0.0,SIMULATED
+2025-05,1200,Inventory - stocked merchandise,asset,531962.23,0.0,SIMULATED
+2025-05,1210,Inventory - allocated to customer orders (custom & reserved),asset,331542.68,0.0,SIMULATED
+2025-05,1300,Prepaid expenses,asset,37856.0,0.0,SIMULATED
+2025-05,1400,GST input tax credits,asset,58297.02,0.0,SIMULATED
+2025-05,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-05,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-05,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-05,1590,Accumulated depreciation,contra_asset,0.0,533821.44,SIMULATED
+2025-05,2000,Accounts payable - suppliers,liability,0.0,475882.45,SIMULATED
+2025-05,2010,Accounts payable - operating vendors,liability,0.0,88360.11,SIMULATED
+2025-05,2100,Accrued payroll & commissions,liability,0.0,67922.93,SIMULATED
+2025-05,2300,GST collected,liability,0.0,83576.28,SIMULATED
+2025-05,2350,Customer deposits (contract liabilities),liability,0.0,559822.4,SIMULATED
+2025-05,2360,Delivery fees collected for partner carrier (agent),liability,0.0,796.0,SIMULATED
+2025-05,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,7860.79,SIMULATED
+2025-05,2400,Income tax payable,liability,0.0,28995.01,SIMULATED
+2025-05,2700,Term loan,liability,0.0,322916.61,SIMULATED
+2025-05,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-05,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-05,4000,Sales - sofas & sectionals,revenue,0.0,1365235.99,SIMULATED
+2025-05,4010,Sales - bedroom,revenue,0.0,773991.18,SIMULATED
+2025-05,4020,Sales - mattresses & bases,revenue,0.0,385890.69,SIMULATED
+2025-05,4030,Sales - dining,revenue,0.0,940540.0,SIMULATED
+2025-05,4040,Sales - living & occasional,revenue,0.0,536014.24,SIMULATED
+2025-05,4050,Sales - home office,revenue,0.0,27459.0,SIMULATED
+2025-05,4060,Sales - décor & lighting,revenue,0.0,262606.39,SIMULATED
+2025-05,4100,"Protection-plan commissions (net, agent)",revenue,0.0,22416.81,SIMULATED
+2025-05,4200,Restocking fees,revenue,0.0,4149.75,SIMULATED
+2025-05,4300,Retained cancellation fees,revenue,0.0,10630.06,SIMULATED
+2025-05,4900,Discounts & promotional allowances,contra_revenue,275126.75,0.0,SIMULATED
+2025-05,4910,Sales returns,contra_revenue,27665.0,0.0,SIMULATED
+2025-05,5000,Cost of goods sold - merchandise,cogs,2195971.51,0.0,SIMULATED
+2025-05,5100,"Inventory variances, shrinkage & write-offs",cogs,24191.63,0.0,SIMULATED
+2025-05,5200,Freight-in & supplier charges,cogs,92086.45,0.0,SIMULATED
+2025-05,6000,Wages - sales associates,opex,167154.65,0.0,SIMULATED
+2025-05,6010,Sales commissions,opex,70508.42,0.0,SIMULATED
+2025-05,6020,Interior designer compensation,opex,138566.58,0.0,SIMULATED
+2025-05,6030,Wages - warehouse,opex,98549.74,0.0,SIMULATED
+2025-05,6040,Salaries - management & administration,opex,177494.75,0.0,SIMULATED
+2025-05,6100,Rent,opex,226600.0,0.0,SIMULATED
+2025-05,6105,Common-area & property tax charges,opex,50225.0,0.0,SIMULATED
+2025-05,6110,Utilities,opex,47008.53,0.0,SIMULATED
+2025-05,6200,Marketing & advertising,opex,203803.32,0.0,SIMULATED
+2025-05,6300,Insurance,opex,27040.0,0.0,SIMULATED
+2025-05,6310,Administrative & professional fees,opex,40488.88,0.0,SIMULATED
+2025-05,6320,IT & e-commerce platform,opex,17343.88,0.0,SIMULATED
+2025-05,6400,Warehouse & fulfilment operations,opex,20537.01,0.0,SIMULATED
+2025-05,6410,Design consultation materials & travel,opex,12850.0,0.0,SIMULATED
+2025-05,6420,Card processing fees,opex,47183.76,0.0,SIMULATED
+2025-05,6430,Financing-partner merchant fees,opex,50388.24,0.0,SIMULATED
+2025-05,6900,Depreciation,opex,44148.81,0.0,SIMULATED
+2025-05,7000,Interest - term loan,other_exp,10410.17,0.0,SIMULATED
+2025-05,8000,Income tax expense,tax,28995.01,0.0,SIMULATED
+2025-06,1000,Cash - operating account,asset,1124586.61,0.0,SIMULATED
+2025-06,1100,Card & debit processor receivable,asset,39142.4,0.0,SIMULATED
+2025-06,1110,Financing-partner receivable,asset,12795.14,0.0,SIMULATED
+2025-06,1120,Trade receivables - designer & business accounts,asset,41159.57,0.0,SIMULATED
+2025-06,1200,Inventory - stocked merchandise,asset,523465.7,0.0,SIMULATED
+2025-06,1210,Inventory - allocated to customer orders (custom & reserved),asset,301436.91,0.0,SIMULATED
+2025-06,1300,Prepaid expenses,asset,32448.0,0.0,SIMULATED
+2025-06,1400,GST input tax credits,asset,85528.22,0.0,SIMULATED
+2025-06,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-06,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-06,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-06,1590,Accumulated depreciation,contra_asset,0.0,542994.06,SIMULATED
+2025-06,2000,Accounts payable - suppliers,liability,0.0,443259.6,SIMULATED
+2025-06,2010,Accounts payable - operating vendors,liability,0.0,78933.48,SIMULATED
+2025-06,2100,Accrued payroll & commissions,liability,0.0,63302.17,SIMULATED
+2025-06,2300,GST collected,liability,0.0,124523.26,SIMULATED
+2025-06,2350,Customer deposits (contract liabilities),liability,0.0,491518.71,SIMULATED
+2025-06,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2025-06,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5166.07,SIMULATED
+2025-06,2400,Income tax payable,liability,0.0,37520.42,SIMULATED
+2025-06,2700,Term loan,liability,0.0,312499.94,SIMULATED
+2025-06,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-06,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-06,4000,Sales - sofas & sectionals,revenue,0.0,1621178.5,SIMULATED
+2025-06,4010,Sales - bedroom,revenue,0.0,920399.51,SIMULATED
+2025-06,4020,Sales - mattresses & bases,revenue,0.0,471830.64,SIMULATED
+2025-06,4030,Sales - dining,revenue,0.0,1168678.0,SIMULATED
+2025-06,4040,Sales - living & occasional,revenue,0.0,632021.96,SIMULATED
+2025-06,4050,Sales - home office,revenue,0.0,37532.0,SIMULATED
+2025-06,4060,Sales - décor & lighting,revenue,0.0,308472.28,SIMULATED
+2025-06,4100,"Protection-plan commissions (net, agent)",revenue,0.0,25860.88,SIMULATED
+2025-06,4200,Restocking fees,revenue,0.0,5131.5,SIMULATED
+2025-06,4300,Retained cancellation fees,revenue,0.0,11181.73,SIMULATED
+2025-06,4900,Discounts & promotional allowances,contra_revenue,319552.4,0.0,SIMULATED
+2025-06,4910,Sales returns,contra_revenue,34210.0,0.0,SIMULATED
+2025-06,5000,Cost of goods sold - merchandise,cogs,2637781.36,0.0,SIMULATED
+2025-06,5100,"Inventory variances, shrinkage & write-offs",cogs,26447.3,0.0,SIMULATED
+2025-06,5200,Freight-in & supplier charges,cogs,108775.22,0.0,SIMULATED
+2025-06,6000,Wages - sales associates,opex,198812.73,0.0,SIMULATED
+2025-06,6010,Sales commissions,opex,83971.82,0.0,SIMULATED
+2025-06,6020,Interior designer compensation,opex,164996.97,0.0,SIMULATED
+2025-06,6030,Wages - warehouse,opex,118103.26,0.0,SIMULATED
+2025-06,6040,Salaries - management & administration,opex,212993.7,0.0,SIMULATED
+2025-06,6100,Rent,opex,271920.0,0.0,SIMULATED
+2025-06,6105,Common-area & property tax charges,opex,60270.0,0.0,SIMULATED
+2025-06,6110,Utilities,opex,53180.79,0.0,SIMULATED
+2025-06,6200,Marketing & advertising,opex,247064.95,0.0,SIMULATED
+2025-06,6300,Insurance,opex,32448.0,0.0,SIMULATED
+2025-06,6310,Administrative & professional fees,opex,48083.33,0.0,SIMULATED
+2025-06,6320,IT & e-commerce platform,opex,20812.13,0.0,SIMULATED
+2025-06,6400,Warehouse & fulfilment operations,opex,25122.31,0.0,SIMULATED
+2025-06,6410,Design consultation materials & travel,opex,14875.0,0.0,SIMULATED
+2025-06,6420,Card processing fees,opex,55655.01,0.0,SIMULATED
+2025-06,6430,Financing-partner merchant fees,opex,60514.13,0.0,SIMULATED
+2025-06,6900,Depreciation,opex,53321.43,0.0,SIMULATED
+2025-06,7000,Interest - term loan,other_exp,12280.4,0.0,SIMULATED
+2025-06,8000,Income tax expense,tax,37520.42,0.0,SIMULATED
+2025-07,1000,Cash - operating account,asset,1166259.57,0.0,SIMULATED
+2025-07,1100,Card & debit processor receivable,asset,22663.2,0.0,SIMULATED
+2025-07,1110,Financing-partner receivable,asset,7487.94,0.0,SIMULATED
+2025-07,1120,Trade receivables - designer & business accounts,asset,47137.02,0.0,SIMULATED
+2025-07,1200,Inventory - stocked merchandise,asset,535828.72,0.0,SIMULATED
+2025-07,1210,Inventory - allocated to customer orders (custom & reserved),asset,286624.09,0.0,SIMULATED
+2025-07,1300,Prepaid expenses,asset,27040.0,0.0,SIMULATED
+2025-07,1400,GST input tax credits,asset,27297.13,0.0,SIMULATED
+2025-07,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-07,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-07,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-07,1590,Accumulated depreciation,contra_asset,0.0,552166.68,SIMULATED
+2025-07,2000,Accounts payable - suppliers,liability,0.0,458355.81,SIMULATED
+2025-07,2010,Accounts payable - operating vendors,liability,0.0,64845.99,SIMULATED
+2025-07,2100,Accrued payroll & commissions,liability,0.0,63692.33,SIMULATED
+2025-07,2300,GST collected,liability,0.0,38756.23,SIMULATED
+2025-07,2350,Customer deposits (contract liabilities),liability,0.0,460420.94,SIMULATED
+2025-07,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2025-07,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,9356.49,SIMULATED
+2025-07,2400,Income tax payable,liability,0.0,45472.84,SIMULATED
+2025-07,2700,Term loan,liability,0.0,302083.27,SIMULATED
+2025-07,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-07,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-07,4000,Sales - sofas & sectionals,revenue,0.0,1858509.96,SIMULATED
+2025-07,4010,Sales - bedroom,revenue,0.0,1068860.93,SIMULATED
+2025-07,4020,Sales - mattresses & bases,revenue,0.0,555271.6,SIMULATED
+2025-07,4030,Sales - dining,revenue,0.0,1351457.0,SIMULATED
+2025-07,4040,Sales - living & occasional,revenue,0.0,742577.81,SIMULATED
+2025-07,4050,Sales - home office,revenue,0.0,46746.0,SIMULATED
+2025-07,4060,Sales - décor & lighting,revenue,0.0,359583.16,SIMULATED
+2025-07,4100,"Protection-plan commissions (net, agent)",revenue,0.0,32098.55,SIMULATED
+2025-07,4200,Restocking fees,revenue,0.0,6170.1,SIMULATED
+2025-07,4300,Retained cancellation fees,revenue,0.0,11181.73,SIMULATED
+2025-07,4900,Discounts & promotional allowances,contra_revenue,361437.14,0.0,SIMULATED
+2025-07,4910,Sales returns,contra_revenue,41134.0,0.0,SIMULATED
+2025-07,5000,Cost of goods sold - merchandise,cogs,3056321.76,0.0,SIMULATED
+2025-07,5100,"Inventory variances, shrinkage & write-offs",cogs,30003.99,0.0,SIMULATED
+2025-07,5200,Freight-in & supplier charges,cogs,125779.64,0.0,SIMULATED
+2025-07,6000,Wages - sales associates,opex,231737.13,0.0,SIMULATED
+2025-07,6010,Sales commissions,opex,95578.78,0.0,SIMULATED
+2025-07,6020,Interior designer compensation,opex,192015.65,0.0,SIMULATED
+2025-07,6030,Wages - warehouse,opex,138438.92,0.0,SIMULATED
+2025-07,6040,Salaries - management & administration,opex,248492.65,0.0,SIMULATED
+2025-07,6100,Rent,opex,317240.0,0.0,SIMULATED
+2025-07,6105,Common-area & property tax charges,opex,70315.0,0.0,SIMULATED
+2025-07,6110,Utilities,opex,58739.29,0.0,SIMULATED
+2025-07,6200,Marketing & advertising,opex,277415.07,0.0,SIMULATED
+2025-07,6300,Insurance,opex,37856.0,0.0,SIMULATED
+2025-07,6310,Administrative & professional fees,opex,56211.02,0.0,SIMULATED
+2025-07,6320,IT & e-commerce platform,opex,24251.04,0.0,SIMULATED
+2025-07,6400,Warehouse & fulfilment operations,opex,29297.52,0.0,SIMULATED
+2025-07,6410,Design consultation materials & travel,opex,17150.0,0.0,SIMULATED
+2025-07,6420,Card processing fees,opex,63879.29,0.0,SIMULATED
+2025-07,6430,Financing-partner merchant fees,opex,69189.17,0.0,SIMULATED
+2025-07,6900,Depreciation,opex,62494.05,0.0,SIMULATED
+2025-07,7000,Interest - term loan,other_exp,14090.3,0.0,SIMULATED
+2025-07,8000,Income tax expense,tax,45472.84,0.0,SIMULATED
+2025-08,1000,Cash - operating account,asset,1239555.24,0.0,SIMULATED
+2025-08,1100,Card & debit processor receivable,asset,25620.04,0.0,SIMULATED
+2025-08,1110,Financing-partner receivable,asset,4976.53,0.0,SIMULATED
+2025-08,1120,Trade receivables - designer & business accounts,asset,77657.4,0.0,SIMULATED
+2025-08,1200,Inventory - stocked merchandise,asset,568502.81,0.0,SIMULATED
+2025-08,1210,Inventory - allocated to customer orders (custom & reserved),asset,262169.11,0.0,SIMULATED
+2025-08,1300,Prepaid expenses,asset,21632.0,0.0,SIMULATED
+2025-08,1400,GST input tax credits,asset,55363.64,0.0,SIMULATED
+2025-08,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-08,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-08,1520,"Showroom fixtures, POS & IT",asset,160000.0,0.0,SIMULATED
+2025-08,1590,Accumulated depreciation,contra_asset,0.0,561339.3,SIMULATED
+2025-08,2000,Accounts payable - suppliers,liability,0.0,468054.88,SIMULATED
+2025-08,2010,Accounts payable - operating vendors,liability,0.0,66429.8,SIMULATED
+2025-08,2100,Accrued payroll & commissions,liability,0.0,66138.51,SIMULATED
+2025-08,2300,GST collected,liability,0.0,78300.86,SIMULATED
+2025-08,2350,Customer deposits (contract liabilities),liability,0.0,472343.56,SIMULATED
+2025-08,2360,Delivery fees collected for partner carrier (agent),liability,0.0,796.0,SIMULATED
+2025-08,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5301.05,SIMULATED
+2025-08,2400,Income tax payable,liability,0.0,53727.6,SIMULATED
+2025-08,2700,Term loan,liability,0.0,291666.6,SIMULATED
+2025-08,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-08,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-08,4000,Sales - sofas & sectionals,revenue,0.0,2091934.97,SIMULATED
+2025-08,4010,Sales - bedroom,revenue,0.0,1210627.55,SIMULATED
+2025-08,4020,Sales - mattresses & bases,revenue,0.0,614259.56,SIMULATED
+2025-08,4030,Sales - dining,revenue,0.0,1583565.0,SIMULATED
+2025-08,4040,Sales - living & occasional,revenue,0.0,842313.73,SIMULATED
+2025-08,4050,Sales - home office,revenue,0.0,54571.0,SIMULATED
+2025-08,4060,Sales - décor & lighting,revenue,0.0,410374.98,SIMULATED
+2025-08,4100,"Protection-plan commissions (net, agent)",revenue,0.0,35632.57,SIMULATED
+2025-08,4200,Restocking fees,revenue,0.0,6319.8,SIMULATED
+2025-08,4300,Retained cancellation fees,revenue,0.0,17896.39,SIMULATED
+2025-08,4900,Discounts & promotional allowances,contra_revenue,401051.85,0.0,SIMULATED
+2025-08,4910,Sales returns,contra_revenue,42132.0,0.0,SIMULATED
+2025-08,5000,Cost of goods sold - merchandise,cogs,3480842.54,0.0,SIMULATED
+2025-08,5100,"Inventory variances, shrinkage & write-offs",cogs,30025.39,0.0,SIMULATED
+2025-08,5200,Freight-in & supplier charges,cogs,144436.06,0.0,SIMULATED
+2025-08,6000,Wages - sales associates,opex,268534.99,0.0,SIMULATED
+2025-08,6010,Sales commissions,opex,107326.44,0.0,SIMULATED
+2025-08,6020,Interior designer compensation,opex,219912.55,0.0,SIMULATED
+2025-08,6030,Wages - warehouse,opex,158774.58,0.0,SIMULATED
+2025-08,6040,Salaries - management & administration,opex,283991.6,0.0,SIMULATED
+2025-08,6100,Rent,opex,362560.0,0.0,SIMULATED
+2025-08,6105,Common-area & property tax charges,opex,80360.0,0.0,SIMULATED
+2025-08,6110,Utilities,opex,65177.46,0.0,SIMULATED
+2025-08,6200,Marketing & advertising,opex,307722.37,0.0,SIMULATED
+2025-08,6300,Insurance,opex,43264.0,0.0,SIMULATED
+2025-08,6310,Administrative & professional fees,opex,63553.07,0.0,SIMULATED
+2025-08,6320,IT & e-commerce platform,opex,27822.71,0.0,SIMULATED
+2025-08,6400,Warehouse & fulfilment operations,opex,33884.25,0.0,SIMULATED
+2025-08,6410,Design consultation materials & travel,opex,19450.0,0.0,SIMULATED
+2025-08,6420,Card processing fees,opex,73035.87,0.0,SIMULATED
+2025-08,6430,Financing-partner merchant fees,opex,77698.57,0.0,SIMULATED
+2025-08,6900,Depreciation,opex,71666.67,0.0,SIMULATED
+2025-08,7000,Interest - term loan,other_exp,15839.87,0.0,SIMULATED
+2025-08,8000,Income tax expense,tax,53727.6,0.0,SIMULATED
+2025-09,1000,Cash - operating account,asset,1286516.95,0.0,SIMULATED
+2025-09,1100,Card & debit processor receivable,asset,58894.26,0.0,SIMULATED
+2025-09,1110,Financing-partner receivable,asset,23188.1,0.0,SIMULATED
+2025-09,1120,Trade receivables - designer & business accounts,asset,35979.49,0.0,SIMULATED
+2025-09,1200,Inventory - stocked merchandise,asset,552649.75,0.0,SIMULATED
+2025-09,1210,Inventory - allocated to customer orders (custom & reserved),asset,299425.44,0.0,SIMULATED
+2025-09,1300,Prepaid expenses,asset,16224.0,0.0,SIMULATED
+2025-09,1400,GST input tax credits,asset,85973.72,0.0,SIMULATED
+2025-09,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-09,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-09,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2025-09,1590,Accumulated depreciation,contra_asset,0.0,570511.92,SIMULATED
+2025-09,2000,Accounts payable - suppliers,liability,0.0,470359.22,SIMULATED
+2025-09,2010,Accounts payable - operating vendors,liability,0.0,86972.6,SIMULATED
+2025-09,2100,Accrued payroll & commissions,liability,0.0,66548.95,SIMULATED
+2025-09,2300,GST collected,liability,0.0,115484.59,SIMULATED
+2025-09,2350,Customer deposits (contract liabilities),liability,0.0,527415.91,SIMULATED
+2025-09,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1393.0,SIMULATED
+2025-09,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,4680.99,SIMULATED
+2025-09,2400,Income tax payable,liability,0.0,58119.05,SIMULATED
+2025-09,2700,Term loan,liability,0.0,281249.93,SIMULATED
+2025-09,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-09,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-09,4000,Sales - sofas & sectionals,revenue,0.0,2331084.86,SIMULATED
+2025-09,4010,Sales - bedroom,revenue,0.0,1326360.29,SIMULATED
+2025-09,4020,Sales - mattresses & bases,revenue,0.0,677070.45,SIMULATED
+2025-09,4030,Sales - dining,revenue,0.0,1790759.0,SIMULATED
+2025-09,4040,Sales - living & occasional,revenue,0.0,952264.84,SIMULATED
+2025-09,4050,Sales - home office,revenue,0.0,59577.0,SIMULATED
+2025-09,4060,Sales - décor & lighting,revenue,0.0,458250.88,SIMULATED
+2025-09,4100,"Protection-plan commissions (net, agent)",revenue,0.0,38753.24,SIMULATED
+2025-09,4200,Restocking fees,revenue,0.0,7589.85,SIMULATED
+2025-09,4300,Retained cancellation fees,revenue,0.0,23060.14,SIMULATED
+2025-09,4900,Discounts & promotional allowances,contra_revenue,443066.59,0.0,SIMULATED
+2025-09,4910,Sales returns,contra_revenue,50599.0,0.0,SIMULATED
+2025-09,5000,Cost of goods sold - merchandise,cogs,3882070.16,0.0,SIMULATED
+2025-09,5100,"Inventory variances, shrinkage & write-offs",cogs,36840.3,0.0,SIMULATED
+2025-09,5200,Freight-in & supplier charges,cogs,162951.41,0.0,SIMULATED
+2025-09,6000,Wages - sales associates,opex,303917.55,0.0,SIMULATED
+2025-09,6010,Sales commissions,opex,123117.38,0.0,SIMULATED
+2025-09,6020,Interior designer compensation,opex,246784.49,0.0,SIMULATED
+2025-09,6030,Wages - warehouse,opex,178328.1,0.0,SIMULATED
+2025-09,6040,Salaries - management & administration,opex,319490.55,0.0,SIMULATED
+2025-09,6100,Rent,opex,407880.0,0.0,SIMULATED
+2025-09,6105,Common-area & property tax charges,opex,90405.0,0.0,SIMULATED
+2025-09,6110,Utilities,opex,72288.67,0.0,SIMULATED
+2025-09,6200,Marketing & advertising,opex,355331.65,0.0,SIMULATED
+2025-09,6300,Insurance,opex,48672.0,0.0,SIMULATED
+2025-09,6310,Administrative & professional fees,opex,71382.03,0.0,SIMULATED
+2025-09,6320,IT & e-commerce platform,opex,31236.31,0.0,SIMULATED
+2025-09,6400,Warehouse & fulfilment operations,opex,38246.53,0.0,SIMULATED
+2025-09,6410,Design consultation materials & travel,opex,22000.0,0.0,SIMULATED
+2025-09,6420,Card processing fees,opex,83489.38,0.0,SIMULATED
+2025-09,6430,Financing-partner merchant fees,opex,84804.72,0.0,SIMULATED
+2025-09,6900,Depreciation,opex,80839.29,0.0,SIMULATED
+2025-09,7000,Interest - term loan,other_exp,17468.34,0.0,SIMULATED
+2025-09,8000,Income tax expense,tax,58119.05,0.0,SIMULATED
+2025-10,1000,Cash - operating account,asset,1351939.13,0.0,SIMULATED
+2025-10,1100,Card & debit processor receivable,asset,49563.89,0.0,SIMULATED
+2025-10,1110,Financing-partner receivable,asset,18263.64,0.0,SIMULATED
+2025-10,1120,Trade receivables - designer & business accounts,asset,43528.34,0.0,SIMULATED
+2025-10,1200,Inventory - stocked merchandise,asset,487615.27,0.0,SIMULATED
+2025-10,1210,Inventory - allocated to customer orders (custom & reserved),asset,306337.94,0.0,SIMULATED
+2025-10,1300,Prepaid expenses,asset,10816.0,0.0,SIMULATED
+2025-10,1400,GST input tax credits,asset,26261.72,0.0,SIMULATED
+2025-10,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-10,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-10,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2025-10,1590,Accumulated depreciation,contra_asset,0.0,580684.54,SIMULATED
+2025-10,2000,Accounts payable - suppliers,liability,0.0,403622.84,SIMULATED
+2025-10,2010,Accounts payable - operating vendors,liability,0.0,86834.4,SIMULATED
+2025-10,2100,Accrued payroll & commissions,liability,0.0,67136.11,SIMULATED
+2025-10,2300,GST collected,liability,0.0,40042.55,SIMULATED
+2025-10,2350,Customer deposits (contract liabilities),liability,0.0,551787.6,SIMULATED
+2025-10,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2025-10,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,7421.56,SIMULATED
+2025-10,2400,Income tax payable,liability,0.0,69879.29,SIMULATED
+2025-10,2700,Term loan,liability,0.0,270833.26,SIMULATED
+2025-10,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-10,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-10,4000,Sales - sofas & sectionals,revenue,0.0,2582328.11,SIMULATED
+2025-10,4010,Sales - bedroom,revenue,0.0,1471867.57,SIMULATED
+2025-10,4020,Sales - mattresses & bases,revenue,0.0,748958.36,SIMULATED
+2025-10,4030,Sales - dining,revenue,0.0,2019625.0,SIMULATED
+2025-10,4040,Sales - living & occasional,revenue,0.0,1044357.33,SIMULATED
+2025-10,4050,Sales - home office,revenue,0.0,68352.0,SIMULATED
+2025-10,4060,Sales - décor & lighting,revenue,0.0,506274.74,SIMULATED
+2025-10,4100,"Protection-plan commissions (net, agent)",revenue,0.0,43701.0,SIMULATED
+2025-10,4200,Restocking fees,revenue,0.0,8919.0,SIMULATED
+2025-10,4300,Retained cancellation fees,revenue,0.0,24630.11,SIMULATED
+2025-10,4900,Discounts & promotional allowances,contra_revenue,482650.81,0.0,SIMULATED
+2025-10,4910,Sales returns,contra_revenue,59460.0,0.0,SIMULATED
+2025-10,5000,Cost of goods sold - merchandise,cogs,4311437.59,0.0,SIMULATED
+2025-10,5100,"Inventory variances, shrinkage & write-offs",cogs,45678.08,0.0,SIMULATED
+2025-10,5200,Freight-in & supplier charges,cogs,178770.72,0.0,SIMULATED
+2025-10,6000,Wages - sales associates,opex,340715.41,0.0,SIMULATED
+2025-10,6010,Sales commissions,opex,137255.43,0.0,SIMULATED
+2025-10,6020,Interior designer compensation,opex,274286.2,0.0,SIMULATED
+2025-10,6030,Wages - warehouse,opex,198663.76,0.0,SIMULATED
+2025-10,6040,Salaries - management & administration,opex,354989.5,0.0,SIMULATED
+2025-10,6100,Rent,opex,453200.0,0.0,SIMULATED
+2025-10,6105,Common-area & property tax charges,opex,100450.0,0.0,SIMULATED
+2025-10,6110,Utilities,opex,80541.49,0.0,SIMULATED
+2025-10,6200,Marketing & advertising,opex,402865.16,0.0,SIMULATED
+2025-10,6300,Insurance,opex,54080.0,0.0,SIMULATED
+2025-10,6310,Administrative & professional fees,opex,78996.1,0.0,SIMULATED
+2025-10,6320,IT & e-commerce platform,opex,34776.0,0.0,SIMULATED
+2025-10,6400,Warehouse & fulfilment operations,opex,42646.98,0.0,SIMULATED
+2025-10,6410,Design consultation materials & travel,opex,24625.0,0.0,SIMULATED
+2025-10,6420,Card processing fees,opex,92659.97,0.0,SIMULATED
+2025-10,6430,Financing-partner merchant fees,opex,95580.48,0.0,SIMULATED
+2025-10,6900,Depreciation,opex,91011.91,0.0,SIMULATED
+2025-10,7000,Interest - term loan,other_exp,18980.06,0.0,SIMULATED
+2025-10,8000,Income tax expense,tax,69879.29,0.0,SIMULATED
+2025-11,1000,Cash - operating account,asset,1692993.28,0.0,SIMULATED
+2025-11,1100,Card & debit processor receivable,asset,30160.45,0.0,SIMULATED
+2025-11,1110,Financing-partner receivable,asset,19129.55,0.0,SIMULATED
+2025-11,1120,Trade receivables - designer & business accounts,asset,21331.18,0.0,SIMULATED
+2025-11,1200,Inventory - stocked merchandise,asset,426041.41,0.0,SIMULATED
+2025-11,1210,Inventory - allocated to customer orders (custom & reserved),asset,327870.47,0.0,SIMULATED
+2025-11,1300,Prepaid expenses,asset,5408.0,0.0,SIMULATED
+2025-11,1400,GST input tax credits,asset,55595.38,0.0,SIMULATED
+2025-11,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-11,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-11,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2025-11,1590,Accumulated depreciation,contra_asset,0.0,590857.16,SIMULATED
+2025-11,2000,Accounts payable - suppliers,liability,0.0,478736.01,SIMULATED
+2025-11,2010,Accounts payable - operating vendors,liability,0.0,91352.48,SIMULATED
+2025-11,2100,Accrued payroll & commissions,liability,0.0,66939.62,SIMULATED
+2025-11,2300,GST collected,liability,0.0,84787.08,SIMULATED
+2025-11,2350,Customer deposits (contract liabilities),liability,0.0,611320.56,SIMULATED
+2025-11,2360,Delivery fees collected for partner carrier (agent),liability,0.0,597.0,SIMULATED
+2025-11,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,7429.79,SIMULATED
+2025-11,2400,Income tax payable,liability,0.0,93046.58,SIMULATED
+2025-11,2700,Term loan,liability,0.0,260416.59,SIMULATED
+2025-11,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-11,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-11,4000,Sales - sofas & sectionals,revenue,0.0,2833839.38,SIMULATED
+2025-11,4010,Sales - bedroom,revenue,0.0,1639310.96,SIMULATED
+2025-11,4020,Sales - mattresses & bases,revenue,0.0,855792.25,SIMULATED
+2025-11,4030,Sales - dining,revenue,0.0,2247042.0,SIMULATED
+2025-11,4040,Sales - living & occasional,revenue,0.0,1170739.25,SIMULATED
+2025-11,4050,Sales - home office,revenue,0.0,81208.0,SIMULATED
+2025-11,4060,Sales - décor & lighting,revenue,0.0,559851.67,SIMULATED
+2025-11,4100,"Protection-plan commissions (net, agent)",revenue,0.0,48654.23,SIMULATED
+2025-11,4200,Restocking fees,revenue,0.0,10436.25,SIMULATED
+2025-11,4300,Retained cancellation fees,revenue,0.0,28372.27,SIMULATED
+2025-11,4900,Discounts & promotional allowances,contra_revenue,528925.27,0.0,SIMULATED
+2025-11,4910,Sales returns,contra_revenue,69575.0,0.0,SIMULATED
+2025-11,5000,Cost of goods sold - merchandise,cogs,4788244.64,0.0,SIMULATED
+2025-11,5100,"Inventory variances, shrinkage & write-offs",cogs,46602.12,0.0,SIMULATED
+2025-11,5200,Freight-in & supplier charges,cogs,197019.95,0.0,SIMULATED
+2025-11,6000,Wages - sales associates,opex,374682.67,0.0,SIMULATED
+2025-11,6010,Sales commissions,opex,155745.03,0.0,SIMULATED
+2025-11,6020,Interior designer compensation,opex,301438.27,0.0,SIMULATED
+2025-11,6030,Wages - warehouse,opex,217435.14,0.0,SIMULATED
+2025-11,6040,Salaries - management & administration,opex,390488.45,0.0,SIMULATED
+2025-11,6100,Rent,opex,498520.0,0.0,SIMULATED
+2025-11,6105,Common-area & property tax charges,opex,110495.0,0.0,SIMULATED
+2025-11,6110,Utilities,opex,89609.6,0.0,SIMULATED
+2025-11,6200,Marketing & advertising,opex,451707.85,0.0,SIMULATED
+2025-11,6300,Insurance,opex,59488.0,0.0,SIMULATED
+2025-11,6310,Administrative & professional fees,opex,85773.35,0.0,SIMULATED
+2025-11,6320,IT & e-commerce platform,opex,38421.66,0.0,SIMULATED
+2025-11,6400,Warehouse & fulfilment operations,opex,47006.27,0.0,SIMULATED
+2025-11,6410,Design consultation materials & travel,opex,27300.0,0.0,SIMULATED
+2025-11,6420,Card processing fees,opex,104876.06,0.0,SIMULATED
+2025-11,6430,Financing-partner merchant fees,opex,104851.68,0.0,SIMULATED
+2025-11,6900,Depreciation,opex,101184.53,0.0,SIMULATED
+2025-11,7000,Interest - term loan,other_exp,20435.79,0.0,SIMULATED
+2025-11,8000,Income tax expense,tax,93046.58,0.0,SIMULATED
+2025-12,1000,Cash - operating account,asset,1370391.69,0.0,SIMULATED
+2025-12,1100,Card & debit processor receivable,asset,29123.69,0.0,SIMULATED
+2025-12,1110,Financing-partner receivable,asset,19582.5,0.0,SIMULATED
+2025-12,1120,Trade receivables - designer & business accounts,asset,34699.24,0.0,SIMULATED
+2025-12,1200,Inventory - stocked merchandise,asset,521690.17,0.0,SIMULATED
+2025-12,1210,Inventory - allocated to customer orders (custom & reserved),asset,363035.59,0.0,SIMULATED
+2025-12,1400,GST input tax credits,asset,90792.16,0.0,SIMULATED
+2025-12,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2025-12,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2025-12,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2025-12,1590,Accumulated depreciation,contra_asset,0.0,601029.78,SIMULATED
+2025-12,2000,Accounts payable - suppliers,liability,0.0,578213.5,SIMULATED
+2025-12,2010,Accounts payable - operating vendors,liability,0.0,87272.67,SIMULATED
+2025-12,2100,Accrued payroll & commissions,liability,0.0,64867.91,SIMULATED
+2025-12,2300,GST collected,liability,0.0,122386.33,SIMULATED
+2025-12,2350,Customer deposits (contract liabilities),liability,0.0,606955.97,SIMULATED
+2025-12,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1393.0,SIMULATED
+2025-12,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6136.67,SIMULATED
+2025-12,2400,Income tax payable,liability,0.0,96948.73,SIMULATED
+2025-12,2700,Term loan,liability,0.0,249999.92,SIMULATED
+2025-12,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2025-12,3200,Retained earnings,equity,0.0,364673.5,SIMULATED
+2025-12,3300,Dividends declared,equity,292000.0,0.0,SIMULATED
+2025-12,4000,Sales - sofas & sectionals,revenue,0.0,3056791.8,SIMULATED
+2025-12,4010,Sales - bedroom,revenue,0.0,1774559.82,SIMULATED
+2025-12,4020,Sales - mattresses & bases,revenue,0.0,939197.2,SIMULATED
+2025-12,4030,Sales - dining,revenue,0.0,2473845.0,SIMULATED
+2025-12,4040,Sales - living & occasional,revenue,0.0,1261007.89,SIMULATED
+2025-12,4050,Sales - home office,revenue,0.0,97507.0,SIMULATED
+2025-12,4060,Sales - décor & lighting,revenue,0.0,599295.55,SIMULATED
+2025-12,4100,"Protection-plan commissions (net, agent)",revenue,0.0,52745.32,SIMULATED
+2025-12,4200,Restocking fees,revenue,0.0,11254.35,SIMULATED
+2025-12,4300,Retained cancellation fees,revenue,0.0,32919.58,SIMULATED
+2025-12,4900,Discounts & promotional allowances,contra_revenue,591272.29,0.0,SIMULATED
+2025-12,4910,Sales returns,contra_revenue,75029.0,0.0,SIMULATED
+2025-12,5000,Cost of goods sold - merchandise,cogs,5201384.06,0.0,SIMULATED
+2025-12,5100,"Inventory variances, shrinkage & write-offs",cogs,53050.53,0.0,SIMULATED
+2025-12,5200,Freight-in & supplier charges,cogs,220481.6,0.0,SIMULATED
+2025-12,6000,Wages - sales associates,opex,410065.23,0.0,SIMULATED
+2025-12,6010,Sales commissions,opex,167944.84,0.0,SIMULATED
+2025-12,6020,Interior designer compensation,opex,328539.27,0.0,SIMULATED
+2025-12,6030,Wages - warehouse,opex,236988.66,0.0,SIMULATED
+2025-12,6040,Salaries - management & administration,opex,425987.4,0.0,SIMULATED
+2025-12,6100,Rent,opex,543840.0,0.0,SIMULATED
+2025-12,6105,Common-area & property tax charges,opex,120540.0,0.0,SIMULATED
+2025-12,6110,Utilities,opex,99948.22,0.0,SIMULATED
+2025-12,6200,Marketing & advertising,opex,498214.14,0.0,SIMULATED
+2025-12,6300,Insurance,opex,64896.0,0.0,SIMULATED
+2025-12,6310,Administrative & professional fees,opex,93572.12,0.0,SIMULATED
+2025-12,6320,IT & e-commerce platform,opex,41950.13,0.0,SIMULATED
+2025-12,6400,Warehouse & fulfilment operations,opex,51590.47,0.0,SIMULATED
+2025-12,6410,Design consultation materials & travel,opex,29250.0,0.0,SIMULATED
+2025-12,6420,Card processing fees,opex,113707.07,0.0,SIMULATED
+2025-12,6430,Financing-partner merchant fees,opex,115294.01,0.0,SIMULATED
+2025-12,6900,Depreciation,opex,111357.15,0.0,SIMULATED
+2025-12,7000,Interest - term loan,other_exp,21835.53,0.0,SIMULATED
+2025-12,8000,Income tax expense,tax,96948.73,0.0,SIMULATED
+2026-01,1000,Cash - operating account,asset,1397855.38,0.0,SIMULATED
+2026-01,1100,Card & debit processor receivable,asset,55743.89,0.0,SIMULATED
+2026-01,1110,Financing-partner receivable,asset,13397.2,0.0,SIMULATED
+2026-01,1120,Trade receivables - designer & business accounts,asset,49864.55,0.0,SIMULATED
+2026-01,1200,Inventory - stocked merchandise,asset,406070.59,0.0,SIMULATED
+2026-01,1210,Inventory - allocated to customer orders (custom & reserved),asset,350632.59,0.0,SIMULATED
+2026-01,1300,Prepaid expenses,asset,61867.52,0.0,SIMULATED
+2026-01,1400,GST input tax credits,asset,28387.46,0.0,SIMULATED
+2026-01,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2026-01,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-01,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-01,1590,Accumulated depreciation,contra_asset,0.0,611202.4,SIMULATED
+2026-01,2000,Accounts payable - suppliers,liability,0.0,455161.84,SIMULATED
+2026-01,2010,Accounts payable - operating vendors,liability,0.0,93221.72,SIMULATED
+2026-01,2100,Accrued payroll & commissions,liability,0.0,71473.27,SIMULATED
+2026-01,2300,GST collected,liability,0.0,47362.59,SIMULATED
+2026-01,2350,Customer deposits (contract liabilities),liability,0.0,653853.17,SIMULATED
+2026-01,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1592.0,SIMULATED
+2026-01,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6276.33,SIMULATED
+2026-01,2400,Income tax payable,liability,0.0,104982.4,SIMULATED
+2026-01,2700,Term loan,liability,0.0,239583.25,SIMULATED
+2026-01,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-01,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-01,4000,Sales - sofas & sectionals,revenue,0.0,382635.13,SIMULATED
+2026-01,4010,Sales - bedroom,revenue,0.0,160300.13,SIMULATED
+2026-01,4020,Sales - mattresses & bases,revenue,0.0,66318.93,SIMULATED
+2026-01,4030,Sales - dining,revenue,0.0,217500.0,SIMULATED
+2026-01,4040,Sales - living & occasional,revenue,0.0,131928.94,SIMULATED
+2026-01,4050,Sales - home office,revenue,0.0,7175.0,SIMULATED
+2026-01,4060,Sales - décor & lighting,revenue,0.0,73875.79,SIMULATED
+2026-01,4100,"Protection-plan commissions (net, agent)",revenue,0.0,4184.21,SIMULATED
+2026-01,4300,Retained cancellation fees,revenue,0.0,1399.81,SIMULATED
+2026-01,4900,Discounts & promotional allowances,contra_revenue,93884.84,0.0,SIMULATED
+2026-01,5000,Cost of goods sold - merchandise,cogs,537695.99,0.0,SIMULATED
+2026-01,5100,"Inventory variances, shrinkage & write-offs",cogs,6627.07,0.0,SIMULATED
+2026-01,5200,Freight-in & supplier charges,cogs,17186.86,0.0,SIMULATED
+2026-01,6000,Wages - sales associates,opex,37901.8,0.0,SIMULATED
+2026-01,6010,Sales commissions,opex,18980.1,0.0,SIMULATED
+2026-01,6020,Interior designer compensation,opex,28555.01,0.0,SIMULATED
+2026-01,6030,Wages - warehouse,opex,20945.73,0.0,SIMULATED
+2026-01,6040,Salaries - management & administration,opex,36563.92,0.0,SIMULATED
+2026-01,6100,Rent,opex,46679.6,0.0,SIMULATED
+2026-01,6105,Common-area & property tax charges,opex,10296.12,0.0,SIMULATED
+2026-01,6110,Utilities,opex,10814.5,0.0,SIMULATED
+2026-01,6200,Marketing & advertising,opex,47859.98,0.0,SIMULATED
+2026-01,6300,Insurance,opex,5624.32,0.0,SIMULATED
+2026-01,6310,Administrative & professional fees,opex,7497.49,0.0,SIMULATED
+2026-01,6320,IT & e-commerce platform,opex,3451.62,0.0,SIMULATED
+2026-01,6400,Warehouse & fulfilment operations,opex,4859.74,0.0,SIMULATED
+2026-01,6410,Design consultation materials & travel,opex,2800.0,0.0,SIMULATED
+2026-01,6420,Card processing fees,opex,12074.22,0.0,SIMULATED
+2026-01,6430,Financing-partner merchant fees,opex,10469.34,0.0,SIMULATED
+2026-01,6900,Depreciation,opex,10172.62,0.0,SIMULATED
+2026-01,7000,Interest - term loan,other_exp,1343.75,0.0,SIMULATED
+2026-01,8000,Income tax expense,tax,8033.67,0.0,SIMULATED
+2026-02,1000,Cash - operating account,asset,1391534.55,0.0,SIMULATED
+2026-02,1100,Card & debit processor receivable,asset,45238.98,0.0,SIMULATED
+2026-02,1110,Financing-partner receivable,asset,34672.33,0.0,SIMULATED
+2026-02,1120,Trade receivables - designer & business accounts,asset,28833.64,0.0,SIMULATED
+2026-02,1200,Inventory - stocked merchandise,asset,476623.64,0.0,SIMULATED
+2026-02,1210,Inventory - allocated to customer orders (custom & reserved),asset,335230.1,0.0,SIMULATED
+2026-02,1300,Prepaid expenses,asset,56243.2,0.0,SIMULATED
+2026-02,1400,GST input tax credits,asset,58891.28,0.0,SIMULATED
+2026-02,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2026-02,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-02,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-02,1590,Accumulated depreciation,contra_asset,0.0,621375.02,SIMULATED
+2026-02,2000,Accounts payable - suppliers,liability,0.0,520392.81,SIMULATED
+2026-02,2010,Accounts payable - operating vendors,liability,0.0,87768.56,SIMULATED
+2026-02,2100,Accrued payroll & commissions,liability,0.0,63756.24,SIMULATED
+2026-02,2300,GST collected,liability,0.0,83699.29,SIMULATED
+2026-02,2350,Customer deposits (contract liabilities),liability,0.0,618507.16,SIMULATED
+2026-02,2360,Delivery fees collected for partner carrier (agent),liability,0.0,995.0,SIMULATED
+2026-02,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,3633.61,SIMULATED
+2026-02,2400,Income tax payable,liability,0.0,106509.29,SIMULATED
+2026-02,2700,Term loan,liability,0.0,229166.58,SIMULATED
+2026-02,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-02,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-02,4000,Sales - sofas & sectionals,revenue,0.0,621029.73,SIMULATED
+2026-02,4010,Sales - bedroom,revenue,0.0,301725.61,SIMULATED
+2026-02,4020,Sales - mattresses & bases,revenue,0.0,154066.89,SIMULATED
+2026-02,4030,Sales - dining,revenue,0.0,357612.0,SIMULATED
+2026-02,4040,Sales - living & occasional,revenue,0.0,240814.58,SIMULATED
+2026-02,4050,Sales - home office,revenue,0.0,14831.0,SIMULATED
+2026-02,4060,Sales - décor & lighting,revenue,0.0,130055.63,SIMULATED
+2026-02,4100,"Protection-plan commissions (net, agent)",revenue,0.0,6606.65,SIMULATED
+2026-02,4200,Restocking fees,revenue,0.0,232.35,SIMULATED
+2026-02,4300,Retained cancellation fees,revenue,0.0,4083.53,SIMULATED
+2026-02,4900,Discounts & promotional allowances,contra_revenue,148920.15,0.0,SIMULATED
+2026-02,4910,Sales returns,contra_revenue,1549.0,0.0,SIMULATED
+2026-02,5000,Cost of goods sold - merchandise,cogs,934966.83,0.0,SIMULATED
+2026-02,5100,"Inventory variances, shrinkage & write-offs",cogs,12138.33,0.0,SIMULATED
+2026-02,5200,Freight-in & supplier charges,cogs,36282.11,0.0,SIMULATED
+2026-02,6000,Wages - sales associates,opex,71430.31,0.0,SIMULATED
+2026-02,6010,Sales commissions,opex,30319.95,0.0,SIMULATED
+2026-02,6020,Interior designer compensation,opex,56106.3,0.0,SIMULATED
+2026-02,6030,Wages - warehouse,opex,39474.65,0.0,SIMULATED
+2026-02,6040,Salaries - management & administration,opex,73127.84,0.0,SIMULATED
+2026-02,6100,Rent,opex,93359.2,0.0,SIMULATED
+2026-02,6105,Common-area & property tax charges,opex,20592.24,0.0,SIMULATED
+2026-02,6110,Utilities,opex,20523.3,0.0,SIMULATED
+2026-02,6200,Marketing & advertising,opex,96065.17,0.0,SIMULATED
+2026-02,6300,Insurance,opex,11248.64,0.0,SIMULATED
+2026-02,6310,Administrative & professional fees,opex,14957.86,0.0,SIMULATED
+2026-02,6320,IT & e-commerce platform,opex,7130.26,0.0,SIMULATED
+2026-02,6400,Warehouse & fulfilment operations,opex,9304.57,0.0,SIMULATED
+2026-02,6410,Design consultation materials & travel,opex,5375.0,0.0,SIMULATED
+2026-02,6420,Card processing fees,opex,19966.31,0.0,SIMULATED
+2026-02,6430,Financing-partner merchant fees,opex,18329.04,0.0,SIMULATED
+2026-02,6900,Depreciation,opex,20345.24,0.0,SIMULATED
+2026-02,7000,Interest - term loan,other_exp,2631.51,0.0,SIMULATED
+2026-02,8000,Income tax expense,tax,9560.56,0.0,SIMULATED
+2026-03,1000,Cash - operating account,asset,1416950.81,0.0,SIMULATED
+2026-03,1100,Card & debit processor receivable,asset,42217.98,0.0,SIMULATED
+2026-03,1110,Financing-partner receivable,asset,17806.94,0.0,SIMULATED
+2026-03,1120,Trade receivables - designer & business accounts,asset,42283.99,0.0,SIMULATED
+2026-03,1200,Inventory - stocked merchandise,asset,518941.52,0.0,SIMULATED
+2026-03,1210,Inventory - allocated to customer orders (custom & reserved),asset,356345.26,0.0,SIMULATED
+2026-03,1300,Prepaid expenses,asset,50618.88,0.0,SIMULATED
+2026-03,1400,GST input tax credits,asset,92688.8,0.0,SIMULATED
+2026-03,1500,Leasehold improvements,asset,505000.0,0.0,SIMULATED
+2026-03,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-03,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-03,1590,Accumulated depreciation,contra_asset,0.0,629547.55,SIMULATED
+2026-03,2000,Accounts payable - suppliers,liability,0.0,594239.01,SIMULATED
+2026-03,2010,Accounts payable - operating vendors,liability,0.0,65959.5,SIMULATED
+2026-03,2100,Accrued payroll & commissions,liability,0.0,69798.96,SIMULATED
+2026-03,2300,GST collected,liability,0.0,127255.02,SIMULATED
+2026-03,2350,Customer deposits (contract liabilities),liability,0.0,637863.02,SIMULATED
+2026-03,2360,Delivery fees collected for partner carrier (agent),liability,0.0,995.0,SIMULATED
+2026-03,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6031.35,SIMULATED
+2026-03,2400,Income tax payable,liability,0.0,19063.47,SIMULATED
+2026-03,2700,Term loan,liability,0.0,218749.91,SIMULATED
+2026-03,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-03,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-03,4000,Sales - sofas & sectionals,revenue,0.0,927627.82,SIMULATED
+2026-03,4010,Sales - bedroom,revenue,0.0,469437.59,SIMULATED
+2026-03,4020,Sales - mattresses & bases,revenue,0.0,237381.82,SIMULATED
+2026-03,4030,Sales - dining,revenue,0.0,565726.0,SIMULATED
+2026-03,4040,Sales - living & occasional,revenue,0.0,345084.28,SIMULATED
+2026-03,4050,Sales - home office,revenue,0.0,18628.0,SIMULATED
+2026-03,4060,Sales - décor & lighting,revenue,0.0,183957.57,SIMULATED
+2026-03,4100,"Protection-plan commissions (net, agent)",revenue,0.0,10627.51,SIMULATED
+2026-03,4200,Restocking fees,revenue,0.0,1524.3,SIMULATED
+2026-03,4300,Retained cancellation fees,revenue,0.0,6885.19,SIMULATED
+2026-03,4900,Discounts & promotional allowances,contra_revenue,200995.93,0.0,SIMULATED
+2026-03,4910,Sales returns,contra_revenue,10161.99,0.0,SIMULATED
+2026-03,5000,Cost of goods sold - merchandise,cogs,1411652.93,0.0,SIMULATED
+2026-03,5100,"Inventory variances, shrinkage & write-offs",cogs,14594.88,0.0,SIMULATED
+2026-03,5200,Freight-in & supplier charges,cogs,59648.31,0.0,SIMULATED
+2026-03,6000,Wages - sales associates,opex,109332.11,0.0,SIMULATED
+2026-03,6010,Sales commissions,opex,45817.41,0.0,SIMULATED
+2026-03,6020,Interior designer compensation,opex,84795.33,0.0,SIMULATED
+2026-03,6030,Wages - warehouse,opex,60420.38,0.0,SIMULATED
+2026-03,6040,Salaries - management & administration,opex,109691.76,0.0,SIMULATED
+2026-03,6100,Rent,opex,140038.8,0.0,SIMULATED
+2026-03,6105,Common-area & property tax charges,opex,30888.36,0.0,SIMULATED
+2026-03,6110,Utilities,opex,29542.21,0.0,SIMULATED
+2026-03,6200,Marketing & advertising,opex,122772.85,0.0,SIMULATED
+2026-03,6300,Insurance,opex,16872.96,0.0,SIMULATED
+2026-03,6310,Administrative & professional fees,opex,22521.04,0.0,SIMULATED
+2026-03,6320,IT & e-commerce platform,opex,10506.72,0.0,SIMULATED
+2026-03,6400,Warehouse & fulfilment operations,opex,13620.47,0.0,SIMULATED
+2026-03,6410,Design consultation materials & travel,opex,7425.0,0.0,SIMULATED
+2026-03,6420,Card processing fees,opex,30242.07,0.0,SIMULATED
+2026-03,6430,Financing-partner merchant fees,opex,29653.22,0.0,SIMULATED
+2026-03,6900,Depreciation,opex,28517.77,0.0,SIMULATED
+2026-03,7000,Interest - term loan,other_exp,3863.28,0.0,SIMULATED
+2026-03,8000,Income tax expense,tax,19063.47,0.0,SIMULATED
+2026-04,1000,Cash - operating account,asset,1392544.88,0.0,SIMULATED
+2026-04,1100,Card & debit processor receivable,asset,32454.07,0.0,SIMULATED
+2026-04,1110,Financing-partner receivable,asset,5054.12,0.0,SIMULATED
+2026-04,1120,Trade receivables - designer & business accounts,asset,23253.42,0.0,SIMULATED
+2026-04,1200,Inventory - stocked merchandise,asset,508618.6,0.0,SIMULATED
+2026-04,1210,Inventory - allocated to customer orders (custom & reserved),asset,371942.58,0.0,SIMULATED
+2026-04,1300,Prepaid expenses,asset,44994.56,0.0,SIMULATED
+2026-04,1400,GST input tax credits,asset,32779.63,0.0,SIMULATED
+2026-04,1500,Leasehold improvements,asset,533000.0,0.0,SIMULATED
+2026-04,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-04,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-04,1590,Accumulated depreciation,contra_asset,0.0,637053.5,SIMULATED
+2026-04,2000,Accounts payable - suppliers,liability,0.0,514993.18,SIMULATED
+2026-04,2010,Accounts payable - operating vendors,liability,0.0,94219.53,SIMULATED
+2026-04,2100,Accrued payroll & commissions,liability,0.0,67271.64,SIMULATED
+2026-04,2300,GST collected,liability,0.0,42305.08,SIMULATED
+2026-04,2350,Customer deposits (contract liabilities),liability,0.0,622079.72,SIMULATED
+2026-04,2360,Delivery fees collected for partner carrier (agent),liability,0.0,796.0,SIMULATED
+2026-04,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6391.39,SIMULATED
+2026-04,2400,Income tax payable,liability,0.0,25529.68,SIMULATED
+2026-04,2700,Term loan,liability,0.0,208333.24,SIMULATED
+2026-04,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-04,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-04,4000,Sales - sofas & sectionals,revenue,0.0,1209737.76,SIMULATED
+2026-04,4010,Sales - bedroom,revenue,0.0,642685.34,SIMULATED
+2026-04,4020,Sales - mattresses & bases,revenue,0.0,323252.72,SIMULATED
+2026-04,4030,Sales - dining,revenue,0.0,760142.0,SIMULATED
+2026-04,4040,Sales - living & occasional,revenue,0.0,447954.4,SIMULATED
+2026-04,4050,Sales - home office,revenue,0.0,22086.0,SIMULATED
+2026-04,4060,Sales - décor & lighting,revenue,0.0,235312.47,SIMULATED
+2026-04,4100,"Protection-plan commissions (net, agent)",revenue,0.0,14888.4,SIMULATED
+2026-04,4200,Restocking fees,revenue,0.0,1929.0,SIMULATED
+2026-04,4300,Retained cancellation fees,revenue,0.0,9697.23,SIMULATED
+2026-04,4900,Discounts & promotional allowances,contra_revenue,248739.6,0.0,SIMULATED
+2026-04,4910,Sales returns,contra_revenue,12859.99,0.0,SIMULATED
+2026-04,5000,Cost of goods sold - merchandise,cogs,1872141.91,0.0,SIMULATED
+2026-04,5100,"Inventory variances, shrinkage & write-offs",cogs,20090.96,0.0,SIMULATED
+2026-04,5200,Freight-in & supplier charges,cogs,78858.45,0.0,SIMULATED
+2026-04,6000,Wages - sales associates,opex,145776.15,0.0,SIMULATED
+2026-04,6010,Sales commissions,opex,60327.53,0.0,SIMULATED
+2026-04,6020,Interior designer compensation,opex,111680.42,0.0,SIMULATED
+2026-04,6030,Wages - warehouse,opex,80560.51,0.0,SIMULATED
+2026-04,6040,Salaries - management & administration,opex,146255.68,0.0,SIMULATED
+2026-04,6100,Rent,opex,186718.4,0.0,SIMULATED
+2026-04,6105,Common-area & property tax charges,opex,41184.48,0.0,SIMULATED
+2026-04,6110,Utilities,opex,37563.36,0.0,SIMULATED
+2026-04,6200,Marketing & advertising,opex,177078.42,0.0,SIMULATED
+2026-04,6300,Insurance,opex,22497.28,0.0,SIMULATED
+2026-04,6310,Administrative & professional fees,opex,30235.23,0.0,SIMULATED
+2026-04,6320,IT & e-commerce platform,opex,13846.88,0.0,SIMULATED
+2026-04,6400,Warehouse & fulfilment operations,opex,18409.41,0.0,SIMULATED
+2026-04,6410,Design consultation materials & travel,opex,9400.0,0.0,SIMULATED
+2026-04,6420,Card processing fees,opex,40309.33,0.0,SIMULATED
+2026-04,6430,Financing-partner merchant fees,opex,40000.53,0.0,SIMULATED
+2026-04,6900,Depreciation,opex,36023.72,0.0,SIMULATED
+2026-04,7000,Interest - term loan,other_exp,5039.06,0.0,SIMULATED
+2026-04,8000,Income tax expense,tax,25529.68,0.0,SIMULATED
+2026-05,1000,Cash - operating account,asset,1489089.31,0.0,SIMULATED
+2026-05,1100,Card & debit processor receivable,asset,21407.76,0.0,SIMULATED
+2026-05,1110,Financing-partner receivable,asset,8124.92,0.0,SIMULATED
+2026-05,1120,Trade receivables - designer & business accounts,asset,43385.41,0.0,SIMULATED
+2026-05,1200,Inventory - stocked merchandise,asset,515565.92,0.0,SIMULATED
+2026-05,1210,Inventory - allocated to customer orders (custom & reserved),asset,336003.59,0.0,SIMULATED
+2026-05,1300,Prepaid expenses,asset,39370.24,0.0,SIMULATED
+2026-05,1400,GST input tax credits,asset,64107.02,0.0,SIMULATED
+2026-05,1500,Leasehold improvements,asset,533000.0,0.0,SIMULATED
+2026-05,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-05,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-05,1590,Accumulated depreciation,contra_asset,0.0,644792.78,SIMULATED
+2026-05,2000,Accounts payable - suppliers,liability,0.0,492972.67,SIMULATED
+2026-05,2010,Accounts payable - operating vendors,liability,0.0,87170.07,SIMULATED
+2026-05,2100,Accrued payroll & commissions,liability,0.0,68830.05,SIMULATED
+2026-05,2300,GST collected,liability,0.0,89097.74,SIMULATED
+2026-05,2350,Customer deposits (contract liabilities),liability,0.0,598883.98,SIMULATED
+2026-05,2360,Delivery fees collected for partner carrier (agent),liability,0.0,199.0,SIMULATED
+2026-05,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,8013.12,SIMULATED
+2026-05,2400,Income tax payable,liability,0.0,37737.44,SIMULATED
+2026-05,2700,Term loan,liability,0.0,197916.57,SIMULATED
+2026-05,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-05,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-05,4000,Sales - sofas & sectionals,revenue,0.0,1552534.59,SIMULATED
+2026-05,4010,Sales - bedroom,revenue,0.0,800565.12,SIMULATED
+2026-05,4020,Sales - mattresses & bases,revenue,0.0,412266.6,SIMULATED
+2026-05,4030,Sales - dining,revenue,0.0,948317.0,SIMULATED
+2026-05,4040,Sales - living & occasional,revenue,0.0,589008.71,SIMULATED
+2026-05,4050,Sales - home office,revenue,0.0,33327.0,SIMULATED
+2026-05,4060,Sales - décor & lighting,revenue,0.0,298692.32,SIMULATED
+2026-05,4100,"Protection-plan commissions (net, agent)",revenue,0.0,20230.51,SIMULATED
+2026-05,4200,Restocking fees,revenue,0.0,3252.86,SIMULATED
+2026-05,4300,Retained cancellation fees,revenue,0.0,10770.76,SIMULATED
+2026-05,4900,Discounts & promotional allowances,contra_revenue,299998.31,0.0,SIMULATED
+2026-05,4910,Sales returns,contra_revenue,21685.74,0.0,SIMULATED
+2026-05,5000,Cost of goods sold - merchandise,cogs,2377234.11,0.0,SIMULATED
+2026-05,5100,"Inventory variances, shrinkage & write-offs",cogs,21084.34,0.0,SIMULATED
+2026-05,5200,Freight-in & supplier charges,cogs,98144.01,0.0,SIMULATED
+2026-05,6000,Wages - sales associates,opex,182220.19,0.0,SIMULATED
+2026-05,6010,Sales commissions,opex,76455.31,0.0,SIMULATED
+2026-05,6020,Interior designer compensation,opex,140064.67,0.0,SIMULATED
+2026-05,6030,Wages - warehouse,opex,100700.64,0.0,SIMULATED
+2026-05,6040,Salaries - management & administration,opex,182819.6,0.0,SIMULATED
+2026-05,6100,Rent,opex,233398.0,0.0,SIMULATED
+2026-05,6105,Common-area & property tax charges,opex,51480.6,0.0,SIMULATED
+2026-05,6110,Utilities,opex,45138.77,0.0,SIMULATED
+2026-05,6200,Marketing & advertising,opex,224887.27,0.0,SIMULATED
+2026-05,6300,Insurance,opex,28121.6,0.0,SIMULATED
+2026-05,6310,Administrative & professional fees,opex,37751.26,0.0,SIMULATED
+2026-05,6320,IT & e-commerce platform,opex,17279.3,0.0,SIMULATED
+2026-05,6400,Warehouse & fulfilment operations,opex,22367.46,0.0,SIMULATED
+2026-05,6410,Design consultation materials & travel,opex,12300.0,0.0,SIMULATED
+2026-05,6420,Card processing fees,opex,50629.11,0.0,SIMULATED
+2026-05,6430,Financing-partner merchant fees,opex,52215.7,0.0,SIMULATED
+2026-05,6900,Depreciation,opex,43763.0,0.0,SIMULATED
+2026-05,7000,Interest - term loan,other_exp,6158.85,0.0,SIMULATED
+2026-05,8000,Income tax expense,tax,37737.44,0.0,SIMULATED
+2026-06,1000,Cash - operating account,asset,1592233.26,0.0,SIMULATED
+2026-06,1100,Card & debit processor receivable,asset,31690.35,0.0,SIMULATED
+2026-06,1110,Financing-partner receivable,asset,15714.62,0.0,SIMULATED
+2026-06,1120,Trade receivables - designer & business accounts,asset,27578.21,0.0,SIMULATED
+2026-06,1200,Inventory - stocked merchandise,asset,524688.74,0.0,SIMULATED
+2026-06,1210,Inventory - allocated to customer orders (custom & reserved),asset,295114.6,0.0,SIMULATED
+2026-06,1300,Prepaid expenses,asset,33745.92,0.0,SIMULATED
+2026-06,1400,GST input tax credits,asset,95535.82,0.0,SIMULATED
+2026-06,1500,Leasehold improvements,asset,533000.0,0.0,SIMULATED
+2026-06,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-06,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-06,1590,Accumulated depreciation,contra_asset,0.0,652532.06,SIMULATED
+2026-06,2000,Accounts payable - suppliers,liability,0.0,532085.93,SIMULATED
+2026-06,2010,Accounts payable - operating vendors,liability,0.0,78553.02,SIMULATED
+2026-06,2100,Accrued payroll & commissions,liability,0.0,68037.56,SIMULATED
+2026-06,2300,GST collected,liability,0.0,136191.77,SIMULATED
+2026-06,2350,Customer deposits (contract liabilities),liability,0.0,507056.69,SIMULATED
+2026-06,2360,Delivery fees collected for partner carrier (agent),liability,0.0,1393.0,SIMULATED
+2026-06,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,7736.8,SIMULATED
+2026-06,2400,Income tax payable,liability,0.0,50501.47,SIMULATED
+2026-06,2700,Term loan,liability,0.0,187499.9,SIMULATED
+2026-06,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-06,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-06,4000,Sales - sofas & sectionals,revenue,0.0,1902278.86,SIMULATED
+2026-06,4010,Sales - bedroom,revenue,0.0,982746.48,SIMULATED
+2026-06,4020,Sales - mattresses & bases,revenue,0.0,507479.55,SIMULATED
+2026-06,4030,Sales - dining,revenue,0.0,1137448.0,SIMULATED
+2026-06,4040,Sales - living & occasional,revenue,0.0,707109.5,SIMULATED
+2026-06,4050,Sales - home office,revenue,0.0,36954.0,SIMULATED
+2026-06,4060,Sales - décor & lighting,revenue,0.0,364433.16,SIMULATED
+2026-06,4100,"Protection-plan commissions (net, agent)",revenue,0.0,25388.39,SIMULATED
+2026-06,4200,Restocking fees,revenue,0.0,5362.91,SIMULATED
+2026-06,4300,Retained cancellation fees,revenue,0.0,11576.53,SIMULATED
+2026-06,4900,Discounts & promotional allowances,contra_revenue,350705.95,0.0,SIMULATED
+2026-06,4910,Sales returns,contra_revenue,35752.74,0.0,SIMULATED
+2026-06,5000,Cost of goods sold - merchandise,cogs,2889452.5,0.0,SIMULATED
+2026-06,5100,"Inventory variances, shrinkage & write-offs",cogs,27811.37,0.0,SIMULATED
+2026-06,5200,Freight-in & supplier charges,cogs,117713.14,0.0,SIMULATED
+2026-06,6000,Wages - sales associates,opex,220121.99,0.0,SIMULATED
+2026-06,6010,Sales commissions,opex,87910.21,0.0,SIMULATED
+2026-06,6020,Interior designer compensation,opex,169273.46,0.0,SIMULATED
+2026-06,6030,Wages - warehouse,opex,121646.37,0.0,SIMULATED
+2026-06,6040,Salaries - management & administration,opex,219383.52,0.0,SIMULATED
+2026-06,6100,Rent,opex,280077.6,0.0,SIMULATED
+2026-06,6105,Common-area & property tax charges,opex,61776.72,0.0,SIMULATED
+2026-06,6110,Utilities,opex,51148.47,0.0,SIMULATED
+2026-06,6200,Marketing & advertising,opex,265584.42,0.0,SIMULATED
+2026-06,6300,Insurance,opex,33745.92,0.0,SIMULATED
+2026-06,6310,Administrative & professional fees,opex,45584.07,0.0,SIMULATED
+2026-06,6320,IT & e-commerce platform,opex,20989.18,0.0,SIMULATED
+2026-06,6400,Warehouse & fulfilment operations,opex,26842.07,0.0,SIMULATED
+2026-06,6410,Design consultation materials & travel,opex,14425.0,0.0,SIMULATED
+2026-06,6420,Card processing fees,opex,61090.52,0.0,SIMULATED
+2026-06,6430,Financing-partner merchant fees,opex,61913.0,0.0,SIMULATED
+2026-06,6900,Depreciation,opex,51502.28,0.0,SIMULATED
+2026-06,7000,Interest - term loan,other_exp,7222.65,0.0,SIMULATED
+2026-06,8000,Income tax expense,tax,50501.47,0.0,SIMULATED
+2026-07,1000,Cash - operating account,asset,1616043.5,0.0,SIMULATED
+2026-07,1100,Card & debit processor receivable,asset,21991.11,0.0,SIMULATED
+2026-07,1110,Financing-partner receivable,asset,12251.29,0.0,SIMULATED
+2026-07,1120,Trade receivables - designer & business accounts,asset,38748.53,0.0,SIMULATED
+2026-07,1200,Inventory - stocked merchandise,asset,493648.02,0.0,SIMULATED
+2026-07,1210,Inventory - allocated to customer orders (custom & reserved),asset,270991.28,0.0,SIMULATED
+2026-07,1300,Prepaid expenses,asset,28121.6,0.0,SIMULATED
+2026-07,1400,GST input tax credits,asset,27324.85,0.0,SIMULATED
+2026-07,1500,Leasehold improvements,asset,533000.0,0.0,SIMULATED
+2026-07,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-07,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-07,1590,Accumulated depreciation,contra_asset,0.0,658759.45,SIMULATED
+2026-07,2000,Accounts payable - suppliers,liability,0.0,454125.06,SIMULATED
+2026-07,2010,Accounts payable - operating vendors,liability,0.0,69870.82,SIMULATED
+2026-07,2100,Accrued payroll & commissions,liability,0.0,68865.83,SIMULATED
+2026-07,2300,GST collected,liability,0.0,42882.76,SIMULATED
+2026-07,2350,Customer deposits (contract liabilities),liability,0.0,497605.74,SIMULATED
+2026-07,2360,Delivery fees collected for partner carrier (agent),liability,0.0,995.0,SIMULATED
+2026-07,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,5362.91,SIMULATED
+2026-07,2400,Income tax payable,liability,0.0,65915.53,SIMULATED
+2026-07,2700,Term loan,liability,0.0,177083.23,SIMULATED
+2026-07,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-07,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-07,4000,Sales - sofas & sectionals,revenue,0.0,2170801.91,SIMULATED
+2026-07,4010,Sales - bedroom,revenue,0.0,1177698.17,SIMULATED
+2026-07,4020,Sales - mattresses & bases,revenue,0.0,592325.49,SIMULATED
+2026-07,4030,Sales - dining,revenue,0.0,1348757.0,SIMULATED
+2026-07,4040,Sales - living & occasional,revenue,0.0,801146.54,SIMULATED
+2026-07,4050,Sales - home office,revenue,0.0,43710.0,SIMULATED
+2026-07,4060,Sales - décor & lighting,revenue,0.0,416802.04,SIMULATED
+2026-07,4100,"Protection-plan commissions (net, agent)",revenue,0.0,28963.69,SIMULATED
+2026-07,4200,Restocking fees,revenue,0.0,5874.56,SIMULATED
+2026-07,4300,Retained cancellation fees,revenue,0.0,13998.39,SIMULATED
+2026-07,4900,Discounts & promotional allowances,contra_revenue,405364.53,0.0,SIMULATED
+2026-07,4910,Sales returns,contra_revenue,39163.74,0.0,SIMULATED
+2026-07,5000,Cost of goods sold - merchandise,cogs,3355883.3,0.0,SIMULATED
+2026-07,5100,"Inventory variances, shrinkage & write-offs",cogs,31907.12,0.0,SIMULATED
+2026-07,5200,Freight-in & supplier charges,cogs,134850.67,0.0,SIMULATED
+2026-07,6000,Wages - sales associates,opex,258023.79,0.0,SIMULATED
+2026-07,6010,Sales commissions,opex,102214.04,0.0,SIMULATED
+2026-07,6020,Interior designer compensation,opex,197289.86,0.0,SIMULATED
+2026-07,6030,Wages - warehouse,opex,142592.1,0.0,SIMULATED
+2026-07,6040,Salaries - management & administration,opex,255947.44,0.0,SIMULATED
+2026-07,6100,Rent,opex,326757.2,0.0,SIMULATED
+2026-07,6105,Common-area & property tax charges,opex,72072.84,0.0,SIMULATED
+2026-07,6110,Utilities,opex,56742.04,0.0,SIMULATED
+2026-07,6200,Marketing & advertising,opex,298467.5,0.0,SIMULATED
+2026-07,6300,Insurance,opex,39370.24,0.0,SIMULATED
+2026-07,6310,Administrative & professional fees,opex,53690.15,0.0,SIMULATED
+2026-07,6320,IT & e-commerce platform,opex,24862.79,0.0,SIMULATED
+2026-07,6400,Warehouse & fulfilment operations,opex,30981.6,0.0,SIMULATED
+2026-07,6410,Design consultation materials & travel,opex,16850.0,0.0,SIMULATED
+2026-07,6420,Card processing fees,opex,71089.43,0.0,SIMULATED
+2026-07,6430,Financing-partner merchant fees,opex,72538.46,0.0,SIMULATED
+2026-07,6900,Depreciation,opex,57729.67,0.0,SIMULATED
+2026-07,7000,Interest - term loan,other_exp,8230.46,0.0,SIMULATED
+2026-07,8000,Income tax expense,tax,65915.53,0.0,SIMULATED
+2026-08,1000,Cash - operating account,asset,1655741.1,0.0,SIMULATED
+2026-08,1100,Card & debit processor receivable,asset,32390.42,0.0,SIMULATED
+2026-08,1110,Financing-partner receivable,asset,26059.7,0.0,SIMULATED
+2026-08,1120,Trade receivables - designer & business accounts,asset,50407.76,0.0,SIMULATED
+2026-08,1200,Inventory - stocked merchandise,asset,555387.46,0.0,SIMULATED
+2026-08,1210,Inventory - allocated to customer orders (custom & reserved),asset,297570.67,0.0,SIMULATED
+2026-08,1300,Prepaid expenses,asset,22497.28,0.0,SIMULATED
+2026-08,1400,GST input tax credits,asset,60243.22,0.0,SIMULATED
+2026-08,1500,Leasehold improvements,asset,533000.0,0.0,SIMULATED
+2026-08,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-08,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-08,1590,Accumulated depreciation,contra_asset,0.0,664772.54,SIMULATED
+2026-08,2000,Accounts payable - suppliers,liability,0.0,554166.27,SIMULATED
+2026-08,2010,Accounts payable - operating vendors,liability,0.0,75754.59,SIMULATED
+2026-08,2100,Accrued payroll & commissions,liability,0.0,68793.36,SIMULATED
+2026-08,2300,GST collected,liability,0.0,82459.67,SIMULATED
+2026-08,2350,Customer deposits (contract liabilities),liability,0.0,489574.5,SIMULATED
+2026-08,2360,Delivery fees collected for partner carrier (agent),liability,0.0,796.0,SIMULATED
+2026-08,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6347.83,SIMULATED
+2026-08,2400,Income tax payable,liability,0.0,79116.82,SIMULATED
+2026-08,2700,Term loan,liability,0.0,166666.56,SIMULATED
+2026-08,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-08,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-08,4000,Sales - sofas & sectionals,revenue,0.0,2439144.33,SIMULATED
+2026-08,4010,Sales - bedroom,revenue,0.0,1309560.51,SIMULATED
+2026-08,4020,Sales - mattresses & bases,revenue,0.0,654226.47,SIMULATED
+2026-08,4030,Sales - dining,revenue,0.0,1562273.0,SIMULATED
+2026-08,4040,Sales - living & occasional,revenue,0.0,902894.5,SIMULATED
+2026-08,4050,Sales - home office,revenue,0.0,50886.0,SIMULATED
+2026-08,4060,Sales - décor & lighting,revenue,0.0,476008.98,SIMULATED
+2026-08,4100,"Protection-plan commissions (net, agent)",revenue,0.0,33195.62,SIMULATED
+2026-08,4200,Restocking fees,revenue,0.0,8408.51,SIMULATED
+2026-08,4300,Retained cancellation fees,revenue,0.0,14751.6,SIMULATED
+2026-08,4900,Discounts & promotional allowances,contra_revenue,443973.3,0.0,SIMULATED
+2026-08,4910,Sales returns,contra_revenue,56056.74,0.0,SIMULATED
+2026-08,5000,Cost of goods sold - merchandise,cogs,3782123.84,0.0,SIMULATED
+2026-08,5100,"Inventory variances, shrinkage & write-offs",cogs,34840.16,0.0,SIMULATED
+2026-08,5200,Freight-in & supplier charges,cogs,155976.31,0.0,SIMULATED
+2026-08,6000,Wages - sales associates,opex,295925.59,0.0,SIMULATED
+2026-08,6010,Sales commissions,opex,116459.12,0.0,SIMULATED
+2026-08,6020,Interior designer compensation,opex,225220.08,0.0,SIMULATED
+2026-08,6030,Wages - warehouse,opex,163537.83,0.0,SIMULATED
+2026-08,6040,Salaries - management & administration,opex,292511.36,0.0,SIMULATED
+2026-08,6100,Rent,opex,373436.8,0.0,SIMULATED
+2026-08,6105,Common-area & property tax charges,opex,82368.96,0.0,SIMULATED
+2026-08,6110,Utilities,opex,63050.26,0.0,SIMULATED
+2026-08,6200,Marketing & advertising,opex,336090.88,0.0,SIMULATED
+2026-08,6300,Insurance,opex,44994.56,0.0,SIMULATED
+2026-08,6310,Administrative & professional fees,opex,61834.65,0.0,SIMULATED
+2026-08,6320,IT & e-commerce platform,opex,28558.26,0.0,SIMULATED
+2026-08,6400,Warehouse & fulfilment operations,opex,35580.88,0.0,SIMULATED
+2026-08,6410,Design consultation materials & travel,opex,19250.0,0.0,SIMULATED
+2026-08,6420,Card processing fees,opex,80934.63,0.0,SIMULATED
+2026-08,6430,Financing-partner merchant fees,opex,80844.54,0.0,SIMULATED
+2026-08,6900,Depreciation,opex,63742.76,0.0,SIMULATED
+2026-08,7000,Interest - term loan,other_exp,9182.28,0.0,SIMULATED
+2026-08,8000,Income tax expense,tax,79116.82,0.0,SIMULATED
+2026-09,1000,Cash - operating account,asset,1722169.75,0.0,SIMULATED
+2026-09,1100,Card & debit processor receivable,asset,23860.32,0.0,SIMULATED
+2026-09,1110,Financing-partner receivable,asset,15449.2,0.0,SIMULATED
+2026-09,1120,Trade receivables - designer & business accounts,asset,34285.58,0.0,SIMULATED
+2026-09,1200,Inventory - stocked merchandise,asset,505080.18,0.0,SIMULATED
+2026-09,1210,Inventory - allocated to customer orders (custom & reserved),asset,279846.23,0.0,SIMULATED
+2026-09,1300,Prepaid expenses,asset,16872.96,0.0,SIMULATED
+2026-09,1400,GST input tax credits,asset,87100.05,0.0,SIMULATED
+2026-09,1500,Leasehold improvements,asset,533000.0,0.0,SIMULATED
+2026-09,1510,Warehouse equipment & forklifts,asset,193000.0,0.0,SIMULATED
+2026-09,1520,"Showroom fixtures, POS & IT",asset,196000.0,0.0,SIMULATED
+2026-09,1590,Accumulated depreciation,contra_asset,0.0,670785.63,SIMULATED
+2026-09,2000,Accounts payable - suppliers,liability,0.0,428188.68,SIMULATED
+2026-09,2010,Accounts payable - operating vendors,liability,0.0,85812.02,SIMULATED
+2026-09,2100,Accrued payroll & commissions,liability,0.0,68086.0,SIMULATED
+2026-09,2300,GST collected,liability,0.0,123931.81,SIMULATED
+2026-09,2350,Customer deposits (contract liabilities),liability,0.0,495984.1,SIMULATED
+2026-09,2360,Delivery fees collected for partner carrier (agent),liability,0.0,995.0,SIMULATED
+2026-09,2370,Protection-plan premiums payable to insurer (agent),liability,0.0,6390.26,SIMULATED
+2026-09,2400,Income tax payable,liability,0.0,92289.97,SIMULATED
+2026-09,2700,Term loan,liability,0.0,156249.89,SIMULATED
+2026-09,3000,Share capital,equity,0.0,250000.0,SIMULATED
+2026-09,3200,Retained earnings,equity,0.0,658110.56,SIMULATED
+2026-09,4000,Sales - sofas & sectionals,revenue,0.0,2743516.9,SIMULATED
+2026-09,4010,Sales - bedroom,revenue,0.0,1444195.65,SIMULATED
+2026-09,4020,Sales - mattresses & bases,revenue,0.0,705955.38,SIMULATED
+2026-09,4030,Sales - dining,revenue,0.0,1772022.0,SIMULATED
+2026-09,4040,Sales - living & occasional,revenue,0.0,1030786.5,SIMULATED
+2026-09,4050,Sales - home office,revenue,0.0,55462.0,SIMULATED
+2026-09,4060,Sales - décor & lighting,revenue,0.0,532292.87,SIMULATED
+2026-09,4100,"Protection-plan commissions (net, agent)",revenue,0.0,37455.83,SIMULATED
+2026-09,4200,Restocking fees,revenue,0.0,10571.21,SIMULATED
+2026-09,4300,Retained cancellation fees,revenue,0.0,15693.08,SIMULATED
+2026-09,4900,Discounts & promotional allowances,contra_revenue,492454.25,0.0,SIMULATED
+2026-09,4910,Sales returns,contra_revenue,70474.74,0.0,SIMULATED
+2026-09,5000,Cost of goods sold - merchandise,cogs,4233889.32,0.0,SIMULATED
+2026-09,5100,"Inventory variances, shrinkage & write-offs",cogs,42937.06,0.0,SIMULATED
+2026-09,5200,Freight-in & supplier charges,cogs,171944.33,0.0,SIMULATED
+2026-09,6000,Wages - sales associates,opex,332369.63,0.0,SIMULATED
+2026-09,6010,Sales commissions,opex,130400.2,0.0,SIMULATED
+2026-09,6020,Interior designer compensation,opex,254302.92,0.0,SIMULATED
+2026-09,6030,Wages - warehouse,opex,183677.96,0.0,SIMULATED
+2026-09,6040,Salaries - management & administration,opex,329075.28,0.0,SIMULATED
+2026-09,6100,Rent,opex,420116.4,0.0,SIMULATED
+2026-09,6105,Common-area & property tax charges,opex,92665.08,0.0,SIMULATED
+2026-09,6110,Utilities,opex,70159.05,0.0,SIMULATED
+2026-09,6200,Marketing & advertising,opex,381098.83,0.0,SIMULATED
+2026-09,6300,Insurance,opex,50618.88,0.0,SIMULATED
+2026-09,6310,Administrative & professional fees,opex,70224.27,0.0,SIMULATED
+2026-09,6320,IT & e-commerce platform,opex,32519.5,0.0,SIMULATED
+2026-09,6400,Warehouse & fulfilment operations,opex,40174.07,0.0,SIMULATED
+2026-09,6410,Design consultation materials & travel,opex,22550.0,0.0,SIMULATED
+2026-09,6420,Card processing fees,opex,90767.82,0.0,SIMULATED
+2026-09,6430,Financing-partner merchant fees,opex,93567.55,0.0,SIMULATED
+2026-09,6900,Depreciation,opex,69755.85,0.0,SIMULATED
+2026-09,7000,Interest - term loan,other_exp,10078.11,0.0,SIMULATED
+2026-09,8000,Income tax expense,tax,92289.97,0.0,SIMULATED
