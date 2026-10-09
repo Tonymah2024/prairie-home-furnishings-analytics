@@ -1,6 +1,6 @@
 # Deploying the dashboard to Streamlit Community Cloud
 
-Status: **not deployed**. These are the steps; nothing has been pushed or published.
+Status: **deployed 2026-10-09** at <https://prairie-home-furnishings-bi.streamlit.app> from the public repository <https://github.com/Tonymah2024/prairie-home-furnishings-analytics> (built by `scripts/build_public_repo.py`, which excludes and scrubs files naming the real retailer).
 
 1. **Decide the public scope.** The app shows only the fictional "Prairie Home Furnishings" and synthetic data. The research notes, pilot proposal and
    demonstration guide name the retailer Furniture. If the repository will be public, leave out `docs/business_understanding.md`,

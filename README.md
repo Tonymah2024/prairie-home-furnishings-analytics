@@ -46,7 +46,7 @@ uv pip install -p .venv/bin/python -r requirements.txt
 .venv/bin/streamlit run dashboard/app.py         # http://localhost:8501
 ```
 PDFs are rendered with a locally installed Google Chrome / Edge / Chromium (headless). If Microsoft Excel is installed (macOS), the pipeline also
-recalculates the Excel model in Excel and checks it against the Python engine. Deployment: see `docs/deployment_streamlit_cloud.md` (not yet deployed).
+recalculates the Excel model in Excel and checks it against the Python engine. Live demo: <https://prairie-home-furnishings-bi.streamlit.app> · deployment notes: `docs/deployment_streamlit_cloud.md`.
 
 ## Accounting policy in one paragraph
 

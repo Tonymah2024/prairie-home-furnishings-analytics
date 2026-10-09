@@ -16,7 +16,7 @@ from src.reporting.pdf import CSS, img, money, page, render_pdf, tbl
 
 FIN = [BRAND["brand"], BRAND["teal"], BRAND["accent"], BRAND["warn"]]
 UP, DOWN, TOT = BRAND["teal"], BRAND["bad"], BRAND["navy"]
-DEMO_URL = "[Streamlit Community Cloud URL - added after deployment]"
+DEMO_URL = "https://prairie-home-furnishings-bi.streamlit.app"
 
 
 def t(name, **kw):
