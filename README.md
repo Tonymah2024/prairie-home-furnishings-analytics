@@ -2,6 +2,10 @@
 
 **Demonstration developed by VisiVault Analytics Ltd.** · October 2026
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prairie-home-furnishings-bi.streamlit.app)
+
+**▶ Live dashboard: <https://prairie-home-furnishings-bi.streamlit.app>**
+
 > ⚠ **Synthetic demonstration data — not actual company financial or operational records.**
 > *Prairie Home Furnishings* is a **fictional** Calgary furniture retailer. Product categories, manufacturers and CAD list prices reflect the public online
 > catalogue of a Calgary furniture retailer (retrieved 2026-10-09), and the simulation follows that retailer's publicly described policies.
